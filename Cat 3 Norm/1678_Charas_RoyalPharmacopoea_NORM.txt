@@ -1,0 +1,1149 @@
+﻿[^Charas, Moyse: Royal pharmacopoea^] 
+ 
+[}THE 
+Royal Pharmacopœa; 
+GALENICAL 
+AND 
+<replaced orig="CHYMICAL">CHEMICAL</replaced>, 
+According to the 
+PRACTICE 
+Of the Most Eminent and Learned 
+<replaced orig="PHYSITIANS">PHYSICIANS</replaced> 
+OF 
+FRANCE, 
+And <replaced orig="Publish'd">Published</replaced> with their several Approbations. 
+ 
+By MOSES CHARRAS, the Kings Chief 
+Operator in his Royal Garden of Plants. 
+ 
+Faithfully Englished. 
+ 
+Illustrated with several Copper Plates. 
+ 
+LONDON: 
+Printed for John Starkey at the <replaced orig="Miter">Mitre</replaced> within 
+Temple-Bar, and Moses Pitt at the Angel 
+in St. <replaced orig="Pauls">Pals</replaced> Church-Yard, 1678.}] 
+ 
+[^Omitted a series of approbations and lists of medical books printed by John Starkey and Moses Pitt, as well as the first part, dealing with the principles, methods and tools of the apothecary, and the order and method of the second part.^] 
+[^Extract 1, pp. 52-66^] 
+ 
+[^p.52^] 
+[}THE 
+FIRST BOOK, 
+OF 
+INTERNAL PREPARATIONS, 
+AND 
+COMPOSITIONS.}] 
+ 
+[}CHAP. I. 
+Of Juices.}] 
+ 
+I Shall not here stay upon Juices or Liquors which may be drawn out of Animals, 
+as Blood, <replaced orig="Flegm">Phlegm</replaced>, Urine, Serosities, Sweat, &c. Nor upon those which may be 
+drawn from their parts by assation, pressing, or otherwise, as the Gravies, and 
+Liquors of Meats, &c. Nor upon such as are to be drawn from the stock of Minerals, 
+as <replaced orig="Oyl">Oil</replaced> of Petroleum, or Naphta, and several bituminous matters, but only upon 
+the Juices of Plants. 
+ 
+The Juice is the same in Plants, as the blood in Animals: and it may be <replaced orig="defin'd">defined</replaced> to 
+be a liquid substance, which making a part of the composition of Plants, communicates 
+to the rest of the parts, that which is necessary for their support, as also for their 
+growth. This Juice issues out sometimes of it self, sometimes it is drawn forth by incision, 
+or some other way more artful. This Juice is more or less liquid, according to 
+the several concoctions which it has received from Nature, either in the Plant, or above 
+or without the Plant. It is sometimes <replaced orig="Watry">Watery</replaced>, sometimes Winy, sometimes <replaced orig="Oyly">Oily</replaced>, 
+Gummy, Rosiny, Bituminous. It is also sometimes sweet, sometimes bitter, eager, 
+sharp, insipid. And as sometimes it has no scent, sometimes it is odoriferous, sometimes 
+it stinks, sometimes it is black, sometimes white, green, blew, yellow, red, &c. It 
+is also more or less abounding, according to the Nature and condition of the Plant. 
+Sometimes it is so inwardly united, and so profoundly <replaced orig="conceal'd">concealed</replaced> among the other substances, 
+as not to be <replaced orig="perceiv'd">perceived</replaced> by the ordinary senses, nor be <replaced orig="distinguish'd">distinguished</replaced> but by separating 
+it by the means of fire. Such are the Juices or Liquors which issue from the 
+dryer sort of Woods in Distillation, as also the Juices drawn from the Horns and 
+bones of Animals, though seemingly very dry. The Juice is also sometimes <replaced orig="mix'd">mixed</replaced> with 
+[^p.53^] 
+substances so viscous, and tenacious, though soft, that it cannot be separated but by the 
+means of fire. Nevertheless, these juices are not to be taken barely and purely, for 
+that part which I have called <replaced orig="Flegm">Phlegm</replaced>, and which I have <replaced orig="acknowledg'd">acknowledged</replaced> for one of the five 
+principles, of which every <replaced orig="mixt">mixed</replaced> body ought to be <replaced orig="compos'd">composed</replaced>; for sometimes they themselves 
+are <replaced orig="compos'd">composed</replaced> of some or other of the other principles, which is <replaced orig="easie">easy</replaced> to prove 
+by the separation which the Artist may make thereof. 
+ 
+In which respect, I am not of the opinion of those that make the Juices, which issue 
+out of Plants of themselves, to be Excrements. For then the most essential part of the 
+Plant would be taken for an Excrement; and if it were an Excrement, it ought to be 
+rejected. And yet we gather very carefully, purchase very dear, and use to good advantage 
+these pretended Excrements, as Myrrh, Bdellium, Tacamahacca, Storax, Benjamin, 
+Natural-balsom, and several others which the Plants throw out of their barks, and which 
+cannot but be accounted the best part of their composition. But now of those Juices 
+that are to be <replaced orig="prepar'd">prepared</replaced>, and depend upon the skill of the Apothecary. 
+ 
+These Juices are drawn almost from all parts of the Plants; some by cutting the 
+bark, to be afterwards <replaced orig="dry'd">dried</replaced> in the Sun, as are the Juices of Scammony, Aloes and Poppy: 
+Others by bruising and pressing. Thus as well <replaced orig="Oyls">Oils</replaced> as Aqueous Juices, are drawn 
+from several Herbs and several Flowers; several Fruits and several Seeds. Such are the 
+Juices of Carduus, Endive, <replaced orig="Succorie">Succory</replaced>, Burrage, Bugloss, &c. for Herbs. The Juices 
+of Roses, Violets, Peach-flowers, red Poppies, &c. for Flowers. The Juices of Mulberries, 
+Apples, Cherries, red Goose-berries, Barberries, &c. for Wine-Fruits. The 
+Juices of Olives, Walnuts, Small-nuts, Almonds, Pine-apples, Pistaches, &c. for Oily 
+Fruits. The Juices of the four greater cold Seeds, as also from the Seeds of Poppies, 
+Danewort, Henbane, Marjoram, &c. for Oily Seeds. The other Juices are drawn by 
+the addition of some Liquor; which cannot be avoided when the parts of the Plant are 
+dry by accident, or that they have not moisture enough in themselves. Such are the 
+Juices of Senna, Rhubarb, Angelica, Liquorice, Hellebore, &c. which are drawn forth 
+by the addition of Liquor, and which being <replaced orig="filter'd">filtered</replaced>, are evaporated over a small fire; 
+to the consistency of an Extract, of which they bear the name, and of which I shall speak 
+in the Third Part of this Pharmacopœa. 
+ 
+Generally we bruise in a Marble-Mortar, or made of some hard-stone, with a Pestle 
+of Wood, the Herbs, the Flowers, the Fruits, the Seeds, out of which we intend to 
+draw the Juices, and then put them into a strong Cloth, or Bag, and squeeze out the 
+Juice, either with your hands, or in a Press between two flat-pieces of Tin, Iron, or 
+Wood. Then we let the Juice stand for some days, or else we expose it some days to the 
+Sun; and then we pour out the clearest softly by inclination; and keep it so, or else 
+strain it through Hippocrates breeches; or through some cloth-strainer, if the Juice be 
+not clear enough, or if it be aqueous. The Juices of Herbs which are to be first made 
+use of, or which ought to be <replaced orig="clarify'd">clarified</replaced> and <replaced orig="boil'd">boiled</replaced> with Sugar, or honey, or to be <replaced orig="mingl'd">mingled</replaced> 
+and <replaced orig="boil'd">boiled</replaced> with <replaced orig="Oyntments">Ointments</replaced>, and <replaced orig="Emplaisters">Plasters</replaced>, have no need of all this care. But the 
+Wine-Juices of Fruits must be well-clarify'd. For they must first be <replaced orig="expos'd">exposed</replaced> to the Sun, 
+then <replaced orig="strain'd">strained</replaced>, to the end that by that heat and digestion, and by that straining the grosser 
+parts of the Juice may be separated from the pure. These Juices are to be run 
+through a bag, or rather through brown-paper, and they may be <replaced orig="boil'd">boiled</replaced> up with 
+Sugar or honey, or be kept in bottles <replaced orig="fill'd">filled</replaced> up within a small matter of the top; which 
+vacancy must be <replaced orig="fill'd">filled</replaced> with <replaced orig="Oyl">Oil</replaced> of sweet Almonds, to hinder the air from getting in 
+and <replaced orig="putrifying">putrefying</replaced> the Juice. However, after that, be careful to stop the bottles well, and 
+to keep them in a place moderately cool, to make use of as occasion serves: At which 
+time pour away the <replaced orig="Oyl">Oil</replaced>, and make use of the pure Juice, throwing away the feces. 
+The Juices of Roses, and Peach-flowers, require the same care as the Wine-Juices. 
+ 
+Take notice that in drawing forth Acid red Juices, particularly that of <replaced orig="Granates">Granites</replaced>, 
+you must do it in Glass-Vessels, or Gally-pots, or of <replaced orig="glaz'd">glazed</replaced> Earth, have your hands very 
+clean, and take an especial care that no Iron come near it, for fear of spoiling the 
+colour. The Juice and also the Syrup of Kermes require the same care, for they lose 
+their colour in Vessels of Iron or Copper. 
+ 
+To draw forth the Juice of certain viscous Plants, such as are <replaced orig="Purslain">Purslane</replaced>, Burrage, 
+Bugloss, and the like, the best way which I have found, is to put them whole into a 
+Copper-Bason, tinn'd within, over a moderate Charcoal-fire, and there to keep them, 
+stirring them from time to time, till some part of the Juice be got together at the bottom 
+of the <replaced orig="Bason">Basin</replaced>. Then separate this Juice by inclination; and set the <replaced orig="Bason">Basin</replaced> again upon 
+the fire, and continue to keep it there and to stir the herbs, and to separate the Juice 
+[^p.54^] 
+by inclination, till you have Juice enough. By this means you will have less trouble, 
+have sooner done, and the Juice shall be much more pure, then by bruising the Herbs. 
+I refer the Oylie-juices of Fruits and Seeds till I come to speak of Squeez'd-oyls. 
+ 
+[}CHAP. II. 
+Of Infusions, and Decoctions.}] 
+ 
+I Thought it best to discourse of Infusions and Decoctions <replaced orig="immediatly">immediately</replaced> after Juices, 
+by means whereof the more succulent and essential parts of Medicaments are imparted 
+to the Liquors. Besides, Decoctions and Infusions are made use of in so many 
+Galenical Compositions, that I <replaced orig="deem'd">deemed</replaced> it convenient to give some general Rules, before 
+I go any farther. They are sometimes made use of to soft'n and <replaced orig="boyl">boil</replaced> Medicaments, 
+and sometimes to take away or correct some bad quality: but their chiefest use 
+is to communicate their <replaced orig="Vertue">Virtue</replaced> to some Liquor, and to unite and assemble in one Liquor 
+the <replaced orig="Vertue">Virtue</replaced> of several Medicaments <replaced orig="joyn'd">joined</replaced> together. 
+ 
+Infusions differ from Decoctions in degree of heat, and time in <replaced orig="boyling">boiling</replaced>. For Infusions 
+are oft-times made without fire: and when there is any need of it, it must be 
+very moderate, and require a long time; sometimes for several hours, sometimes for 
+several days. Whereas Decoctions are at an end in a quarter, half, or a whole hour, 
+and that the longest seldom exceed five or six hours. I have <replaced orig="joyn'd">joined</replaced> these two Preparations 
+together, by reason of the great affinity which they have one with another; 
+and for that many times Infusions precede Decoctions. 
+ 
+Decoctions differ according to the Substance of the Mixt-body which you are to 
+<replaced orig="boyl">boil</replaced>. For such Mixt-bodies as are of a compact substance and hard to penetrate, require 
+a longer <replaced orig="boyling">boiling</replaced>, then they that are of a middling substance; and these again 
+require more <replaced orig="boyling">boiling</replaced> then those that are of a tender substance. The same diversity 
+of Substances requires also less or more Liquor. For there must be more for Medicaments 
+that require long <replaced orig="boyling">boiling</replaced>, then for those that require less: For a long Decoction 
+requires much moisture. The ordinary proportion is six times the weight of 
+Liquor to the Substance <replaced orig="boyl'd">boiled</replaced>. But if the matters be of a compacted substance, you 
+may make use of eight, nine or ten times the weight in Liquor. And if the Substances 
+are very solid indeed, you may advance to twelve or sixteen times the weight of Liquor. 
+You must also take notice that Medicaments of a compact Substance will endure a more 
+violent fire and longer <replaced orig="boyling">boiling</replaced> then those of a middling or a tender Substance: and some 
+there are which are not put into the Decoction, till you are ready to take it off the 
+fire. Others there are which have only need of a bare Infusion to communicate their 
+<replaced orig="Vertue">Virtue</replaced> to the Liquor. So that it is absolutely necessary for an Apothecary to know the 
+various Substances of Medicaments, to judge by that how he ought to regulate their Infusion 
+or Decoction; because that Prescriptions never mention the regulation of the 
+Decoction, nor the degrees of fire, nor the length of time requisite for the Decoction, 
+which is all left to the prudence of the Apothecary. 
+ 
+And now to proceed in order; When you are to make a Decoction of several Medicaments, 
+you must begin with the most solid, such as are Woods, then put in Roots 
+and Barks, after that Fruits; next to them Herbs, Berries and Seeds; Flowers must be 
+<replaced orig="reserv'd">reserved</replaced> to the last. You must rasp, or bruise or cut very small the Woods, Roots and 
+Barks, slit the Fruits, chop the Herbs, and bruise the Berries and Seeds, and put in the 
+Flowers as they are. 
+ 
+This Rule however is not so general but that it may have its exception. For a wood 
+of a thin and spungie Substance requires less <replaced orig="boyling">boiling</replaced> then a wood more close and solid. 
+Barley whole endures as much <replaced orig="boyling">boiling</replaced> as wood. On the other side Aromatic-roots 
+and woods will not endure long <replaced orig="boyling">boiling</replaced>; but the better parts will dissipate. Barks, 
+Fruits and Aromatic-seeds, require only a bare Infusion. Liquorice-root is put in after 
+the Herbs. The Maidenhairs, or Capillaries, at the same time with the Liquorice or 
+immediately after. The Cold-seeds at the same time as the Flowers. The Flowers of 
+the Water-Lilly endure as much <replaced orig="boyling">boiling</replaced> as the Herbs. 
+ 
+You must observe the same order in the Decoctions of Animals; for the Horns and 
+Bones require longer <replaced orig="boyling">boiling</replaced> then the Flesh. Beef requires more <replaced orig="boyling">boiling</replaced> then Mutton, 
+Mutton then Veal or Capon, and both more then young Pullet. 
+ 
+[^p.55^] 
+These general Rules will be much more demonstrable in the progress of these Discourses. 
+And though the various examples of Decoction which you will meet with, 
+might suffice, I will not omit to give you here certain Examples, which will serve for 
+certain Decoctions, which have been <replaced orig="prescrib'd">prescribed</replaced> without putting down the Medicaments 
+of which they ought to be <replaced orig="compos'd">composed</replaced>. 
+ 
+[}A Cordial Decoction.}] 
+ 
+[^Beginning of a list in two columns.^] 
++R. Hordei integri, 
+Radicum Scorzoneræ, 
+Borraginis, 
+Bugloss. ana. +o j. 
+ 
+Foliorum earundem Plantarum 
+Endivia, 
+Cichorei, 
+Oxytriphylli, an. M. j. 
+ 
+Capilli Veneris Monspeliensis, M. +s. 
+Liquoritiæ rasæ, +Q <replaced orig="ij">ii</replaced>. 
+ 
+Quatuor Seminum Frigid. maj. mundat. 
+ana. +Q +s. 
+ 
+Trium Florum cordialium, ana. Pug. +s. 
+ 
+Fiat ex Arte decoctum in lb sex aquæ fontanæ 
+ad tertiæ partis consumptionem. 
+ 
+[^A column change.^] 
++R. Whole Barley, 
+Roots of Vipers-grass, 
+<replaced orig="Borrage">Borage</replaced>, 
+Bugloss, ana. +o j. 
+ 
+Of the Leaves of the same Plants, 
+Endive, 
+<replaced orig="Succorie">Succory</replaced>, 
+Wood-Sorrel, an. M. j. 
+ 
+Maidenhair of Montpelier, M. +s. 
+Liquorice <replaced orig="slic'd">sliced</replaced>, +Q <replaced orig="ij">ii</replaced>. 
+ 
+The four greater Cold Seeds <replaced orig="cleans'd">cleansed</replaced>, 
+ana. +Q +s. 
+ 
+The three Cordial Flowers, ana. Pug. +s. 
+ 
+Make a Decoction according to Art in six 
+pints of Fountain-water, till the third 
+part be <replaced orig="consum'd">consumed</replaced> 
+[^End of a list in two columns.^] 
+ 
+Wash the Barley and <replaced orig="boyl">boil</replaced> it a good quarter of an hour in the water, then put in the 
+Roots; which must be well-wash'd, the pith tak'n out, and the out-side par'd off, and 
+then <replaced orig="slic'd">sliced</replaced>. <replaced orig="Boyl">Boil</replaced> them with the Barley a good quarter of an hour, then put in the 
+leaves of the Viper-grass, Burrage, Bugloss, Endive and <replaced orig="Succorie">Succory</replaced>, well-wash'd and 
+cut. After you have <replaced orig="boyl'd">boiled</replaced> them a small quarter of an hour, with all the rest, add 
+the Liquorice <replaced orig="scrap'd">scraped</replaced> and <replaced orig="slic'd">sliced</replaced>, the Wood-Sorrel, and the Venus-hair slightly cut; let 
+them <replaced orig="boyl">boil</replaced> a little, then put in the cold Seeds well-bruis'd and the cordial Flowers, and 
+having <replaced orig="plung'd">plunged</replaced> them into the Decoction, take the Posset from off the fire, and strain 
+the Liquor through Hippocrates's Breeches or a Wooll'n-cloth, when it is half-cold. 
+ 
+[}A Pectoral Decoction.}] 
+ 
+[^Beginning of a list in two columns.^] 
++R. Hordei mundati, +o +s. 
+Jujubarum, 
+Sebesten. an. N=o=. xij. 
+Passularum ab acinis purgatarum, +Q vj. 
+Ficus pingues, 
+Dactylos enucleatos, an.N=o=. vj. 
+[^Beginning of a list figure.^] 
+Foliorum Scabiosæ, 
+[^Foliorum^] Pulmonariæ, an. M. j. 
+[^Foliorum^] Hyssopi, 
+[^Foliorum^] Polytrichii, 
+[^End of a list figure.^] 
+Florum Tussilaginis, an. P. j. 
+Glycyrrhizæ, +Q <replaced orig="ij">ii</replaced>. 
+[^A column change.^] 
++R. <replaced orig="Cleans'd">Cleansed</replaced> Barley, +o +s. 
+Jujubs, 
+Sebestens, an. N=o=. xij. 
+Raisins of the Sun <replaced orig="ston'd">stoned</replaced>, +Q vj. 
+Fat Figs, 
+<replaced orig="Ston'd">Stoned</replaced> Dates, an. N=o=. vj. 
+Of the Leaves of Scabious, 
+[^Beginning of a list figure.^] 
+[^Of the Leaves of^] Lung-wort, an. M. 1. 
+[^Of the Leaves of^] <replaced orig="Hysop">Hyssop</replaced>, 
+[^Of the Leaves of^] Gold'n-Maidenhair, 
+[^End of a list figure.^] 
+Flowers of Coltsfoot, an. P. j. 
+Liquorice, +Q <replaced orig="ij">ii</replaced>. 
+[^End of a list in two columns.^] 
+ 
+Make a Decoction in four pints of Fountain-water to the consumption of the third 
+part. <replaced orig="Boyl">Boil</replaced> the Barley a good quarter of an hour in the Water, then put in the Dates, 
+the Raisins of the Sun, the Figs, the Jujubs and the Sebestens <replaced orig="slic'd">sliced</replaced>. <replaced orig="Boyl">Boil</replaced> all these 
+Fruits with the Barley for another quarter of an hour; then put in the Scabious; Lung-wort 
+and Hyssop cut: <replaced orig="boyl">boil</replaced> them another quarter of an hour; after which, put in the 
+Liquorice <replaced orig="scrap'd">scraped</replaced> and <replaced orig="slic'd">sliced</replaced>, the Golden-Maidenhair, and the Flowers of Coltsfoot; 
+give them a little <replaced orig="boyling">boiling</replaced>, and then take them off from the fire, and strain the Decoction, 
+when it is half cold. 
+ 
+[^p.56^] 
+[}An Opening Hepatic Decoction.}] 
+ 
+[^Beginning of a list in two columns.^] 
+[^Beginning of a list figure.^] 
++R. Radicum quinque aperientium, 
+[^Radicum^] Fragariæ, 
+[^Radicum^] Bugloss. an. +Q vj. 
+Foliorum Endiviæ, 
+[^Foliorum^] Cichorei, 
+[^Foliorum^] Lupuli, 
+[^Foliorum^] Agrimoniæ, 
+[^Foliorum^] Pimpinellæ, 
+[^Foliorum^] Cerefolii, 
+[^Foliorum^] Taraxaci, an. M.j. 
+[^Foliorum^] Capilli Veneris Monspel. 
+[^Foliorum^] Polytrici, an. M. +s. 
+Seminis Apis, 
+[^Seminis^] Milii Solis, an. +Q <replaced orig="ij">ii</replaced>. 
+Semin. quatuor frig. Maj. <replaced orig="mund">monday</replaced>. an. +Qj. 
+	Glycyrrhizæ, +Q <replaced orig="ij">ii</replaced>. 
+Florum <replaced orig="Buglossi">Bugloss</replaced>, 
+[^Florum^] Borraginis, 
+[^Florum^] Genistæ, an. Pug. j. 
+[^End of a list figure.^] 
+[^End of a list figure.^] 
+[^A column change.^] 
++R. Of the five Opening Roots, 
+Strawberrie-roots, 
+Bugloss-roots, an. +Q vj. 
+[^Beginning of a list figure.^] 
+Leaves of Endive, 
+[^Leaves of^] <replaced orig="Succorie">Succory</replaced>, 
+[^Leaves of^] Hopps, 
+[^Leaves of^] Agrimonie, 
+[^Leaves of^] Pimpernel, 
+[^Leaves of^] Chervil, 
+[^Leaves of^] <replaced orig="Dandelyon">Dandelion</replaced>, an. M. j. 
+[^Leaves of^] Venus Maidenhair of Montpelier, 
+[^Leaves of^] Golden-Maidenhair, an. M. +s. 
+Seeds of Parsley, 
+[^Seeds of^] <replaced orig="Gromel">Gromwell</replaced>, an. +Q <replaced orig="ij">ii</replaced>. 
+The 4 bigger cold Seeds <replaced orig="cleans'd">cleansed</replaced>, an. +Qj. 
+	Liquorice, +Q <replaced orig="ij">ii</replaced>. 
+Flowers of Bugloss, 
+[^Flowers of^] <replaced orig="Borrage">Borage</replaced>, 
+[^Flowers of^] Broom, an. Pug. j. 
+[^End of a list figure.^] 
+[^End of a list in two columns.^] 
+ 
+Make a Decoction according to Art in lb viij. of Fountain-water, to the consumption 
+of the third part. 
+ 
+Wash the Roots well, take out the pith and scrape their outsides, and having <replaced orig="bruis'd">bruised</replaced> 
+and <replaced orig="slic'd">sliced</replaced> them, let them <replaced orig="boyl">boil</replaced> half an hour in the Water. Then take the Hopps, the 
+Endive, <replaced orig="Succorie">Succory</replaced>, Agrimonie, <replaced orig="Dandelyon">Dandelion</replaced>, Pimpernel and Chervil shred, and let them 
+<replaced orig="boyl">boil</replaced> about a quarter of an hour with the Roots. Then add the Seeds of Parsley and 
+<replaced orig="Gromel">Gromwell</replaced> <replaced orig="stamp'd">stamped</replaced>, and having let them <replaced orig="boyl">boil</replaced> never so little, put in the Liquorice <replaced orig="slic'd">sliced</replaced> 
+and <replaced orig="bruis'd">bruised</replaced>, and presently after the cold Seeds <replaced orig="bruis'd">bruised</replaced> and the Flowers; put them 
+down into the Decoction, and at the same time take it off, and strain it when it is 
+half cold. 
+ 
+[}A Cephalic Decoction.}] 
+ 
+[^Beginning of a list in two columns.^] 
+[^Beginning of a list figure.^] 
++R. Radicum Valerianæ majoris, 
+[^Radicum^] Icreos Florentinæ, 
+[^Radicum^] Pæoniæ maris, 
+[^Radicum^] Acori <replaced orig="veri">very</replaced>, 
+Visci Quercini, an +o +s. 
+Foliorum Betonicæ, 
+[^Foliorum^] Salviæ, 
+[^Foliorum^] Majoranæ, 
+[^Foliorum^] Calaminthæ Montanæ, 
+[^Foliorum^] Chamadryos, an. M. j. 
+Seminum Rutæ, 
+[^Seminum^] Pæoniæ maris, 
+Baccarum Juniperi, an. +Q <replaced orig="ij">ii</replaced>. 
+Florum Rorismarini, 
+[^Florum^] Stoechados, 
+[^Florum^] Lavendulæ, 
+[^Florum^] Calendulæ, 
+Lillii Convallium, an. P. j. 
+Tartari <replaced orig="crudi">crude</replaced>, +o j. 
+[^A column change.^] 
++R. Roots of the bigger Valerian, 
+[^Roots of^] Florence Orrice, 
+[^Roots of^] Male-Peonie, 
+[^Roots of^] The true Aromatical Reed, 
+<replaced orig="Misleto">Mistletoe</replaced> of the Oak, an. +o +s. 
+Flowers of Betony, 
+[^Flowers of^] Sage, 
+[^Flowers of^] Marjoram, 
+[^Flowers of^] Mountain-Calamint, 
+[^Flowers of^] Germander, an. M.j. 
+Seeds of Rue, 
+[^Seeds of^] Male-Peonie, 
+[^Seeds of^] Juniper-Berries, an. +Q <replaced orig="ij">ii</replaced>. 
+Flowers of Rosemary, 
+[^Flowers of^] Cassidonie, 
+[^Flowers of^] Lavender, 
+[^Flowers of^] Marigolds, 
+<replaced orig="Lillies">Lilies</replaced> of the <replaced orig="Vallies">Valleys</replaced>, an. P. j. 
+Raw-Tartar, +oj. 
+[^End of a list figure.^] 
+[^End of a list in two columns.^] 
+ 
+Make a Decoction according to Art in lb vj. of Fountain-water to the consumption 
+of the fourth part. 
+ 
+The Raw-Tartar is <replaced orig="prescrib'd">prescribed</replaced> in this Decoction, as well to communicate to the Water 
+the <replaced orig="vertue">virtue</replaced> of the Medicaments therein <replaced orig="prescrib'd">prescribed</replaced>, as to retain in some sort their 
+volatile parts; and to prevent dissipation during the Decoction. And though I do not 
+contradict the opinion of those that would avoid <replaced orig="boyling">boiling</replaced> the parts of Aromatic Plants, 
+especially in <replaced orig="uncover'd">uncovered</replaced> Vessels; nevertheless I believe we may yet allow something to 
+[^p.57^] 
+the ancient Customs, provided there be requisite care tak'n. The Roots of <replaced orig="Peonie">Peony</replaced>, 
+Valerian, Orrice and Acorus are to be well <replaced orig="bruis'd">bruised</replaced>, as also the <replaced orig="Misletoe">Mistletoe</replaced> of the Oak, 
+and the raw Tartar, and then put into an Earthen <replaced orig="glaz'd">glazed</replaced> pot, with the quantity of 
+water <replaced orig="prescrib'd">prescribed</replaced>: and having <replaced orig="cover'd">covered</replaced> the pot, <replaced orig="boyl">boil</replaced> the Decoction over a gentle fire, 
+during a small quarter of an hour; then put in the cut Herbs, and covering the pot, let 
+them boil a quarter of an hour longer: then put in the berries and seeds, and cover the 
+pot again, and after having given them four or five wambles more, put down the flowers 
+into the Decoction, cover the pot, and take it off from the fire; and when it is half 
+cold, strain it gently from the sediment. 
+ 
+[}CHAP. III. 
+Of Juleps, and <replaced orig="Apozems">Apophthegms</replaced>.}] 
+ 
+I Shall not go about here to set down the Juleps of Roses, and Violets of the Ancients, 
+nor any other of the same Nature, as being now out of use; their consistency and 
+name being now <replaced orig="chang'd">changed</replaced> into those of Syrups. I shall only say that the name of Julep 
+has been formerly given to certain liquid compositions, made with <replaced orig="distill'd">distilled</replaced> Waters, 
+or slight Decoctions, which are <replaced orig="boil'd">boiled</replaced> with Sugar, to a consistency much thinner 
+then that of Syrups: For they had no design to keep them, but <replaced orig="prepar'd">prepared</replaced> them as they 
+had occasion. The name of Julep is still now-a-days <replaced orig="giv'n">given</replaced> to certain Remedies, which 
+have some agreement with the Juleps of the Ancients; but they are less <replaced orig="sweetn'd">sweetened</replaced> with 
+Sugar, and less fit to keep: For usually they never put above an ounce of Sugar, or an 
+ounce and a half of some Syrups, to six or eight ounces of some <replaced orig="distill'd">distilled</replaced> Waters, of 
+some decoction, or some other Liquor. We never boil these Liquors with the Sugar 
+or Syrups, but only mingle them together when they are to be given to the patient, 
+who may drink them as their ordinary drink, abating some thing of the quantity of Sugar 
+and Syrups <replaced orig="mix'd">mixed</replaced> therewith. All these Juleps may be made tart with Spirits or Acid 
+Juices. But they will not keep above twenty-four hours in the Summer in a cool 
+place, and not above two or three days in the Winter. 
+ 
+<replaced orig="Apozems">Apophthegms</replaced> are Medicines very near the Nature of Juleps: But they admit of a greater 
+Number of Medicaments, which render them less pleasing. They are seldom <replaced orig="compos'd">composed</replaced> 
+of any thing but the Decoctions of the various parts of plants. And hence it 
+is, that they have <replaced orig="deriv'd">derived</replaced> their Name. For the Greek word [^GREEK OMITTED^], signifies to 
+boil, from whence [^GREEK OMITTED^], Decoctum, or, a thing <replaced orig="boil'd">boiled</replaced>. I could insert here several 
+Examples, but I refer the Reader to the Decoctions of the preceding Chapter, which 
+may be <replaced orig="call'd">called</replaced> <replaced orig="Apozems">Apophthegms</replaced>. We may add purgative Medicines to these Decoctions, 
+and dissolve therein several Syrups, as they are intended for this or t'other Disease. 
+ 
+[}CHAP. IV. 
+Of Emulsions and Almond-Milks.}] 
+ 
+EMulsions are liquid Medicines very pleasing to the taste, whose colour and consistency 
+is very like to that of Milk. They are usually <replaced orig="compos'd">composed</replaced> of Seeds, or Oily 
+Fruits, beat'n in a Marble-Mortar, with a Woodd'n-pestle, and then <replaced orig="dissolv'd">dissolved</replaced> in <replaced orig="distill'd">distilled</replaced> 
+Waters, or in slight Decoctions, which you must strain and press out, and 
+sweeten with Sugar or Syrups. 
+ 
+Emulsions are <replaced orig="prepar'd">prepared</replaced> for several purposes, especially to temper the excessive heat of 
+the Lungs, and of all the <replaced orig="Brest">Breast</replaced>; to take off the sharpness and acrimony of the humours, 
+and to <replaced orig="asswage">assuage</replaced> the boiling of the Blood, the heat of the Urine, and the Reins. For which 
+reason they are <replaced orig="us'd">used</replaced> not only in stoppages of the Urine, and in Gonorrhea's, but also in 
+Inflammations of the Natural parts of those that are <replaced orig="troubl'd">troubled</replaced> with Venereal Distempers. 
+They are also successfully <replaced orig="us'd">used</replaced> to temper the excessive heat of the Entrails, and to provoke 
+sleep and rest. Emulsions are also very proper to sweet'n the Acrimony of the 
+Humours in Dysenteries, to <replaced orig="asswage">assuage</replaced> pains, and heal Excoriations. Of all which 
+[^p.58^] 
+things it will be convenient to give some examples; and first, for the Distempers of the 
+Lungs, and <replaced orig="Brest">Breast</replaced>. 
+ 
+[^Beginning of a list in two columns.^] 
++R Amygdal. dulcium <replaced orig="mund">monday</replaced>. +o j. 
+Seminum 4. frig. maj. Mundat. 
+Bombacis, an. +o <replaced orig="ij">ii</replaced>. 
+ 
+Contundantur in Mortareo Marmoreo 
+Pestillo Ligneo, sensim affundendo, aqua Tussilaginis, 
+Scabiosæ, Papaveris, Rhœados, vel 
+decocti hordei, Passularum Mundat. & 
+Liquoritiæ, lb j +s. Colentur & Exprimantur. 
+Expressioni <replaced orig="adde">add</replaced> <replaced orig="Syr">Sir</replaced>. Violar. et Capill. Veneris, 
+an. +o j +s. fiat emulsio pro tribus dosibus, 
+<replaced orig="longe">long</replaced> a pastu sumend. 
+ 
+[^A column change.^] 
++R Sweet Almonds <replaced orig="cleans'd">cleansed</replaced>, +o j. 
+The four greater cold Seeds <replaced orig="cleans'd">cleansed</replaced>, 
+	Bombax, an. +Q <replaced orig="ij">ii</replaced>. 
+ 
+Bruise these in a Marble-Mortar, with a 
+Woodd'n Pestle, pouring by little and little 
+upon them, Colts-foot, Scabious, wild 
+Poppy-water, or decoction of Barley, 
+Ston'd-Raisins, and Liquorice, lb j. +s, 
+strain and press them out. To the liquor 
+<replaced orig="prest">pressed</replaced> forth, add Syrup of Violets and Venus-hair, 
+an. +o j. +s. Make an emulsion for 
+three doses to be taken a good distance before 
+or after Meals. 
+[^End of a list in two columns.^] 
+ 
+If Acrimony of humours, boiling of the blood, want of rest and sleep, accompany 
+Diseases of the Lungs and <replaced orig="brest">breast</replaced>, you may add to the Emulsions two drams of white 
+Poppy-seed, and as much Lettice-seed, and change the Syrup of Violets, and Venus-hair 
+into those of White-poppy and Water-Lillies. 
+ 
+And if you would prepare Emulsions against the heat and difficulties of Urine, whether 
+<replaced orig="caus'd">cause</replaced> by strange substances <replaced orig="contain'd">contained</replaced> in the Reins, or in the Ureters, or in the bladder, 
+or through any ill temper of the parts, or through any Venereal Malignity: then 
+observe what follows. 
+ 
+[^Beginning of a list in two columns.^] 
++R. Seminum 4. frig. maj. mundat, 
+Milii solis 
+Papav. Alb. an. +Q <replaced orig="iij">iii</replaced> 
+ 
+Contundantur in Marmoreo Mortareo, sensim 
+affundendo, Decocti Radicum Altheæ et 
+Nymphaæ, lb j. +s. Colentur & Exprimantur: 
+Expressioni <replaced orig="adde">add</replaced> Syrupi de Althea & Nymphæa, 
+an. +o j. +s. Salis Prunel. +Q <replaced orig="iij">iii</replaced>. fiant tres 
+doses <replaced orig="longe">long</replaced> a pastu exhibend. 
+ 
+[^A column change.^] 
++R. Of the four greater cold seeds <replaced orig="cleans'd">cleansed</replaced>, 
+<replaced orig="Gromel">Gromwell</replaced> and 
+White-Poppy-seed, an. +Q <replaced orig="iij">iii</replaced>. 
+ 
+Bruise them in a Marble-Mortar with a 
+woodd'n-pestle, pouring by little and little 
+upon them, a pint and a half of the decoction 
+of the Roots of Marsh-mallows and 
+Water-Lillies: strain and press them, add 
+to the straining Syrup of Mallows, and 
+Water-Lillies, an. +o j. +s. Sal-prunella, +Q <replaced orig="iij">iii</replaced>. 
+Make three doses, to be given a good while 
+before or after Meals. 
+[^End of a list in two columns.^] 
+ 
+[}Emulsions against the <replaced orig="Dysenterie">Dysentery</replaced> may be thus <replaced orig="prepar'd">prepared</replaced>.}] 
+ 
+[^Beginning of a list in two columns.^] 
++R. Amygdal. <replaced orig="dulc">dulls</replaced>. excorticatarum, +o j. 
+Seminum Sumach, 
+Lactucæ, 
+Papaveris Alb. 
+Cydoniorum, an +Qij. 
+ 
+Contundantur in Mortareo Marmoreo, sensim 
+affundendo, decoct. hordei mundat. Portulacæ 
+& Veronicæ, vel aqu. Plantaginis, Rosarum, 
+& Veronicæ, lb j. +s Colentur & Exprimantur: 
+Expressioni <replaced orig="adde">add</replaced> Syrup. Cydoniorum & 
+Papaveris Albi, an. +o j. +s fiant tres doses horis 
+<replaced orig="commodis">commodes</replaced> oggerendæ. 
+ 
+[^A column change.^] 
++R. Sweet Almonds <replaced orig="blanch'd">blanched</replaced>, +o j. 
+[^Beginning of a list figure.^] 
+Seeds of Sumach, 
+[^Seeds of^] <replaced orig="Lettice">Lattice</replaced>, 
+[^Seeds of^] White-Poppy, 
+[^Seeds of^] Quinces, an. +Q <replaced orig="ij">ii</replaced>. 
+[^End of a list figure.^] 
+ 
+Bruise all these in a Marble-Mortar, 
+pouring upon them by degrees one pint +s 
+of the Decoction of <replaced orig="cleans'd">cleansed</replaced> Barley, <replaced orig="Purslain">Purslane</replaced>, 
+and Speed-well, or of the waters of 
+Plantain, Roses, and Speed-well. Strain and 
+press them: To the straining add Syrup of 
+Quinces and white-Poppy, +o j. +s make 
+three doses to be tak'n at convenient 
+hours. 
+[^End of a list in two columns.^] 
+ 
+[^p.59^] 
+[}The Following Emulsions are proper to kill Worms.}] 
+ 
+[^Beginning of a list in two columns.^] 
++R. Nucleorum Persicorum Excorticatorum, 
++o +s 
+[^Beginning of a list figure.^] 
+Seminum Citri, 
+[^Seminum^] Portulacæ, 
+[^Seminum^] Contra verme, an. +Q <replaced orig="ij">ii</replaced>. 
+[^End of a list figure.^] 
+ 
+Contundantur in Mortareo Marmoreo, sensim 
+affundendo aquarum stillatitiarum Naphæ 
+& Portulacæ, an. +o vj. vel decocti Radicis 
+Graminis, & Rasuræ Cornu-cervi, lb j. Colentur 
+& Exprimantur, Expressioni <replaced orig="adde">add</replaced> Syrupi 
+de Limonibus, +o <replaced orig="ij">ii</replaced>. fiant duæ vel tres, vel 
+quatuor Emulsionis doses, <replaced orig="longe">long</replaced> a pastu sumend. 
+Melius succedent, si Lunae decursu exhibeantur. 
+ 
+[^A column change.^] 
++R. Of the Kernels of Peaches, the Husks 
+tak'n off, +o +s 
+[^Beginning of a list figure.^] 
+Seeds of Citron, 
+[^Seeds of^] <replaced orig="Purslain">Purslane</replaced>, 
+[^Seeds of^] Wormseed, an. +Q <replaced orig="ij">ii</replaced>. 
+[^End of a list figure.^] 
+ 
+Bruise them in a Marble-Mortar, pouring 
+upon them by degrees, of the <replaced orig="distill'd">distilled</replaced> 
+waters of Orange-flowers, and <replaced orig="Purslain">Purslane</replaced>, 
+an. +o vj. or of the Decoction of the Roots 
+of Grass, and shavings of Harts horn, lb j. 
+strain and press them out. To the straining 
+add Syrup of Lemons, +o <replaced orig="ij">ii</replaced>. make two 
+or three, or four Doses of Emulsion, to be 
+tak'n at a good distance from Meals. They 
+will do better being taken in the Wane of 
+the Moon. 
+[^End of a list in two columns.^] 
+ 
+Almond-Milks, Butters are <replaced orig="easie">easy</replaced> to make; known to, and made use of by several 
+Ladies, that regard their health, and to keep themselves plump. 
+ 
+The usual way is to prepare them of two ounces of blanch'd-Almonds, which must 
+be <replaced orig="stamp'd">stamped</replaced> exactly in a Marble-Mortar with a Woodd'n-Pestle, afterwards <replaced orig="dissolv'd">dissolved</replaced> in 
+eight or ten ounces of the decoction of barley <replaced orig="cleans'd">cleansed</replaced>, or in the Water where Veal 
+or Pullets have been <replaced orig="boyl'd">boiled</replaced>. Then strain and press the whole, and add to the straining 
+an ounce of fine Sugar, and never so little Rose-water, or if you please, Orange-flower-water. 
+You may add an ounce of Syrup of Violets, Water-Lillies, or White-poppy 
+instead of Sugar if there be occasion. 
+ 
+[}CHAP. V. 
+Of Potions, Mixtures, and Bolus's.}] 
+ 
+POtions are so <replaced orig="call'd">called</replaced>, because they are to be drank. The Materials of them are very 
+various, by reason of the different Indications, Judgements, and insight of them 
+that prescribe them; for that may be <replaced orig="call'd">called</replaced> a Potion which is as ill <replaced orig="prepar'd">prepared</replaced>, as that 
+which is well <replaced orig="prescrib'd">prescribed</replaced>, and as well <replaced orig="prepar'd">prepared</replaced>. Besides Purgative-Potions are as well 
+to be <replaced orig="accompted">accounted</replaced> potions, as those which are <replaced orig="accompted">accounted</replaced> Astringent or Cordial, Sudorific, 
+or Diuretic, &c. As Potions are not made without liquors; those which are 
+made use of are sometimes simple, as fair Water, Wine, Milk, Whey, &c. and 
+sometimes waters <replaced orig="distill'd">distilled</replaced>, Infusions, Tinctures, Decoctions, Juices, &c. Sometimes 
+several liquors are mingled, one among another. Sometimes also to these liquors are 
+added Powders, Salts, Opiates, Confections, Magisteries, <replaced orig="Elyxirs">Elixirs</replaced>, <replaced orig="Oyls">Oils</replaced>, Essences, &c. 
+Juleps, <replaced orig="Apozems">Apophthegms</replaced>, Emulsions, Almond-Milks, and Diets, may be <replaced orig="call'd">called</replaced> Potions as well 
+as Medicines. We also prepare Potions <replaced orig="Emetick">Emetic</replaced>, Diaphoretic, Pectoral, Cephalic, 
+Somniferous, Anodynes, Aperitives, Diuretics, Cordials, Stomachical, Hepatical, 
+Splenetic, Hysteric, Vulnerary, <replaced orig="Arthritick">Arthritic</replaced>, Carminative, Dysenteric, and for several other 
+purposes: So that Potions may be made after a thousand fashions for every Disease, 
+since we may make use of various Remedies and different Doses according to the 
+intention of the Physician. 
+ 
+That which many modern Physicians call Mixture, may be <replaced orig="reckon'd">reckoned</replaced> in the same rank 
+with Potions. But Mixtures differ in this from Potions, that their use is more frequent 
+and longer, and because there is not so much drank of them at a time; for being <replaced orig="compos'd">composed</replaced> 
+of powerful Medicines, they operate in less quantity, and work those effects by 
+repetition, which could hardly be done at once taking. These Mixtures are usually a 
+mixture of <replaced orig="distill'd">distilled</replaced> Waters, more or less, compounded of Elixirs, distill'd-Oyls, volatile, 
+<replaced orig="fix'd">fixed</replaced>, or Essential Salts, Spirits, Tinctures, Essences, Extracts, <replaced orig="pretious">precious</replaced> Stones, 
+[^p.60^] 
+Syrups, and many other Remedies, well-chosen, and well-proportion'd in their Doses, 
+which are to be taken from time to time in a little Spoon, in the Intervals between the 
+Patients meals. 
+ 
+The difference of Mixtures may be very great, according to the diversity and complication 
+of Diseases, and the Judgement of the Physicians, that prescribe them. 
+Mixtures are also sometimes made of a more thick consistency, not much unlike that of 
+ordinary Opiates, which is for the accommodation of such Patients, as cannot take 
+Remedies in Drink. These Medicines may be <replaced orig="compos'd">composed</replaced> of the same Medicaments 
+made use of in the preceding mixtures, excepting the Liquors, instead whereof we put 
+Conserves or Confections: They are given upon the point of a Knife, or <replaced orig="wrapt">wrapped</replaced> up in 
+Wafers, or otherwise. 
+ 
+Bolus's are internal Remedies, usually a little more solid then Opiates; invented 
+<replaced orig="meerly">merely</replaced> for the benefit of such Patients as cannot <replaced orig="indure">endure</replaced> to swallow liquid drinks, or 
+cannot away with their scent or taste. They are also profitable to make the best advantage 
+for the swallowing of certain Medicines, whose weight would keep them always 
+at the bottom of the Glass, were they <replaced orig="mingl'd">mingled</replaced> in liquor, as in several preparations of 
+Mercury and Antimony: There may be as much diversity in Bolus's, as in Potions. 
+They make them of Electuaries, Confections, Conserves, Pulps, Powders, Salts, <replaced orig="Oyls">Oils</replaced>, 
+Essences, Extracts, Syrups, and an infinite sort of Medicines, of which there must be 
+some that are solid and dry enough to thicken those that are too liquid, or too soft. 
+Bolus's are taken usually a good while before meals, sometimes upon the point of a 
+Knife, but generally <replaced orig="wrapt">wrapped</replaced> up in Wafers, <replaced orig="powder'd">powdered</replaced> Sugar, or powder of Liquorice, 
+Fruits roasted or raw, or some confection, or other substance that prevents the Bolus 
+from being either smelt or tasted. 
+ 
+[}CHAP. VI. 
+Of <replaced orig="Gargarismes">Gargarisms</replaced>, Masticatories, and Errhines, or Tents 
+to put up into the Nostrils.}] 
+ 
+GArgarisms, are liquid Medicines, <replaced orig="design'd">designed</replaced> for Diseases of the Throat, Mouth, Palate, 
+and Gums, as also to free the Head from excessive moisture. They are usually 
+<replaced orig="compos'd">composed</replaced> of <replaced orig="distill'd">distilled</replaced> waters or decoctions, wherein they mix sometimes Salts, 
+sometimes Spirits, Syrups, Honeys, Vinegar, and sometimes several Juices. Gargarisms 
+are never <replaced orig="swallow'd">swallowed</replaced>, but only <replaced orig="gargl'd">gargled</replaced> and held for some time in the mouth, then spit 
+out again, continuing the use thereof as long and as often as necessity requires. These 
+Gargarisms are as well known, and as usual as any other sort of Medicine, and 
+there are enough to be found in several <replaced orig="Authours">Authors</replaced>, to spare the swelling of these 
+Sheets. 
+ 
+Masticatories, are also <replaced orig="call'd">called</replaced> Apophlegmatismes, because their chief work is to 
+bring down <replaced orig="flegm">phlegm</replaced> from the Brain. For which purpose we make use of several simple 
+Drugs, and particularly of divers parts of Plants, as roots of Orrice, Pellitory of Spain, 
+Cyperus, or English Galenga, true Acorus, or Aromatic-reed, Grains of Staves-acre, 
+Cubebs, Cardamom, all the Peppers, Mustard, Rocket, Sage, Rosemary, <replaced orig="Mastick">Mastic</replaced>, Time, 
+Savory, Tobacco, &c. which Medicines being <replaced orig="chaw'd">chawed</replaced>, by their heat and acrimony have a 
+peculiar <replaced orig="qualitie">quality</replaced> to draw down <replaced orig="flegm">phlegm</replaced> from the Brain, and to void it by the mouth. Trochisques 
+may be also made thereof by <replaced orig="pulverizing">pulverising</replaced> them, and incorporating them with 
+Oxymel, or Syrup of Cassidony, to hold in the mouth, and to masticate when they are 
+dry: or else to make thereof a kind of paste, to <replaced orig="tye">tie</replaced> up in a Linnen-Cloth like a knot 
+and so to champ them between the teeth. 
+ 
+Errhines are so <replaced orig="call'd">called</replaced>, as being Medicines <replaced orig="design'd">designed</replaced> to be put up into the Nostrils. 
+They were invented for the same use as Apophlegmatismes. But they operate with 
+more force, because they carry their <replaced orig="vertue">virtue</replaced> directly to the Brain, through the Conduits 
+of the Nostrils, and powerfully stir up and move the Expulsive faculty. Errhines are 
+sometimes liquid, and proper to be <replaced orig="snufft">snuffed</replaced> up through the Nostrils; sometimes in Powder, 
+to be either <replaced orig="snufft">snuffed</replaced> up, or blown into the Nostrils; sometimes like a thin <replaced orig="Oyntment">Ointment</replaced>, 
+and sometimes like a Tent small at one end. Liquid Errhines are usually made of 
+the Juices of Marjoram, Betony, Sage, Roots of Beets, Sow-bread, Orrice, &c. Or of 
+[^p.61^] 
+the Decoctions of the same Plants, or of <replaced orig="Lettice">Lattice</replaced>, or <replaced orig="Lillies">Lilies</replaced> of the Valleys. The Powders 
+are made of Marjoram, Betony, Orrice, Nicotian, Oleander, Colts-foot, white-Ellebore, 
+and Euphorbium, upon some extraordinary <replaced orig="accompts">accounts</replaced>: Those that are made 
+up in Liniments will admit the same things into their compositions; and must be incorporated 
+with <replaced orig="Oyl">Oil</replaced> of Roses or Orrice, and a little wax, or with <replaced orig="Oyl">Oil</replaced> of Laurel. The 
+more solid Errhines are chiefly to stop bleeding at the Nose: They are usually <replaced orig="compos'd">composed</replaced> 
+of Balausts, or the Flowers of the wild-Pomgranate-tree, of Bole of the East, Terra 
+sigillata, <replaced orig="Mastick">Mastic</replaced>, and Man's-blood or Swines-blood <replaced orig="dry'd">dried</replaced>; or of some such 
+kind of astringent Medicaments <replaced orig="pulveriz'd">pulverised</replaced>, and incorporated with the white of an 
+Egg or Down of a Hare, to make Tents thereof to be put up and held in the Nose. 
+Some there are that make an addition of white-Vitriol. 
+ 
+[}CHAP. VII. 
+Of Injections, and Pessaries.}] 
+ 
+INjections are liquid Medicines sometimes injected into the private parts of Nature, 
+and sometimes into wounds: Clysters may be also <replaced orig="call'd">called</replaced> Injections. The ingredients 
+are different, according to the difference of the Distemper. Wine, Distill'd-waters, 
+Lime-waters, Sea-waters, Spirit of Wine, Milk, Whey, <replaced orig="Oyls">Oils</replaced>, Balsoms, and 
+several other Liquors; as also several Juices, and divers Decoctions and Infusions of 
+several parts of Plants, and several Minerals. Usually Syringes are made use of for the 
+application of these Injections, and they must be always <replaced orig="warm'd">warmed</replaced> before they be <replaced orig="us'd">used</replaced>. 
+Sometimes several Ingredients and Preparations are <replaced orig="dissolv'd">dissolved</replaced> in these Liquors, as Salts, 
+Powders, Extracts, Syrups, Honeys, Trochisques, Gums, Elixirs, and several other 
+things, according as necessity requires. Sometimes also we dip Tents, Feathers and 
+Bolsters into Injections for the cure of Wounds. 
+ 
+Under the name of Pessaries, are comprehended all Medicines not liquid, which are 
+put up into the Secret-parts of Women. But by the word Pessary, strictly tak'n, is to 
+be understood a sort of solid Medicine, about a fingers length, sometimes somewhat 
+bigger, which is put up into the Secret-parts with a <replaced orig="Riband">Ribbon</replaced> <replaced orig="fasten'd">fastened</replaced> to one end. These 
+Pessaries are made pyramidical, round, close and smooth, for fear of hurting the parts. 
+These Remedies are <replaced orig="prepar'd">prepared</replaced> for several purposes; the chief of which are to provoke 
+the menstruum's, or to stop them: to hinder the falling down of the Matrix, to 
+cure Fluxes against Nature, or to heal Ulcers, or other mischiefs that may happ'n to 
+those parts. The Body of the Pessary is made of some slight polish'd-wood, or some 
+piece of <replaced orig="Linnen">Linen</replaced> made up close and hard; <replaced orig="cover'd">covered</replaced> with a kind of Sheath of Velvet, or 
+some other Silk-stuff, the seams whereof cannot hurt. Then fill the Velvet with Cotton 
+or Wool, that it may be as hard as if it were of Wood or Cork; and daub all the 
+outside of the Pessary with some Liniment, or some other mixture proper for your purpose. 
+Pessaries may be also made of Lead, hollow like a little Cane, and <replaced orig="cover'd">covered</replaced> with 
+Velvet, like the former. In all which there must be a difference <replaced orig="observ'd">observed</replaced> between Maids 
+and Women; as well in reference to the hardness, as the bigness of Pessaries, appropriating 
+the lesser and softer to the first. 
+ 
+<replaced orig="Aromaticks">Aromatics</replaced> that are sweet and free from <replaced orig="acrimonie">acrimony</replaced> are very proper to render Pessaries 
+effectual: whether it be to consume the vapours of the Matrix, or to op'n the passages, 
+and to provoke the menstruums: For we observe that good Smells seem to comfort 
+that part. For which reason such Liniments where Musk, <replaced orig="Ambergrise">Ambergris</replaced>, Civet, and 
+other good Smells are <replaced orig="mix'd">mixed</replaced>, are successfully <replaced orig="us'd">used</replaced> upon those occasions. Though you 
+must be very careful not to let them come near the Noses of some Persons, upon whom 
+those Sweet-smells would work a contrary effect. The Bodies of Pessaries <replaced orig="prepar'd">prepared</replaced> to 
+stop the menstruum's, are made up with astringent powders, very finely <replaced orig="pulveriz'd">pulverised</replaced>, incorporated 
+with Wax and <replaced orig="Oyl">Oil</replaced> of <replaced orig="Mastick">Mastic</replaced> melted together, <replaced orig="fill'd">filled</replaced> into some piece of thin 
+<replaced orig="Taffaty">Taffeta</replaced>, and anointed without-side with the same <replaced orig="Oyl">Oil</replaced>. These Pessary's are very good 
+to stop extraordinary losses of Blood, and the falling of the Matrix. If the Pessaries 
+are <replaced orig="design'd">designed</replaced> for the cure of any Ulcer, or any other disease in the neck of the Matrix, 
+the Pessary must be anointed with some Linement or convenient Medicine in that part 
+which is most able to reach it. 
+ 
+[^p.62^] 
+[}CHAP. VIII. 
+Of Clysters, and Suppositories.}] 
+ 
+CLysters, <replaced orig="call'd">called</replaced> by the Greeks Enemata, are also Injections, and liquid Medicines, 
+injected through the Fundament into the Intestines, for the cure or ease of several 
+Maladies. They are <replaced orig="call'd">called</replaced> Clysters or Washings, because their use is to wash the 
+Intestines. 
+ 
+Clysters are <replaced orig="prepar'd">prepared</replaced> for several purposes, sometimes to cool the Intestines, sometimes 
+to moist'n them; sometimes to soft'n and soak the <replaced orig="harden'd">hardened</replaced> excrements, or to 
+stir up the expulsive Faculty, to dispel the wind, to <replaced orig="asswage">assuage</replaced> pains, to facilitate the Expulsion 
+of the Urine, to draw forth or kill the Worms, to ease Women in Labour; 
+to provoke their menstruum's, and to appease Hysteric-passions, to <replaced orig="asswage">assuage</replaced> tormenting 
+Gripes, and to make a diversion of Humours or Vapours, which <replaced orig="flie">fly</replaced> to the Head, Stomach, 
+<replaced orig="Brest">Breast</replaced>, Reins, or any other parts of the Body. 
+ 
+Clysters are usually <replaced orig="compos'd">composed</replaced> of the Decoctions of Roots, Herbs, Seeds and Flowers, 
+of different <replaced orig="vertue">virtue</replaced>, according to the intention of the Physician. The Decoctions are 
+for the most part made in fair Water, but many times in Milk, Whey, Meat-broths, 
+ordinary Spanish-wine, Urine, Oxycrat, Hydromel, and several other Liquors. 
+And besides the ordinary Roots and Flowers, which are <replaced orig="boyl'd">boiled</replaced> for Clysters, 
+many times there is an occasion to <replaced orig="mixe">mix</replaced> Laxatives, such as are Senna, Coloquintida, 
+Rhubarb, and many others, and to dissolve therein the Strain'd-decoctions of <replaced orig="Opiats">Opiates</replaced>, 
+Honeys, Syrups, Sugar, Salts, Yolks of Eggs, Turpentine, <replaced orig="Oyls">Oils</replaced>, Extracts, and many 
+other things, which it would be too tedious to repeat. The forms of Clysters are so 
+familiar, that it is to no purpose to insert them. 
+ 
+Suppositories are solid Medicines about the length and bigness of the little Finger, 
+round and pyramidical. They were invented for the convenience of those who have an 
+aversion to Clysters, or of such whose Sickness and constitution will not admit of them. 
+The ordinary ingredient of Suppositories is Common-honey, Bay-salt, Salt-gemme, or 
+Aloes, or Coloquintida in powder, or some <replaced orig="Hiera">Here</replaced>, or Laxative Electuary. Sometimes 
+Suppositories of <replaced orig="Sope">Soap</replaced> cut round and small at the end will suffice. Some there are 
+that make use of Muscardins, or bits of Paste made of Gum-Tragacanth, Rose-water 
+and Musk. So that in these things every one is at liberty to make choice of what he 
+likes best. 
+ 
+[}CHAP. IX. 
+Of Wines.}] 
+ 
+ALL the World knows that the Grape is the Fruit of the Vine; and that Wine is the 
+Juice of the Grape; but this Juice would not be true Wine, did it not undergo 
+a Fermentation; and if the subtle parts had not by that means been separated from the 
+grosser, and by that means were not become capable of operating as they do: Not 
+that their Fermentation gives to the subtle parts of the Wine their utmost purity. For 
+that requires other means, as you shall hear in the third part of this Work; and therefore 
+I shall here at present only describe the preparation of two sorts of Wine most in 
+use, the first of which may serve as an Example how to prepare any other. 
+ 
+[^Beginning of a list in two columns.^] 
+[}Vinum Absinthii.}] 
+ 
++R. Summitat. floridarum siccarum Absinthii 
+majoris vel minoris Fasc. j. Incide & immitte 
+in doliolum, quod <replaced orig="pintas">pintos</replaced> Parisienses quinquaginta 
+aut circiter contineat. Impleatur dolium 
+succo Racemorum recenter expresso, & reponatur 
+in Cella vinaria ad fermentationem, 
+qua per <replaced orig="acta">act</replaced>, quod per fermentationem deperditum 
+est Vino suppleatur, & diligenter dolio obturato, 
+servetur Vinum. 
+ 
+[^A column change.^] 
+[}Wormwood Wine.}] 
+ 
++R. Of the <replaced orig="Flowrie">Flowery</replaced> drie-tops of the bigger 
+or lesser Wormwood, Fasc. j. Shred them 
+and put them into a little Vessel containing 
+fifty pints of Paris, or thereabouts. Fill 
+the Vessel with the Juice or Vine-clusters 
+newly <replaced orig="press'd">pressed</replaced> forth, and set the Vessel into 
+a Wine-Cellar to ferment. The Fermentation 
+being over, supply the waste of the Fermentation 
+with Wine: then carefully stopping 
+up the Vessel, keep the Wine. 
+[^End of a list in two columns.^] 
+ 
+[^p.63^] 
+They that can endure the bitterness of Great-Wormwood, may make choice of it for 
+the preservation of this Wine: But the nicer sort choose the little, whose <replaced orig="vertues">virtues</replaced> are 
+no less then those of greater. Take the Flowerie-tops, and having <replaced orig="weigh'd">weighed</replaced> out the quantity 
+<replaced orig="prescrib'd">prescribed</replaced>, shred them and put them into a little Bag, which is to be so <replaced orig="fasten'd">fastened</replaced> 
+to the bung-hole, as to hang in the midst of the Liquor. Place the Vessel in the Cellar, 
+fill it with the Juice of clusters newly <replaced orig="squeez'd">squeezed</replaced>, and let it stand for two months, during 
+which time the Wine will ferment and be fully <replaced orig="charg'd">charged</replaced> with the smell, taste and <replaced orig="vertues">virtues</replaced> 
+of the Wormwood. When the Ebullition of the Wine is over, fill up with white-wine, 
+burnt-wine, or Spanish-wine the waste of the Fermentation: Then stop up the 
+Tub, and keep the Wine for your use. 
+ 
+The Juice of the New-gather'd-grapes is to be <replaced orig="preferr'd">preferred</replaced> before all sorts of Wine, 
+for the preparation of Wormwood-wine, and of all compound Wines; because that 
+Juice being newly <replaced orig="squeez'd">squeezed</replaced> forth, by subtilizing and disengaging it self from its terrestrial 
+parts by Fermentation, penetrates more inwardly the ingredients which are 
+put into it; and operates more effectually then a wine could do already fermented, 
+whose subtle parts are subject to dissipation. For this Juice loses nothing to speak of 
+in its Fermentation with the Wormwood; but the same <replaced orig="flegm">phlegm</replaced> which the ordinary wine 
+loses in its own. And in the mean time by means of the heat which the Fermentative-spirits 
+excite in it, it is better able to penetrate the body of the wormwood, and to 
+charge it self with its <replaced orig="vertue">virtue</replaced>, then otherwise it would be. By this means also it may 
+be kept a long while, provided the Vessel were full and close <replaced orig="stopt">stopped</replaced>. 
+ 
+Wormwood-wine is very much commended against the Diseases of the Stomach 
+and Liver, especially proceeding from a cold cause. It dissipates wind and crudities, 
+it helps and increases the appetite, kills worms, resists putrefaction; helps concoction 
+and distribution of the nourishment, and consumes bad humours. It brings down 
+the vapours that rise from the Matrix, and op'ns its obstructions, and is very proper for 
+the Green-sickness, and to provoke the menstruums. Take three or four ounces in a morning fasting, for several days, as you find it requisite. 
+ 
+[^Beginning of a list in two columns.^] 
+[}Vinum Stibiatum, vulgo 
+Emeticum.}] 
+ 
++R. Vitri aut Reguli <replaced orig="Antimonii">Antimony</replaced>, vel si 
+lubet, Croci Metallorum, aut Magnesiæ Opalinæ 
+subtilissime pulveratorum, +o <replaced orig="iij">iii</replaced>. Vini Hispanici. 
+aut Vini albi generosi <replaced orig="pintas">pintos</replaced> duas Parisienses. 
+In Lagena Vitrea simul collocentur, 
+probeque obturato vase in loco temperato per 
+actiduum macerentur, & sæpius agitentur, simulque 
+tandem serventur, ut usus tempore Vinum 
+Clarum Antimonium supernatans, per inclinationem 
+effundi & <replaced orig="sumi">sum</replaced> <replaced orig="possit">posit</replaced>. 
+ 
+[^A column change.^] 
+[}Stibiated Wine, vulgarly Emetic; or 
+apt to provoke vomiting.}] 
+ 
++R. Of Glass, Regulus of Antimony, or 
+if you had rather, Crocus Metallorum, or 
+Magnesia Opalina, finely <replaced orig="powder'd">powdered</replaced> +o <replaced orig="iij">iii</replaced>. 
+Spanish-wine or strong French-white-wine 
+two Paris-pints: Put them together in a 
+Glass-bottle, and the Bottle being carefully 
+<replaced orig="stopp'd">stopped</replaced>, let them macerate eight days in a 
+temperate place, and let them be oft'n 
+<replaced orig="stirr'd">stirred</replaced>; and at length let them be all kept 
+together, that when it is to be <replaced orig="us'd">used</replaced>, the 
+clear wine that swims above the Antimony, 
+may be <replaced orig="pour'd">poured</replaced> forth by inclination, and 
+so tak'n. 
+[^End of a list in two columns.^] 
+ 
+Having Glass or Regulus of Antimony, or Magnesia Opalina, well <replaced orig="prepar'd">prepared</replaced> and 
+finely beat'n upon a mortar, it is an <replaced orig="easie">easy</replaced> thing to prepare Emetic-wine. For it is 
+sufficient to get a good Glass-bottle, and to put the <replaced orig="prepar'd">prepared</replaced> Antimony into it, and 
+to pour the <replaced orig="prescrib'd">prescribed</replaced> quantity of wine into it, then to stop up the Bottle, to set it 
+in a temperate place, to shake it from time to time for seven or eight days together, 
+and to keep the wine and the Antimony together in a Bottle well-stopp'd, to make 
+use of as occasion serves, pouring out by inclination, and taking the clear wine that 
+swims above the Antimony, to such a quantity as is requisite; taking care not to raise 
+the bottom, for fear some part of the Antimony should <replaced orig="mixe">mix</replaced> with the wine. Upon 
+which this observation is to be made, That the <replaced orig="prescrib'd">prescribed</replaced> dose of wine and Antimony 
+need not be too religiously <replaced orig="observ'd">observed</replaced>. For though there should be a little more or a 
+little less of the one or of the other, it would not <replaced orig="signifie">signify</replaced> much, since oft'n Experience 
+teaches us that the wine takes to it self no more of the <replaced orig="vertue">virtue</replaced> of the Antimony, then 
+it is able to receive; and that the lying with the Antimony one, two or more months, 
+as the wine might do, renders it nothing more strong then that which has lain but 
+eight days, if it be oft'n shak'n. 
+ 
+[^p.64^] 
+You shall observe also that the same powder of Antimony, upon which the wine has 
+staid a long time, and which has imparted its Emetic and Purgative Quality to it, is still 
+able to impart as much <replaced orig="vertue">virtue</replaced> to more new wine, if macerated with it, and that after 
+that wine is sufficiently strong of the Antimony, and spent, the same Powder will serve 
+again several times for the same use. And that if you be but careful always to pour out 
+the wine gently, and to take always only the clear, you shall find very near the same 
+weight of the powder as at the first maceration; which is more <replaced orig="confirm'd">confirmed</replaced> by the trial 
+which we make of Cups of Regulus of Antimony, which will give a Purgative and Emetic 
+Quality to the wine, which shall be <replaced orig="fill'd">filled</replaced> and kept in them but for some few hours: and 
+then again bequeath the same <replaced orig="vertues">virtues</replaced> to new wine in the same space of time, and will 
+still afford the same qualities to other wine, as long as the life of one, or several men 
+continues to make <replaced orig="tryal">trial</replaced> of it, without perceiving in the Cup any diminution of its 
+weight or <replaced orig="vertue">virtue</replaced>. 
+ 
+Emetic Wine purges upwards and downwards ill humours, especially those that are 
+bred in the Stomach. It operates with more or less violence according to the constitution 
+of those that take it, or according to the superfluity or small quantity of matter 
+which it meets with. And therefore it is much more proper for persons that are full 
+of humours, then for those that are not so much troubled with them, and it is better at 
+the beginning then at the end of a sickness, when the Patient is weak. It may be given 
+alone from one, to two, three, or four ounces, a good distance before Meals, according 
+to the Age, Strength, and Nature of the Disease. It may be mingled also among 
+Purgatives. Where note, that if the Purgatives are too strong and exceed in 
+quantity the Emetick-wine, then it acts as they act, and works only downwards. But if 
+it surmount the Purgatives in quantity and strength, it constrains them to work as that 
+does, upwards and downwards. 
+ 
+Emetic-wine is never <replaced orig="giv'n">given</replaced> to those that are narrow-Chested, nor to those that are 
+hard to vomit, or if there be any fear of any Inflammation of the Bowels. 
+ 
+[}CHAP. X. 
+Of Vinegars.}] 
+ 
+<replaced orig="VVE">WE</replaced> may say of Vinegar, that the first Original of it is the Juice of Grapes, as 
+well as of Wine. But the Juice of the Grape must be made Wine by Fermentation 
+before it can be <replaced orig="turn'd">turned</replaced> into Vinegar. And though Vinegar may be made of 
+Beer or Cider, as also of water; I hold, that good and true Vinegar is only to be made 
+of Wine. Some attribute the only cause of the acidity of Vinegar to the dissipation of 
+the volatile Spirits of the Wine. But it seems that they have not sufficiently <replaced orig="examin'd">examined</replaced> this 
+business. For they that know the Nature and Original of acids, and the effects which they 
+are able to act upon Salts and Spirits, especially upon volatiles, will as much attribute to 
+them the turning of Wine into Vinegar, as to the absence of the volatile Spirit of 
+Wine. For although before this alteration, some part of the Spirit of Wine may 
+chance to be dissipated, yet we are to believe, that the corruption which happens to 
+wine, happens through the disproportion of its parts, and that the excess of the acid is 
+the chief cause of turning wine into Vinegar. For so long as the <replaced orig="flegm">phlegm</replaced>, the volatile 
+and <replaced orig="tartarous">tartarus</replaced> parts which contain the acid, keep nigh a just proportion together, the 
+Wine continues good. But when any one of those parts predominates, there must of 
+necessity happen some corruption, which proves to be more or less according to the 
+Quantity and Nature of the part which predominates, which causes very great differences 
+in the decay of the Wine. For when the Wine decays through excess of 
+<replaced orig="flegm">phlegm</replaced>, it grows <replaced orig="greasie">greasy</replaced>, and turns. But though the <replaced orig="flegm">phlegm</replaced> be able to enervate the 
+force of the volatile part of the Wine by its own corruption, and by its excess, it cannot 
+nevertheless destroy it, as it destroys almost entirely the <replaced orig="tartarous">tartarus</replaced> acid part. 
+Whence it comes to pass, that though no good Vinegar can be made of Wines grown 
+<replaced orig="greasie">greasy</replaced>, and <replaced orig="turn'd">turned</replaced>; Yet in Distillation you may draw from hence as much volatile 
+Spirit, as from Wines neither <replaced orig="greasie">greasy</replaced> nor <replaced orig="sowr">sour</replaced>. And you might draw from hence 
+altogether quite as much, but that the abundance of <replaced orig="flegm">phlegm</replaced>, which <replaced orig="caus'd">cause</replaced> the corruption of 
+the Wine, in part takes up the place of the volatile Spirit. The excess of the volatile 
+Spirit happ'ns very rarely to Wine, and though it should exceed the other parts in 
+[^p.65^] 
+quantity, as it is very able to preserve it self without them, it would never corrupt 
+them, but would make the Wine violent and <replaced orig="reaking">reeking</replaced>, so that it would be less serviceable 
+for common use, and would intoxicate sooner: But when the <replaced orig="Tartarous">Tartarus</replaced> part surmounts, 
+it draws to it the nitrous part of the Air, which is in some sort Homogeneous 
+to it, and multiplying it self by a little and a little, instead of chasing away the volatile 
+Spirit, which it has surmounted in quantity, it unites it self strictly to it, to make it in 
+some measure conformable to its own Nature, while the <replaced orig="flegm">phlegm</replaced> is no longer able to temper 
+the acid which has got the upper hand of it. Vinegars by their acidity slack'n the 
+activity of the Salts, and volatile Spirits; <replaced orig="joyning">joining</replaced> themselves to them, and altering their 
+action; and are successfully made use of in Distempers <replaced orig="caus'd">cause</replaced> by the Salts, and volatile 
+Spirits, or by humours that participate of their Nature, chiefly Choleric humours, 
+to which purpose acid Fruits and Juices are usually <replaced orig="administred">administered</replaced> with good 
+success. 
+ 
+[^Beginning of a list in two columns.^] 
+[}Acetum Rosatum.}] 
+ 
++R. Rosarum Rubrarum exungulatarum Siccarum, 
+lb j. Aceti acerrimi, lb viij. Vase Vitreo 
+<replaced orig="bene">been</replaced> obturato excipiantur per quindecim 
+aut viginti dies insolentur; deinde colentur & 
+exprimantur. Colatura cum pari Rosarum <replaced orig="Pondere">Ponder</replaced> 
+in eodem vase iterum per <replaced orig="idem">item</replaced> tempus insoletur, 
+coletur & exprimatur, & servetur acetum. 
+ 
+[^A column change.^] 
+[}Vinegar of Roses.}] 
+ 
++R. Of dry red Roses, the white being 
+<replaced orig="nipt">nipped</replaced> off, one pound; of very tart Vinegar, 
+lb viij. Put them into a Glass-Vessel 
+well <replaced orig="stopp'd">stopped</replaced>; set them in the Sun for fifteen 
+or twenty days, then strain and press 
+them out. Let the straining be again 
+set in the Sun during the same time, with 
+the like weight of Roses. Let it be 
+<replaced orig="strain'd">strained</replaced> and <replaced orig="press'd">pressed</replaced> out, and let the Vinegar 
+be kept. 
+[^End of a list in two columns.^] 
+ 
+Take the great buds of Provence-Roses, and cut away the white part at the bottom. 
+Dry the red part in the hot Sun, if it may be done, at least in the Air, as soon as possible 
+may be. Take a pound of Roses thus <replaced orig="dry'd">dried</replaced>, and put them into a strong glass-bottle; 
+upon which you must pour eight pints of good Vinegar, and having <replaced orig="stopt">stopped</replaced> the bottle, 
+expose it to the Sun for fifteen days or three weeks; then strain and press out the 
+whole, and return the straining to the same Vessel, over a pound of fresh Roses; then 
+stop up the bottle, and expose it to the Sun as long as before: then strain the Vinegar 
+and squeeze the Roses, and keep the Vinegar for your use. You may, if you 
+please, leave the Roses in the Vinegar, and strain it only when you have occasion 
+for it. 
+ 
+Vinegar of Roses is as much <replaced orig="us'd">used</replaced> in <replaced orig="Dyet">Diet</replaced>, as in <replaced orig="Physick">Physic</replaced>. It cuts, cleanses, tempers, it 
+gives an appetite, it provokes sleep being <replaced orig="apply'd">applied</replaced> to the Fore-head, it removes the 
+Acrimony of the <replaced orig="fix'd">fixed</replaced> Salts, it moderates the activity of the volatile, it kills the Worms, 
+stays Vomiting, stays the Operation of Purgatives, cools Inflammations, assists Expectorations, 
+and loosens <replaced orig="Flegm">Phlegm</replaced>, stops the Piles being taken inwardly, and applied outwardly; 
+resists Putrefaction, and is good to smell to in noisome and Pestilential seasons. It is 
+<replaced orig="mix'd">mixed</replaced> among several Liquors, as also in Liniments, Unguents and <replaced orig="Emplaisters">Plasters</replaced>. 
+ 
+Vinegar of Roses may serve as an example for the making of several Vinegars, made 
+of Flowers, as of Elder, Gilli-flowers, Rosemary, Sage, Marigolds, &c. But because these 
+flowers do not abound so much in moisture as the Rose, you may take the pains to dry 
+them, or at least to half-dry them, not to dissipate their good parts. 
+ 
+[^Beginning of a list in two columns.^] 
+[}Acetum Scilliticum.}] 
+ 
++R. Scillas duas <replaced orig="molis">moles</replaced> mediocris, <replaced orig="quarum">quorum</replaced> corticem 
+externum, & cor medium cultro Arundinaceo 
+eximes, Laminas inter cor & Corticem 
+existentes in <replaced orig="partes">parts</replaced> divides, & soli per multos 
+dies ad humidi superflui consumptionem expones. 
+Harum lb j. in lagenam capacem immittes, 
+illique superfundes Aceti Albi Acerrimi, 
+vel potius Spiritus Aceti, lb viij. Lagenam 
+obturabis, & per quadraginta dies radiis Solaribus 
+expones. <replaced orig="Colatis">Colitis</replaced> deinde, & <replaced orig="expressis">expresses</replaced> 
+Laminis, Acetum servabis ad usum. 
+ 
+[^A column change.^] 
+[}Vinegar of Squills.}] 
+ 
++R. Two Sea-Onions of an indifferent 
+bigness, peel off the outward Rind, and 
+take out the heart with a knife made of a 
+Reed; the thin slices between the outmost 
+skin and the heart divide into parts, 
+and expose them for many days to the Sun, 
+till the superfluous moisture be <replaced orig="consum'd">consumed</replaced>. 
+Of those put a pound into a large stone-Jug, 
+and pour upon them eight pints of 
+very sharp White Vinegar, or rather 
+Spirit of Vinegar. Stop the Jug, and set 
+it in the Sun for forty days. Then having 
+<replaced orig="strain'd">strained</replaced> and <replaced orig="squeez'd">squeezed</replaced> the thin slices, keep 
+the Vinegar for your use. 
+[^End of a list in two columns.^] 
+ 
+[^p.66^] 
+They that have travelled into Spain and Portugal, have there met with two sorts of 
+true Sea-Onions, one of which being white, is <replaced orig="call'd">called</replaced> the Male; the other being red is 
+<replaced orig="call'd">called</replaced> the Female. The white is usually somewhat the lesser: it is in taste like the red 
+one, but a little thought more tart: However the <replaced orig="vertues">virtues</replaced> of both are the same. These 
+Squills are Onions that grow by the Sea-shore, the Root whereof is large, short, close, 
+and bended. In the Months of August and September, they put forth a round, sleek, shining 
+stalk altogether bare, of a whitish colour <replaced orig="enclining">inclining</replaced> to Grideline, as big as a Man's 
+finger, about two Cubits high, surrounded at the top with several little white-flowers <replaced orig="enclining">inclining</replaced> 
+to purple, growing like an Ear; after which follows a black-seed like that of ordinary 
+Onions which is ripe in October and November. The leaves of both Squills are 
+like those of a Flower-de-luce, but bigger; they begin to sprout forth in November and 
+December, and grow dry and die in May or June. The white is accounted better then 
+the red because of the colour. 
+ 
+The drying of the slices was only intended to correct any ill quality which may be in 
+them; for as much as all that is dissipated by the Sun, is only a superfluous moisture, void 
+of any considerable <replaced orig="vertue">virtue</replaced>; and therefore care is tak'n to prevent that superfluous moisture 
+from taking away the strength of the Vinegar, and causing it to <replaced orig="putrifie">putrefy</replaced>, in regard 
+there is <replaced orig="flegm">phlegm</replaced> enough in the Vinegar without having any need to multiply it. 
+ 
+Dioscorides and Matthiolus most highly applaud the <replaced orig="vertues">virtues</replaced> of Vinegar of Squills, and 
+affirm that by taking three ounces every Morning, two hours before any eating, and taking 
+a little walk after it, it will preserve a Man many years in perfect health. That 
+he shall never have any Disease in Mouth, Throat or Stomach. That he shall have a 
+voice always clear and clean, respiration free, quick sight, hearing good, an excellent 
+complexion. That he shall be free from Windiness: That all the parts of the body 
+shall do their Offices: That he shall be always fit for business, never have an ill breath; 
+shall digest whatever he eats, and turn it into good nourishment, and have a kindly evacuation 
+of the Excrements. That it will recover the Pthysical, though far gone; very much 
+help the Epileptic, abating the effects of the Disease, and quite taking them at length away, 
+if the Disease be new. That it will give ease in the Gout, and diseases of the 
+<replaced orig="Joynts">Joints</replaced>; open obstructions of the Liver, Spleen, Mesentery, and other parts: and in 
+short will procure soundness of health, and a prolongation of Life. But because our 
+Physicians seldom prescribe this Vinegar, I have not made <replaced orig="Tryals">Trials</replaced> enough to confirm 
+what those great Men have writt'n. 
+ 

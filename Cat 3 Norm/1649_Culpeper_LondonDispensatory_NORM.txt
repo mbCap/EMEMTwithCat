@@ -1,0 +1,1578 @@
+﻿[^Culpeper, Nicholas: London dispensatory^] 
+ 
+[}A 
+<replaced orig="PHYSICALL">PHYSICAL</replaced> 
+DIRECTORY 
+OR 
+A translation of the LONDON 
+DISPENSATORY 
+Made by the <replaced orig="Colledge">College</replaced> of Physicians in London. 
+ 
+Being that book by which all <replaced orig="Apothicaries">Apothecaries</replaced> are strictly commanded 
+to make all their <replaced orig="Physick">Physic</replaced> with many hundred additions 
+which the reader may find in every page marked with 
+this letter A. 
+ 
+Also there is added the use of all the simples beginning at the 
+first page and ending at the 78 page. 
+ 
+By Nich. Culpeper Gent. 
+ 
+Persius. <replaced orig="Disce">Disc</replaced>, sed ira <replaced orig="cadat">cadet</replaced> naso, rugosaque sanna. 
+Cicere. Non nobis solum nati sumus sed etiam patria~. 
+ 
+LONDON, 
+Printed for Peter Cole and are to be sold at his Shop 
+at the sign of the <replaced orig="Printing-presse">Printing press</replaced> near to the 
+<replaced orig="Royall">Royal</replaced> Exchange 1649.}] 
+ 
+[^Omitted a note by the translator Nicholas Culpeper, a list of the names of the doctors of the society, an epistle from the college to the reader, a brief of his majesty's proclamation commanding all apothecaries to follow the pharmacopoeia, and an explanation of weights, measures and some technical terms.^] 
+ 
+[^Extract 1, pp. 1-18^] 
+ 
+[^p.1^] 
+[}A 
+<replaced orig="CATALOGVE">CATALOGUE</replaced> 
+OF THE 
+SIMPLES 
+CONDUCING TO THE 
+DISPENSATORY.}] 
+ 
+[}THE PREFACE.}] 
+ 
+BEfore I begin the Catalogue I thought good 
+to premise a few words to the Reader: 
+1. Let him have a care he mistake not one 
+thing for another, viz. Herbs for Roots, or 
+either of them for Flowers: If he cast but 
+his eye up to the top of the Page, he shall 
+there see which it is. 
+ 
+2. Let a due time be observed (cases of necessity excepted) 
+in gathering all Simples; for which take these few Rules: 
+All Roots are of most <replaced orig="vertue">virtue</replaced> when the sap is down in them, 
+viz. toward the latter end of summer, or beginning of the 
+spring, for happily in winter many of them cannot be found; 
+you may hang up many of them a drying, by drawing a string 
+through them and so keep them a <replaced orig="whol">whole</replaced> year. 
+ 
+[^p.2^] 
+Herbs are to be gathered when they are fullest of <replaced orig="juyce">juice</replaced>, before 
+they run up to seed; and if you gather them in a hot sunshine 
+day, they will not be so subject to <replaced orig="putrifie">putrefy</replaced>; the best way 
+to dry them, is in the sun, according to Dr. REASON, 
+though not according to Dr. TRADITION: Such Herbs 
+as remain green all the year, or are very full of <replaced orig="juyce">juice</replaced>, it were 
+a folly to dry at all, but gather them only for present use, as 
+Houseleek, <replaced orig="Scurvy-grasse">Scurvy-grass</replaced>, &c. 
+ 
+Let Flowers be gathered when they are in their prime, in a 
+sunshine day, and <replaced orig="dryed">dried</replaced> in the sun. Let the seeds be perfectly 
+ripe before they be gathered. 
+ 
+3. Let them be kept in a dry place, for any moisture, though 
+it be but a moist air, corrupts them, which if perceived in 
+time, the beams of the sun will refresh them again. 
+ 
+4. Take notice, that only the Latin names, were quoted by 
+the <replaced orig="Colledge">College</replaced> and are to be seen at the <replaced orig="beginniug">beginning</replaced> of each Simple 
+in a different letter, the English name together with the 
+Temperature and <replaced orig="Vertues">Virtues</replaced> were added by the Translator, he 
+hopes for the <replaced orig="publick">public</replaced> good. 
+ 
+5. All the <replaced orig="Lattin">Latin</replaced> names to one Herb are not set down, 
+that would have done no other good in the world than took 
+up more paper, and by consequence made the Book the 
+dearer. 
+ 
+[^p.3^] 
+[}ROOTS.}] 
+ 
+<replaced orig="ACanthi">Acanthus</replaced>, Brancæ ursinæ. Of Bears-breech, or <replaced orig="branck-ursine">brank-ursine</replaced>; 
+it is meanly hot and dry, it helps <replaced orig="ach">ache</replaced> and <replaced orig="numnesse">numbness</replaced> 
+of the <replaced orig="joynts">joints</replaced>, and is of a binding quality, good for 
+wounds and broken bones. Dioscorides <replaced orig="saith">says</replaced>, they are profitable 
+for Ruptures, or such as are <replaced orig="bursten">burst</replaced>, or burnt with fire. 
+ 
+Acori, <replaced orig="Veri">Very</replaced>, Peregrini, <replaced orig="Vulgaris">Vulgarise</replaced>. &c. See Calamus, Aromaticus. 
+I shall not, nor dare not make a long paraphrase about the 
+sorts of it, one of which is the water-flag, or flower de luce, 
+which is hot and dry in the second degree, binds, strengthens, 
+stops fluxes of the belly, and the immoderate flowing of the 
+terms in women. 
+ 
+Allium. <replaced orig="Garlick">Garlic</replaced>. It is hot and dry in the fourth degree, 
+breeds naughty and corrupt blood, yet is an enemy to all 
+<replaced orig="poysons">poisons</replaced>, and such as are bitten by [/1./] cold <replaced orig="venemous">venomous</replaced> beasts, 
+it provokes <replaced orig="urin">urine</replaced>, and expels wind. 
+ 
+Alcannæ. Of privet. See the leaves. 
+ 
+Althææ Of marshmallows, are meanly hot, of a digesting <replaced orig="softning">softening</replaced> 
+nature, ease pains, help bloody-fluxes, the stone & gravel. 
+ 
+Angelicæ. Of Angelica, is hot and dry in the third degree, 
+strengthens the heart exceedingly, and is a singular remedy 
+against pestilence and <replaced orig="poyson">poison</replaced>. 
+ 
+Anchusæ. Of Alkanet, cold and dry, binding, good for old 
+ulcers. 
+ 
+Anthoræ. An outlandish root, the counterpoison for Monks-hood, 
+it is an admirable remedy for the <replaced orig="wind-cholick">wind colic</replaced>, and 
+resists poison. They that would know more of it, let them 
+<replaced orig="reade">read</replaced> Guainerius, and Solerius, both which lived <replaced orig="neer">near</replaced> the places 
+where it plentifully grew. 
+ 
+Apii. Of smallage, see the Barks. 
+ 
+Aristolochiæ. Of Birthwort: of which are three sorts, long, 
+round, and <replaced orig="climing">climbing</replaced>. All hot and dry in the third degree. 
+ 
+The long, being drunk in wine, brings away both birth 
+[/2./] 
+and after-birth, and whatsoever a careless Midwife hath left 
+behind. 
+ 
+[^p.4^] 
+The round, being drunk with wine, helps (besides the former) 
+stuffings of the <replaced orig="lungues">lungs</replaced>, <replaced orig="hardnes">hardness</replaced> of the spleen, ruptures, 
+convulsions; both of them resist poison. 
+ 
+I never read any use of the <replaced orig="climing">climbing</replaced> Birthwort. 
+ 
+Artanitæ, <replaced orig="Cyclaminis">Cyclamen</replaced> &c. of Sow-bread: hot and dry in 
+the third degree, a most violent purge, dangerous; outwardly 
+applied to the place it profits much in the bitings of <replaced orig="venemous">venomous</replaced> 
+beasts, also being hung about women in <replaced orig="labor">labour</replaced>, it <replaced orig="causeth">causes</replaced> 
+speedy deliverance. See the herb. 
+ 
+Arundinis, Vallatoriæ, & Saccharinæ. Of common Reeds and 
+<replaced orig="suger">sugar</replaced> Reeds, the roots of common reeds, draw out thorns, ease 
+sprains, the ashes of them mixed with vinegar: Take scurf 
+or <replaced orig="dandrif">dandruff</replaced> off from the head, and prevent the falling off of the 
+hair, they are hot and dry in the second degree according to 
+<replaced orig="Gallen">Galen</replaced>. 
+ 
+I never read any <replaced orig="vertue">virtue</replaced> of the root of <replaced orig="Suger">Sugar</replaced> Cane. 
+ 
+Ari &c. of Cuckow-pints, or Wake-Robin, [/3./] hot and 
+dry in the third degree. I know no great good they do inwardly 
+taken, unless to play the rogue withal, or make sport: 
+outwardly applied, they take off Scurf, Morphew, and Freckles 
+from the face, and <replaced orig="cleer">clear</replaced> the skin, and cease the pains of 
+the Gout. See Gersa serpentaria. 
+ 
+Asclepiadis, vincetoxici. Of Swallow wort, hot and dry, good 
+against poison, and gripings of the belly, as also against the 
+bitings of mad-dogs. 
+ 
+Asari. Of Asara bacca, the roots are a safer purge than the 
+leaves and not so violent, they purge by vomit, stool, and urine, 
+they are profitable for such as have agues, dropsies, 
+stoppings of the liver, or spleen, green sickness. 
+ 
+Asparagi. Of Sparagus, or Sperage: they are temperate in 
+quality, opening, they provoke urine, and cleanse the reins 
+and bladder. 
+ 
+Asphodeli, hastæ Regiæ, <replaced orig="foem">foam</replaced>. Of Kings spear or foemal Asphodel. 
+I know no physical use of the roots, probably there is: 
+for I do not <replaced orig="beleeve">believe</replaced> God created any thing of no use. 
+ 
+Asphodeli, Albuci, maris, of male Asphodel. Hot and dry 
+in the second degree. Inwardly taken, they provoke vomit, 
+[/4./] 
+urine, and the terms in women: outwardly used in ointments, 
+[^p.5^] 
+they cause hair to grow, cleanse ulcers, take away morphew 
+and freckles from the face. 
+ 
+[/5./] 
+Bardane &c. Of Bur, Clot-bur, or Bur-dock. temperately 
+hot and dry. Helps such as spit blood and matter, bruised 
+and mixed with salt and applied to the place, helps the 
+bitings of mad dogs. It expels wind, <replaced orig="easeth">eases</replaced> pains of the teeth, 
+strengthens the back, helps the running of the reins and the 
+whites in women. 
+ 
+Beben. alb. Rub. Of Valerian, white and red. Mesue, Serapio 
+and other Arabians say they are hot and moist, in the 
+latter end of the first or beginning of the second degree, and 
+comfort the heart, stir up lust. The Græcians held them 
+to be dry in the second degree, that they stop fluxes and provoke 
+urine. 
+ 
+Bellidis. Of <replaced orig="Dazies">Daisies</replaced>, see the leaves. 
+ 
+Betæ, nigræ, albæ, rubræ. Of Beets, black, white, and red, 
+as for black Beets I have nothing to say, I doubt they are 
+as rare as black Swans. The red Beet root <replaced orig="boyled">boiled</replaced> and preserved 
+in <replaced orig="vineger">vinegar</replaced> makes a fine cool, pleasing, cleansing, digesting 
+<replaced orig="sawce">sauce</replaced>. See the leaves. 
+ 
+Bistortæ &c. Of Bistort, or snakeweed, cold and dry in the 
+third degree, binding, resists pestilence and <replaced orig="poyson">poison</replaced>, helps 
+ruptures, and bruises, <replaced orig="staies">stays</replaced> fluxes, vomiting, and the immoderate 
+flowing of the terms in women, helps <replaced orig="inflamations">inflammations</replaced> and 
+sornes of the mouth, and fastens loose teeth. 
+ 
+Borraginis. Of <replaced orig="Borrage">Borage</replaced>, hot and moist in the first degree, 
+[/6./] 
+cheers the heart, and helps drooping spirits. 
+ 
+Brioniæ &c. Of Briony both white and black, they are 
+both hot and <replaced orig="dey">they</replaced>, some say in the third degree, and some 
+say, but in the first, they purge <replaced orig="flegm">phlegm</replaced> and watery <replaced orig="humors">humours</replaced>, 
+but they trouble the <replaced orig="stomack">stomach</replaced> much, they are special good 
+for dropsies, the white is most in use, and is admirable good 
+for the fits of the mother, both of them externally used, take 
+away freckles, sun-burning and morphew from the face, and 
+cleanse filthy ulcers. 
+ 
+<replaced orig="Buglossi">Bugloss</replaced>. Of Bugloss, its <replaced orig="vertues">virtues</replaced> are the same with <replaced orig="Borrage">Borage</replaced>, 
+and the roots of either <replaced orig="sildom">seldom</replaced> used. 
+ 
+Bulbus vomitorius. a vomiting root. I never read of it else 
+where by this general name. 
+ 
+[^p.6^] 
+Calami Aromatici. Of Aromatical reed, or sweet garden 
+flag, It provokes urine, strengthens the <replaced orig="lungues">lungs</replaced>, helps bruises, 
+resists <replaced orig="poyson">poison</replaced> &c. In beating of it be very speedy, for the 
+strength will quickly fly out. 
+ 
+Capparum. Of Caper roots, are hot and dry in the second 
+degree, cutting and cleansing, they provoke the terms, help 
+malignant ulcers, ease the tooth-ach, <replaced orig="aswage">assuage</replaced> swellings, and 
+help the rickets. 
+ 
+Caryophillatæ &c. Of Avens, or <replaced orig="hearb">herb</replaced> Bennet, The roots 
+are dry, and something hot, of a cleansing quality, they keep 
+garments from being motheaten. See the leaves. 
+ 
+Caulium, of Coleworts. I know nothing the roots are 
+good for, but only to bear the <replaced orig="hearbs">herbs</replaced> and flowers. 
+ 
+Centaurij majoris, Of Centaury the greater, the roots help 
+such as are <replaced orig="bursten">burst</replaced>, such as spit blood, shrinking of <replaced orig="sinnews">sinews</replaced>, 
+shortness of wind, coughs, convulsions, cramps. 
+ 
+Cepæ, Of Onions, are hot and dry (according to <replaced orig="Gallen">Galen</replaced>) 
+in the fourth degree, they cause <replaced orig="driness">dryness</replaced>, and are <replaced orig="extreamly">extremely</replaced> 
+hurtful for <replaced orig="chollerick">choleric</replaced> people, they breed but little nourishment, 
+and that little is naught, they are bad meat, yet good 
+<replaced orig="physick">physic</replaced> for <replaced orig="flegmatick">phlegmatic</replaced> people, they are opening, and provoke 
+urine, and the terms, if cold be the cause obstructing, bruised 
+and outwardly applied they cure the bitings of mad dogs, 
+<replaced orig="rosted">roasted</replaced> and applied they help boils, and Aposthumes, raw 
+they take the fire out of burnings, but <replaced orig="ordinaryly">ordinarily</replaced> eaten they 
+cause head-ach, spoil the sight, dull the <replaced orig="sences">senses</replaced>, and fill the 
+body full of wind. 
+ 
+Chameleontis Albi, nigri &c. Of Chameleon white and 
+black. Tragus <replaced orig="calleth">calls</replaced> the Carline Thistle by the name of 
+white Chameleon, the root whereof is hot in the second degree, 
+and dry in the third, it provokes sweat, kills worms, 
+resists pestilence and <replaced orig="poyson">poison</replaced>, it is given with success in pestilential 
+<replaced orig="feavers">fevers</replaced>, helps the tooth <replaced orig="ach">ache</replaced> by being chewed in the 
+mouth, opens the stoppings of the liver and spleen, it provokes 
+<replaced orig="vrine">urine</replaced>, and brings down the terms. As for the black 
+Chameleon, All Physicians hold it to have a kind of <replaced orig="venemous">venomous</replaced> 
+quality, and unfit to be used inwardly, Both <replaced orig="Gallen">Galen</replaced>, 
+Clusius, Nicander, Dioscorides, and Ægineta. Outwardly in 
+[^p.7^] 
+<replaced orig="oyntments">ointments</replaced> it is profitable for scabs, morphew, tettars &c. 
+and all things that need <replaced orig="clensing">cleansing</replaced>. 
+ 
+Chelidonij, majoris, minoris. Of Celondine the greater and 
+lesser, The greater is that which we usually call Celondine, 
+the root is manifestly hot and dry, <replaced orig="clensing">cleansing</replaced> and scouring, 
+proper for such as have the yellow Jaundice, it opens obstructions 
+of the liver, and if chewed in the mouth it helps the 
+tooth-ach. 
+ 
+Celondine the lesser is that which usually we call Pilewort, 
+which though <replaced orig="Gallen">Galen</replaced>, and Dioscorides teach to be hot in the 
+fourth degree, and might happily be so in those countries 
+where they lived, yet with us it scarce exceeds the first degree, 
+the <replaced orig="Juyce">Juice</replaced> of the root mixed with <replaced orig="hony">honey</replaced> and snuffed up the 
+nose <replaced orig="purgeth">purges</replaced> the head, helps the <replaced orig="Hemorrhoyds">Hemorrhoids</replaced> or Piles being 
+bathed with it, as also doth the root only carried about one, 
+being made into an <replaced orig="oyntment">ointment</replaced> helps the [/7./] disease in the neck 
+commonly called the Kings Evil. 
+ 
+China, wonderfully extenuateth and <replaced orig="drieth">dries</replaced>, <replaced orig="provoketh">provokes</replaced> 
+sweat, <replaced orig="resisteth">resists</replaced> <replaced orig="putrifaction">putrefaction</replaced>, it strengthens the liver, helps 
+the dropsy and malignant ulcers, leprosy, itch, and the 
+French-pocks, and is profitable in diseases coming of fasting. 
+ 
+Cichorij. Of Succory, cools and dries in the second degree 
+strengthens the liver and veins, it opens obstructions, stoppings 
+of the liver and spleen. 
+ 
+Colchici. Of medow-saffron, the roots are held to be hurtful 
+to the <replaced orig="stomack">stomach</replaced>, therefore I let them alone. 
+ 
+Consolidæ, majoris, minoris, Consolida major, is that which 
+we ordinarily call Comfry, it is of a cold <replaced orig="quallity">quality</replaced>, yet pretty 
+temperate, of such a gluttenous <replaced orig="quallity">quality</replaced> that according to 
+Dioscorides they will <replaced orig="joyn">join</replaced> meat together that is cut in sunder, 
+if they be <replaced orig="boyled">boiled</replaced> with it, it is excellent for all wounds both 
+nternal and external, for spitting of blood, ruptures or 
+iburstness, pains in the back, it strengthens the reins, it stops 
+the terms, and <replaced orig="helpeth">helps</replaced> the <replaced orig="hemorrhoyds">hemorrhoids</replaced>. 
+ 
+Consolida minor is that we call, Self-heal, and the <replaced orig="Lattins">Latins</replaced> 
+Prunellla. See the <replaced orig="hearb">herb</replaced>. 
+ 
+Costi utriusque. Of Costus both sorts, being roots coming 
+[^p.8^] 
+from beyond sea, hot and dry, break wind, being <replaced orig="boild">boiled</replaced> in 
+<replaced orig="oyle">oil</replaced> it is held to help the gout by anointing the <replaced orig="greived">grieved</replaced> place 
+with it. 
+ 
+Cucumeris agrestis. Of wild cucumer roots, or cowcumber as 
+the vulgar call them, they purge <replaced orig="flegm">phlegm</replaced> and that with such 
+violence, that I would advise the country man that knows 
+not how to correct them to let them alone. 
+ 
+Cinaræ &c. Of Artichokes, the root <replaced orig="purgeth">purges</replaced> by urine 
+whereby the rank savor of the body is much amended. 
+ 
+Cynoglossæ &c. Of Houndstongue, cold and dry, being <replaced orig="rosted">roasted</replaced> 
+and laid to the fundament helps the <replaced orig="Hemorrhoyds">Hemorrhoids</replaced>, is also 
+good against burnings and scaldings. 
+ 
+Curcumæ. Of <replaced orig="Turmerick">Turmeric</replaced>, hot in the third <replaced orig="degrree">degree</replaced>, opens 
+obstructions, is profitable against the yellow jaundice, and 
+cold distempers of the liver and spleen. 
+ 
+Cyperi utriusque, longi, rotundi. Of Cyperus <replaced orig="grasse">grass</replaced> or English 
+Galanga, both sorts, long and round, is of a warming nature 
+provokes urine, breaks the stone, provokes the terms, the ashes 
+of them (being burnt) is used for Ulcers in the mouth, 
+Cankers &c. 
+ 
+Dauci. Of Carrots, are moderately hot and moist, breed 
+but little nourishment and is <replaced orig="extream">extreme</replaced> windy, I omit what 
+<replaced orig="vertues">virtues</replaced> <replaced orig="Gallen">Galen</replaced> writes of them, as being confident there was 
+such a difference between them that our Carrots will never 
+answer those effects. 
+ 
+Dentariæ majoris &c. Of Toothwort, toothed violets, or 
+Coralwort, they are drying, binding, and strengthening, are 
+good to ease pains in the sides and bowels, also being <replaced orig="boyled">boiled</replaced> 
+the decoction is said to be good to wash green wounds and 
+ulcers with. 
+ 
+Dictamni Of Dittany, is hot and dry in the third degree, 
+[/8./] 
+hastens travail in women, provokes the terms. See the leaves. 
+ 
+Doronici. Of Doronicum, a supposed kind of wolf-bane, I 
+am of opinion that Serapio and Avicenna and other Arabian 
+<replaced orig="Physitians">Physicians</replaced> did not intend that root we now use for Doronicum 
+when they wrote so much against it, I shall <replaced orig="adhear">adhere</replaced> to the 
+judgment of Gesner, which is verified by daily experience, It is 
+hot and dry in the third degree, strengthens the heart, is a <replaced orig="soveraign">sovereign</replaced> 
+[^p.9^] 
+cordial, and preservative against the pestilence; It 
+helps the vertigo or swimming of the head, is admirable against 
+the bitings of <replaced orig="venemous">venomous</replaced> beasts, and such as have taken 
+to much opium, as also for Lethargies, the joyce helps 
+hot rhewns in the eyes. 
+ 
+Dracontij, Dracunculi. Diverse Authors attribute diverse 
+<replaced orig="hearbs">herbs</replaced> to this name, it is most probable to me, that they mean 
+Dragons, the roots of which cleanse mightily, and take away 
+proud or dead flesh, the very smell of them is <replaced orig="hurtfull">hurtful</replaced> 
+for women with child, outwardly in <replaced orig="oyntments">ointments</replaced> they take away 
+scurf, morphew and sunburning, I would not wish any 
+unless very well read in <replaced orig="Physick">Physic</replaced> to take them inwardly. 
+ 
+Ebuli. Of Dwarf Elder, Walwort, or Danewort, hot and 
+dry in the third degree, the roots are as gallant a purge for 
+the <replaced orig="dropsie">dropsy</replaced> as any is under the Sun, which besides the Authority 
+of the Ancient, was often proved by the never dying Dr. 
+Butler of Cambridge, as my self have it in a manuscript of 
+his. 
+ 
+Echij. Of Vipers Bugloss, or Wild Bugloss: I warrant 
+you if Authors had not differed about this <replaced orig="hearb">herb</replaced>, the <replaced orig="Colledge">College</replaced> 
+would have set down five or six names to have explained 
+their meaning, as they usually do where they need not, 
+I have set down the most usual name, and <replaced orig="alwaies">always</replaced> quote the 
+<replaced orig="vertues">virtues</replaced> to what I set down: They say the root of this being 
+carried in ones hand, no <replaced orig="venemous">venomous</replaced> beast will bite him, (and so 
+they say of Dragons which forgot before) so that you may 
+walk without danger amongst adders, vipers, and serpents, 
+(but I <replaced orig="beleeve">believe</replaced> you had best have a care you do not tread upon 
+them) this root is cold and dry, good for such as are bitten 
+by <replaced orig="venemous">venomous</replaced> beasts, either being <replaced orig="boyled">boiled</replaced> in wine and drunk, 
+or bruised and applied to the place, being also <replaced orig="boyled">boiled</replaced> in wine 
+and drunk, it <replaced orig="encreaseth">increases</replaced> milk in nurses. 
+ 
+Ellebori, Veratri, albi, nigri. Of Hellebore white and black. 
+The root of white Hellebore, or Sneezwort, being grated and 
+snuffed up the nose, <replaced orig="causeth">causes</replaced> Sneezing, kills Rats, and Mice 
+being mixed with their meat: it is but a scurvy, churlish medicine 
+being taken inwardly, and therefore better let alone 
+than used; and yet Dr. Bright co~mends it for such as are mad 
+through <replaced orig="Melancholly">Melancholy</replaced>. 
+ 
+[^p.10^] 
+Black Hellebore, Bears-foot, or Christmas-flower; both 
+this and the former are hot and dry in the third degree. This 
+is nothing so violent nor dangerous as the former: Both <replaced orig="Gallen">Galen</replaced> 
+and Julius Alexandrinus report the roots of this <replaced orig="boyled">boiled</replaced> in 
+<replaced orig="vineger">vinegar</replaced> to be an admirable remedy against inveterate Scabs, 
+Itch and <replaced orig="Leprosie">Leprosy</replaced>, the same helps the Tooth-ach, being held in 
+the mouth, and dropped into the ears helps deafness coming 
+of <replaced orig="Melancholly">Melancholy</replaced>, and noise in the ears, [/9./] corrected with a little 
+Cinnamon (in <replaced orig="pouder">powder</replaced>) it <replaced orig="purgeth">purges</replaced> <replaced orig="Melancholly">Melancholy</replaced>, <replaced orig="resisteth">resists</replaced> 
+Madness. Also Pliny, Absyrtus, and Columella, affirm that a 
+piece of the root put into a hole made in the ear of a beast 
+troubled with the Cough, or that hath taken any poison, and 
+drawn quite through next day about that time, <replaced orig="helpeth">helps</replaced> them: 
+out of question it is a special thing to rowel <replaced orig="cattel">cattle</replaced> withal. 
+ 
+Enulæ Campanæ, Helenij. Of Elecampane, is hot and dry in 
+the third degree, <replaced orig="wholsom">wholesome</replaced> for the stomach, resists <replaced orig="poyson">poison</replaced>, 
+helps old coughs and shortness of breath, helps ruptures and 
+provokes lust: in ointments, it is good against scabs and 
+itch. 
+ 
+Endiviæ &c. Of Endive, Garden Endive which is the root 
+here specified, is held to be somewhat colder, though not so 
+dry and cleansing as that which is wild, it cools hot stomachs 
+hot livers, amends the blood corrupted by heat, and therefore 
+must needs be good in <replaced orig="feavers">fevers</replaced>; it cools the reins, and therefore 
+prevents the stone, it opens obstructions and provokes urine. 
+ 
+Eringij. Of Eringo, or Sea-holly, the roots are moderately 
+hot, something drying and cleansing, bruised and applied 
+to the place they help the Scrophula, or disease in the throat 
+called the Kings Evil, they break the stone, increase seed, stir 
+up lust, provoke the terms, &c. 
+ 
+Esulæ, majoris, minoris. Of Spurge the greater and lesser, 
+they are both (taken inwardly) too violent for a vulgar use, 
+outwardly in ointments they cleanse the skin, and take away 
+sunburning. 
+ 
+Filicis &c. <replaced orig="Fearn">Fern</replaced>, of which are two grand distinctions, viz. 
+male and fœmale, I suppose they intend the male here, because 
+they <replaced orig="adjoyn">adjoin</replaced> some other names to it, which the Greeks 
+[^p.11^] 
+attributed only to the male, the fœmale is that which we 
+call Brakes, both of them are hot and dry, and excellent 
+good for the Rickets in children, and diseases of the spleen, 
+but dangerous for women with child. 
+ 
+Filipendulæ. Of Dropwort, the roots are hot and dry, in 
+the third degree, opening, cleansing, yet somewhat binding, 
+they provoke urine, ease pains in the bladder, and are a good 
+preservative against the falling sickness. 
+ 
+Foeniculi. Of Fennel, the root is hot and dry, some say 
+in the third degree, opening, it provokes urine, and the 
+terms, stregthens the Liver, and is good against the 
+<replaced orig="Dropsie">Dropsy</replaced>. 
+ 
+Fraxini. Of Ash-tree, I know no great <replaced orig="vertues">virtues</replaced> in <replaced orig="Physick">Physic</replaced> 
+of the roots. 
+ 
+Galangæ, majoris, minoris. Galanga commonly called Galingal, 
+the greater and lesser, they are hot and dry in the third 
+[/10./] 
+degree, and the lesser are accounted the hotter, it strengthens 
+the stomach exceedingly, and takes away the pains thereof 
+coming of cold or wind, the <replaced orig="smel">smell</replaced> of it strengthens the brain, 
+it <replaced orig="releeves">relieves</replaced> faint hearts, takes away windiness of the womb, 
+heats the reins, and provokes lust. 
+ 
+Gentianæ. Of Gentian, called so from [/11./] his name that first 
+found it out, some call it Feldwort, and Baldmoney. It is 
+hot, cleansing, and scouring, a notable Counterpoyson, it 
+opens obstructions, helps the bitings of <replaced orig="venemous">venomous</replaced> beasts, and 
+mad dogs, helps digestion, and <replaced orig="cleanseth">cleanses</replaced> the body of raw <replaced orig="humors">humours</replaced>, 
+our <replaced orig="Chyrurgians">Surgeons</replaced> use the root in form of a tent, to open 
+the sore, they are also very profitable for ruptures or such 
+as are burst. 
+ 
+Glycyrrhizæ. Of Liquoris, the best that is grows in England, 
+it is hot, and moist in temperature, helps the roughness 
+of the windpipe, <replaced orig="Hoarceness">Hoarseness</replaced>, diseases in the <replaced orig="Kidneyes">Kidneys</replaced> 
+and bladder, and ulcers in the bladder, (which in my opinion 
+is a very difficult thing to cure, although curable) it concocts 
+raw <replaced orig="humors">humours</replaced> in the stomach, helps difficulty of breathing 
+is profitable for all salt <replaced orig="humors">humours</replaced>, the root dried and beaten into 
+<replaced orig="pouder">powder</replaced> and the <replaced orig="pouder">powder</replaced> put into the eye, is a special remedy 
+for a pin and a web. 
+ 
+[^p.12^] 
+Graminis. Of <replaced orig="Grasse">Grass</replaced> such as in London they call Coutch-grasse, 
+and Squitch-grasse, in Sussex Dog-grasse. It gallantly 
+provokes urine, and <replaced orig="easeth">eases</replaced> the <replaced orig="Kidneyes">Kidneys</replaced> oppressed with gravel, 
+gripings of the belly, and difficulty of urine. bruised 
+[/12./] 
+and applied to the place they speedily help green wounds. 
+ 
+Hermodactyli. Of Hermodactils, they are hot and dry, 
+purge <replaced orig="flegm">phlegm</replaced>, especially from the <replaced orig="joynts">joints</replaced>, therefore are good 
+for gouts, and other diseases in the <replaced orig="joynts">joints</replaced>. their vices are 
+corrected with long <replaced orig="peppar">pepper</replaced>, Ginger, Cinnamon, or <replaced orig="Mastick">Mastic</replaced>. 
+ 
+Hyacinthi. Of Jacinths, the roots are dry in the first degree, 
+and cold in the second, they stop <replaced orig="loosness">looseness</replaced>, bind the belly. 
+ 
+Iridis, <replaced orig="vulgaris">vulgarise</replaced>, et Florentinæ &c. Orris, or flower-deluce 
+(after the French name) both that which grows with us, and 
+and that which comes from Florence. They are hot and dry 
+in the third degree, resist <replaced orig="poyson">poison</replaced>, help shortness of breath, 
+provoke the terms, the root being green and bruised takes away 
+blackness and blewness of a <replaced orig="stroak">stroke</replaced> being applied to it. 
+ 
+Imperatoriæ &c, Of Masterwort, the root is hot and dry in 
+the third degree, mitigates the <replaced orig="rigor">rigour</replaced> of Agues, helps Dropsies, 
+provokes Sweat, breaks Carbuncles, and Plagues-sores being 
+applied to them, it is very profitable being given inwardly 
+in bruises. 
+ 
+Isatidis, Glasti. Of <replaced orig="Woad">Wood</replaced>, I know no great Physical <replaced orig="vertue">virtue</replaced> 
+in the Root, see the <replaced orig="hearb">herb</replaced>. 
+ 
+Labri veneris, Dipsaci. Fullers-Thistle, Teazle. The Root 
+<replaced orig="boyled">boiled</replaced> in wine till it be thick (quoth Dioscorides) helps by 
+unction the clefts of the fundament, as also takes away warts 
+and wens. <replaced orig="Gallen">Galen</replaced> <replaced orig="saith">says</replaced> they are dry in the second degree, and 
+I take it all Authors hold them to be cold and dry. 
+ 
+Lactucæ. Of <replaced orig="Lettice">Lattice</replaced>, I know no Physical <replaced orig="vertue">virtue</replaced> residing in 
+the Roots. 
+ 
+Lauri. Of the Bay-tree. The bark of the root drunk with 
+wine, provokes urine, breaks the stone, opens obstructions of 
+the liver and spleen, But according to Dioscorides is naught 
+[/13./] 
+for women with child. 
+ 
+Lapathi <replaced orig="acuti">acute</replaced>, Oxylapathi. Sorrel, according to <replaced orig="Gallen">Galen</replaced>, But 
+Sharp-pointed-dock, according to Dioscorides, But which the 
+[^p.13^] 
+<replaced orig="Colledge">College</replaced> intends, I know not, The Roots of Sorrel are held 
+to be profitable against the Jaundice, of Sharp-pointed-dock, 
+cleanse, and help Scabs and Itch. 
+ 
+Levistici. Of Lovage, they are hot and dry and exceeding 
+good for any diseases coming of wind. 
+ 
+Lillij Albi. Of white <replaced orig="Lillies">Lilies</replaced>, the root is something hot and 
+dry, helps burnings, softens the womb, provokes the terms, 
+if boiled in wine, is given with good success in <replaced orig="Feavers">Fevers</replaced>, Pestilences, 
+and all diseases that require suppuration, it (being 
+outwardly applied) helps Ulcers in the head, and amends the 
+ill colour of the face. 
+ 
+Malvæ. Of Mallows, they are cool, and digesting, resist 
+<replaced orig="poyson">poison</replaced>, and help Erosions, or Gnawing of the bowels or any 
+other part, as also Ulcers in the bladder. 
+ 
+Mandragoræ. Of Mandrakes, a root dangerous for its coldness, 
+being cold in the fourth degree, the root is <replaced orig="scarcy">scarce</replaced>, and 
+dangerous for the vulgar to use, <replaced orig="therefor">therefore</replaced> I leave it to those 
+that have skill. 
+ 
+Mechoachanæ &c. Of Mechoacan, It is corrected with Cinnamon, 
+is temperate, yet drying, <replaced orig="purgeth">purges</replaced> <replaced orig="flegm">phlegm</replaced> chiefly from 
+the head and <replaced orig="joynts">joints</replaced>, it is good for old diseases in the head, 
+and may safely be given even to <replaced orig="Feaverish">Feverish</replaced> bodies, because of 
+its temperature; It is also profitable against Coughs and 
+pains in the Reins, as also against the French-pox. 
+ 
+Mei &c. Spignel, the roots are hot and dry in the second 
+or third degree, and send up <replaced orig="unwholsom">unwholesome</replaced> vapours to the head, 
+and therefore <replaced orig="seing">seeing</replaced> God hath <replaced orig="alotted">allotted</replaced> such plentiful remedy 
+for those maladies, this root <replaced orig="conduceth">conduces</replaced> to the cure of; I pass 
+it by with silence. 
+ 
+Mezerei &c. Of Spurge-Olive, or Widdow-wail. See the 
+Herb, if you think it worth the seeing. 
+ 
+Mororum Celsi. Of the Mulberry tree, The bark of the root 
+is bitter, hot and dry, opens stoppings of the liver and spleen, 
+<replaced orig="purgeth">purges</replaced> the belly, and kills worms, <replaced orig="boyled">boiled</replaced> in vinegar helps 
+the tooth-ach. 
+ 
+Morsus Diaboli, Succisæ &c. Devils-bit. See the <replaced orig="hearb">herb</replaced>. 
+ 
+Nardi Spicæ, Indicæ, Celticæ. Of Spiknard, Indian, and 
+Celtique. <replaced orig="Celtick">Celtic</replaced> <replaced orig="Nard">Nerd</replaced>, according to Rondeletius wonderfully 
+[^p.14^] 
+provokes urine, They are both hot and dry, but I let 
+the degree alone, till the learned are agreed about it, the Indian 
+also provokes urine and stops fluxes, helps windiness of 
+the stomach, <replaced orig="resisteth">resists</replaced> the pestilence, helps gnawing pains of 
+the stomach, and dries up rewms that molest the head, the 
+<replaced orig="Celtick">Celtic</replaced> Spiknard, performs the same offices though in a 
+weaker measure. 
+ 
+Nenupharis, Nymphææ. Of Water <replaced orig="lillies">lilies</replaced>, they are cold 
+and dry, and stop lust, I never dived so deep to find any other 
+<replaced orig="vertue">virtue</replaced> the roots have. 
+ 
+Ononidis, Arrestæ Bovis &c. Of Cammock, or Rest-Harrow, 
+so called because it makes the Oxen stand still when they are 
+ploughing, The roots are hot and dry in the third degree, it 
+breaks the stone, (viz. the bark of it) the root it self, according 
+to Pliny, helps the falling-sickness, according to Mathiolus, 
+helps ruptures. 
+ 
+Ostrutij. Masterwort, given once before under the name of 
+Imperatoria. But I have something else to do than to write one 
+thing twice as they did. 
+ 
+Pastinacæ, Sativæ, et silvestris. Garden and wild Parsnips, 
+they are of a temperate quality <replaced orig="enclining">inclining</replaced> something to heat, 
+the Garden Parsnips provoke lust, and nourish as much and 
+more too, than any root ordinarily eaten, the Wild are more 
+physical, (and so usually are all wild plants, I could give 
+reasons for it if I <replaced orig="durst">dare</replaced> spend time and paper) being cutting, 
+cleansing, and opening, they resist the bitings of <replaced orig="venemous">venomous</replaced> 
+beasts, ease pains and stitches in the sides, and are a <replaced orig="soveraign">sovereign</replaced> 
+remedy against the Wind <replaced orig="chollick">colic</replaced>. 
+ 
+Pentaphylli. Of Cinkfoyl, commonly called five-leaved or 
+five-fingered grass, the root is very drying, but very moderately 
+hot, It is admirable against all fluxes, and stops blood 
+flowing from any part of the body, it helps infirmities of the 
+Liver and <replaced orig="Lungues">Lungs</replaced>, helps <replaced orig="putrified">putrefied</replaced> ulcers of the mouth, the 
+root <replaced orig="boyled">boiled</replaced> in <replaced orig="vineger">vinegar</replaced> is good against the Shingles, and <replaced orig="appeaseth">appeases</replaced> 
+the rage of any fretting sores. 
+ 
+Petasitæ, Of butter-bur, the roots are hot and dry in the 
+second degree, they are exceeding good in violent and pestilential 
+<replaced orig="Feavers">Fevers</replaced>, they provoke the terms, expel <replaced orig="poyson">poison</replaced>, and 
+kill worms. 
+ 
+[^p.15^] 
+Peucedani, foeniculi <replaced orig="porcini">porcine</replaced>, Of Sulphurwort, Hog-fennel, 
+or Horestrange, it is very good applied to the navils of children 
+that stick out, ruptures, held in the mouth it is a present 
+remedy for the fits of the mother, it being taken inwardly 
+gives speedy deliverance to women in travail, and brings away 
+the after birth. 
+ 
+Poeoniæ, maris, foemellæ. Of Peony, male and fœmale, they 
+are meanly hot, but more drying, the male is more effectual 
+in operation than the fœmale, the root helps women not 
+sufficiently purged after travail, it provokes the terms, & helps 
+pains in the belly, as also in the reins and bladder, Falling-sickness, 
+and convulsions in children, being either taken inwardly 
+or hung about their necks. 
+ 
+Phu, Valerianæ, majoris, minoris. Valerian, or Setwal, greater 
+and lesser. They are temperately hot, the greater provokes 
+urine and the terms, helps the strangury, <replaced orig="staies">stays</replaced> rewms in the 
+[/14./] 
+head, and takes away the prickling pains thereof, The lesser 
+resists <replaced orig="poyson">poison</replaced>, aswageth the swellings of the cods, coming 
+either through wind or cold, helps cold taken after sweating 
+or <replaced orig="labor">labour</replaced>, Wind <replaced orig="chollick">colic</replaced>, outwardly it draws out thorns, 
+[/15./] 
+and cures both wounds and ulcers. 
+ 
+Pimpinellæ &c. Of Burnet, It doth this good, to bring 
+forth a gallant physical <replaced orig="hearb">herb</replaced>. 
+ 
+Plantaginis. Of Plantane, the root is something dryer than 
+the leaf, but not so cold, it opens stoppages of the liver helps 
+the Jaundice and ulcers of the reins and bladder. Dioscorides 
+<replaced orig="affirmeth">affirms</replaced> that one root helps a quotidian ague, three a tertian, 
+and four a quartan, which though our late Writers hold 
+to be fabulous, yet there may be a greater truth in it than 
+they are aware of, yet am I as <replaced orig="loth">loath</replaced> to make superstition a 
+foundation to build on as any of them, let experience be 
+judge, and then we weigh not modern Jury-men. 
+ 
+Polypodij. Of Polypodium, or <replaced orig="Fearn">Fern</replaced> of the Oak, It is a 
+gallant though gentle purger of <replaced orig="Melancholly">Melancholy</replaced>, Also in the 
+opinion of Mesue (as famous a <replaced orig="Physitian">Physician</replaced> as ever I read, for a 
+Gallenist) it dries up superfluous humours, takes away swellings 
+from the hands, feet, knees, and <replaced orig="joynts">joints</replaced>, stitches, and 
+pains in the sides, infirmities of the spleen, rickets: correct 
+[^p.16^] 
+it with a few Annis seeds, or Fennel seeds, or a little Ginger, 
+and then the stomach will not loath it. 
+ 
+Poligonati, sigilli Solomonis &c. Of Solomons Seal, Let it 
+be no <replaced orig="dishonor">dishonour</replaced> to <replaced orig="Gallen">Galen</replaced> nor Dioscorides that English men have 
+found out in late <replaced orig="daies">days</replaced> that these roots may safely be given 
+inwardly, <replaced orig="Intruth">In truth</replaced> they may be excused if the difference of 
+the climates they and we lived and now live in be but considered, 
+neither I hope will my country men blame me for following 
+only Dr. Experience in the <replaced orig="vertues">virtues</replaced> of this root, stamped 
+and <replaced orig="boyled">boiled</replaced> in wine it speedily helps (being drunk I mean 
+for it will not do the deed by looking upon it) all broken 
+bones, it is of an incredible <replaced orig="vertue">virtue</replaced> that way, as also being 
+stamped and applied to the place, it soon heals all wounds, 
+and quickly takes away the black and blew marks of blows, 
+being bruised and applied to the place, and for these, I am 
+<replaced orig="perswaded">persuaded</replaced> there is not a better medicine under the Sun, or as 
+Copernicus and Kepler will have it, above the Sun. 
+ 
+Porri. Of Leeks, they say they are hot and dry in the fourth 
+degree, they breed but ill <replaced orig="favored">favoured</replaced> nourishment at the best, 
+they spoil the eyes, heat the body, cause <replaced orig="troublesom">troublesome</replaced> sleep, and 
+are <replaced orig="noisom">noisome</replaced> to the stomach, yet are they good for something 
+else, than only to stick in Welchmens hats, for the <replaced orig="juyce">juice</replaced> of 
+them dropped into the ears, takes away the noise of them, 
+mixed with a little vinegar and snuffed up the nose, it <replaced orig="staies">stays</replaced> 
+the bleeding of it, they are better of the two <replaced orig="boyled">boiled</replaced> than raw, 
+but both <replaced orig="waies">ways</replaced>, exceeding hurtful for ulcers in the bladder, 
+and so are Onions and <replaced orig="Garlick">Garlic</replaced>. 
+ 
+Prunellarum Silvestrium. Of Sloe-bush, or Sloe-tree, I think 
+the <replaced orig="Colledge">College</replaced> set this amongst the roots only for fashion-sake, 
+and I did it because they did. 
+ 
+Pyrethri Salivaris &c. <replaced orig="Pelitory">Pellitory</replaced> of Spain, it is hot and dry 
+in the fourth degree, chewed in the mouth, it draws away 
+<replaced orig="Rewm">Room</replaced> in the tooth-ach, bruised and <replaced orig="boyled">boiled</replaced> in <replaced orig="oyl">oil</replaced>, it provokes 
+sweat by unction, inwardly taken, they say it helps <replaced orig="Palsyes">Palsies</replaced> 
+and other cold effects of the brain and nerves. 
+ 
+Rhapontici. Reupontick, or Reubarb of Pontus, it takes away 
+windiness, and weakness of the stomach, sighings, sobbings, 
+spittings of blood, diseases of the liver and spleen, rickts 
+&c. 
+ 
+[^p.17^] 
+Rhabarbari. Of Reubarb, It gently <replaced orig="purgeth">purges</replaced> <replaced orig="choller">choler</replaced> from 
+the stomach and liver, opens stoppings, withstands the <replaced orig="dropsie">dropsy</replaced>, 
+and <replaced orig="Hypocondriack">Hypochondriac</replaced> <replaced orig="melancholly">melancholy</replaced>, a little <replaced orig="boyling">boiling</replaced> takes 
+away the <replaced orig="vertue">virtue</replaced> of it, and therefore it is best given by infusion 
+only, it leaves a binding quality behind it, therefore dried a 
+little by the fire and beaten into powder it is usually given in 
+fluxes. 
+ 
+Rhaphani, Domesticæ et sylvestris. Of Radishes, Garden and 
+Wild. Garden Radishes provoke urine, break the stone, and 
+purge by urine exceedingly, yet breed very bad blood, are offensive 
+to the stomach, and hard of digestion, hot and dry in 
+<replaced orig="quallity">quality</replaced>. Wild or Horse Radishes, such as grow in ditches, 
+are hotter and drier than the former, and more effectual in 
+the premises. 
+ 
+Rhodiæ, rad. Rose root, called (I suppose) by that name 
+because of its sweetness. Stamped and applied to the head it 
+mitigates the pains thereof, being somewhat cool in quality. 
+ 
+Rhabarbari-Monachorum. Patience, Monks-Reubarb, or Bastard-Reubarb, 
+it also <replaced orig="purgeth">purges</replaced>, <replaced orig="cleanseth">cleanses</replaced> the blood, opens 
+obstructions of the liver. 
+ 
+Rubiæ tinctorum. Of Maddir, In this were <replaced orig="Gallen">Galen</replaced> and Dioscorides 
+quite beside the cushion, in saying this root was opening, 
+and cleansing, when clean contrary, it is both drying, 
+and binding, yet not without some opening quality, for it 
+helps the Yellow <replaced orig="Jaundise">Jaundice</replaced>, and therefore opens the obstructions 
+of the liver and gall, it is given with good success to such 
+as have had bruises by falls, stops <replaced orig="loosness">looseness</replaced>, the Hemorrhoids, 
+and the Terms in women. 
+ 
+Rusci. Of Knee-holly, or Butchers-broom, or Bruscus, 
+they are meanly hot and dry, provokes urine, break the stone, 
+and help such as cannot piss freely. 
+ 
+Sambuci. Of Elder, I know no wonders the root will 
+do. 
+ 
+Sarsæ-Parigliæ. Of <replaced orig="Sarsa-Parilla">Sarsaparilla</replaced>, or Bindweed, somewhat 
+hot and dry, helpful against pains in the head, and <replaced orig="joynts">joints</replaced>, 
+they provoke sweat, and are used familiarly in drying Diet-drinks. 
+ 
+[^p.18^] 
+Satyrii utriusque. Of Satyrion, each sort, they are hot and 
+moist in temper, provoke lust, and increase seed, each branch 
+<replaced orig="beareth">bears</replaced> two roots, both spongy, yet the one more solid than 
+the other, which is of most <replaced orig="vertue">virtue</replaced>, and indeed only to be used, 
+for some say the most spongy root is quite contrary in 
+operation to the other, as the one <replaced orig="encreaseth">increases</replaced> the other <replaced orig="decreaseth">decreases</replaced>, 
+yet if in your eye they contend for dignities, put them 
+both in water, and the most solid which is for use will sink, 
+the other swim. 
+ 
+Saxifragiæ albæ. Of white Saxifrage, in Sussex we call them 
+Lady-smocks, the roots powerful break the stone, expel wind, 
+provoke urine and cleanse the reins. 
+ 
+Sanguisorbæ. A kind of Burnet. 
+ 
+Scabiosæ. Of Scabious, the roots either <replaced orig="boyled">boiled</replaced> or beaten 
+[/16./] 
+into <replaced orig="pouder">powder</replaced> and so taken, helps such as are <replaced orig="extreamly">extremely</replaced> troubled 
+with scabs and itch, are medicinal in the Frech-pocks, 
+hard swellings, inward wounds, being of a drying, cleansing 
+and healing faculty. 
+ 
+Scordii. Of Scordium, or water-Germander: see the 
+<replaced orig="hearb">herb</replaced>. 
+ 
+Scillæ. Of Squills, see the <replaced orig="vineger">vinegar</replaced>, and wine of Squills in 
+the compounds. 
+ 
+Scrophulariæ &c. Of Figwort, The roots being of the same 
+<replaced orig="vertue">virtue</replaced> with the <replaced orig="hearb">herb</replaced>, I refer you thither. 
+ 
+Scorzoneræ. Of Vipers-grass, The root cheers the heart and 
+strengthens the vital spirits, resists <replaced orig="poyson">poison</replaced>, helps passions and 
+[/17./] 
+tremblings of the heart, faintness, sadness, and <replaced orig="melancholly">melancholy</replaced>, 
+opens stoppings of the liver and spleen, provokes the terms 
+<replaced orig="easeth">eases</replaced> women of the fits of the mother, and helps swimmings 
+in the head. 
+ 
+Seseleos. Of Seleli, or Hart-wort, The roots provoke urine 
+helps the falling sickness. 
+ 
+Sisari, secacul. Of Skirrets, they are hot and moist of good 
+nourishment, something windy as all roots are, by reason of 
+which they provoke lust, they stir up <replaced orig="apetite">appetite</replaced> and provoke 
+urine. 
+ 
+I hope I may without offence forbear mentioning, Comfry, 
+and black Briony, twice, though the <replaced orig="Colledg">College</replaced> did not. 
+ 
+[^Chapters on barks, herbs, flowers, fruits, seeds, minerals and stones omitted.^] 
+[^Extract 2, pp. 78-94^] 
+ 
+[^p.78^] 
+[}COMPOVNDS 
+CONTAINED IN THE 
+DISPENSATORY}] 
+ 
+[}A PREFACE.}] 
+ 
+I Shall desire only to give the Reader notice: 
+ 
+1. That I left out all the Simple distilled waters, quoted by 
+the <replaced orig="Colledge">College</replaced>; many of which were ridiculous, the simples being 
+not to be obtained green in this Land: And sure none in 
+Bedlam are so mad as to go about to <replaced orig="distil">distill</replaced> simple water out of dry 
+things. 
+ 
+2. If any desire to know the <replaced orig="vertues">virtues</replaced> of distilled waters, let them 
+repair, to the Herbs themselves, part of the <replaced orig="vertues">virtues</replaced> of which the Waters 
+have, though (I am of opinion) not so much as people think they 
+have. 
+ 
+3. The best way (that I know) to <replaced orig="distil">distill</replaced> Simple Waters, is, To 
+bruise the Herbs or Flowers, of what you would distill, and having 
+pressed out the <replaced orig="juyce">juice</replaced>, <replaced orig="distil">distill</replaced> it in a Glass-stil in sand; and so will the 
+Water be better by odds than if distilled in a Peuter-stil as usually 
+they do. 
+ 
+4. Only and barely the Receipts themselves were quoted by the 
+<replaced orig="Colledge">College</replaced>; the <replaced orig="Vertues">Virtues</replaced> of them, as also the Marginal Notes, and whatsoever 
+sentences are marked with a capital A. are Additions. The 
+<replaced orig="Colledge">College</replaced> when they made this Dispensatory, never intending their 
+Country so much good as to quote the <replaced orig="Vertues">Virtues</replaced>. 
+ 
+[^p.79^] 
+[}AN INTERPRETATION OF CERTAIN 
+COMMON NAMES.}] 
+ 
+[^Beginning of a list in two columns.^] 
+The five Cordial Flowers. 
+ 
+Of Roses, Violets, <replaced orig="Borrage">Borage</replaced>, 
+<replaced orig="Buglosse">Bugloss</replaced>, Rosemary, or 
+Bawm-flowers. 
+ 
+The five Emollient Herbs. 
+ 
+Marshmallows, Mallows, 
+Beets or Brank-Ursine, 
+Mercury, Violets, or Pellitory 
+of the wall. 
+ 
+The four greater hot Seeds. 
+ 
+Of Annis, Fennel Caraway, 
+<replaced orig="Commin">Come</replaced>. 
+ 
+The four lesser hot Seeds. 
+ 
+Of Bishops-weed, Amomum, 
+Smallage, Carrots. 
+ 
+The four greater cold Seeds. 
+ 
+Of Gourds, Citruls, Cucumers, 
+Melons. 
+ 
+The four lesser cold Seeds. 
+ 
+Of Endive, Succory, <replaced orig="Lettice">Lattice</replaced>, 
+<replaced orig="Purslain">Purslane</replaced>. 
+ 
+The five greater opening Roots. 
+ 
+Of Smallage, Sparagus, Fennel, 
+<replaced orig="Parsly">Parsley</replaced>, Bruscus. 
+ 
+The two Roots. 
+ 
+Of Fennel, <replaced orig="Parsly">Parsley</replaced>. 
+ 
+The five lesser opening Roots. 
+ 
+Of Grass, Eringo, Capers, 
+Rest-harrow, Madir. 
+ 
+[^A column change.^] 
+The five capillary Herbs. 
+ 
+The four sorts of Maiden-hair, 
+Cetrach. 
+ 
+The four Pluretical Waters. 
+ 
+Of our Ladies-Thistle, Dandelion, 
+Carduus-Benedictus, 
+Scabios. 
+ 
+Common hot flowers. 
+ 
+Of Chamomel, Meliot, Orris 
+ 
+Three stomach <replaced orig="Oyls">Oils</replaced>. 
+ 
+Of Wormwood, Quinces, 
+Mastich. 
+ 
+Four hot Ointments. 
+ 
+Of Agrippa, Althea, <replaced orig="Aregon">Are gone</replaced>, 
+Martiatum. 
+ 
+Four cold Ointments. 
+ 
+Album Camphoratum, Populion, 
+Refrigerans <replaced orig="Galeni">Galen</replaced>, 
+Rosatum. 
+ 
+Four Ointments fit for 
+<replaced orig="Chyrurgians">Surgeons</replaced>. 
+ 
+Basilicon, to digest. 
+Viride Apostoloru~, to <replaced orig="clense">cleanse</replaced>. 
+Aurium, to breed flesh. 
+Album, to skin. 
+ 
+Precious Fragments. 
+ 
+Of <replaced orig="Saphire">Sapphire</replaced>, <replaced orig="Granate">Granite</replaced>, Emerald, 
+<replaced orig="Jacynth">Jacinth</replaced>, Sardine, 
+Ruby, Pearls, Amethist. 
+[^End of a list in two columns.^] 
+ 
+[^p.80^] 
+[}COMPOVND 
+VVATERS.}] 
+ 
+[}Wormwood Water, the lesser Composition.}] 
+ 
+TAKE of dried [/18./] Wormwood two pound, Annis seeds 
+bruised half a pound, infuse them in six [/19./] <replaced orig="congies">congees</replaced> of 
+[/20./] <replaced orig="smal">small</replaced> wines for 24. hours, then draw out the spirit with 
+an Alembick, adding to the distillation so much Sugar as is 
+sufficient. 
+ 
+After the same manner is drawn Water of Angellica Roots, 
+Annis-seed Water, <replaced orig="Orrange">Orange</replaced> pill Water, Lemmon-pill Water, 
+Bawm Water, Mint Water, Rosemary Water, Sage Water, &c. 
+ 
+A. If you desire the <replaced orig="vertues">virtues</replaced> of these waters see the <replaced orig="vertues">virtues</replaced> of 
+the herbs and pills &c. and then your reason will tell you the 
+waters have the same opperations, and may happily produce 
+a better effect upon cold stomachs. 
+ 
+[}Wormwood Water the greater Composition.}] 
+ 
+Take of Roman and common Wormwood, of each a 
+pound, Sage, Mints, Bawm, of each two handfuls, Galanga, 
+Ginger, Aromatical reed, Alicampane roots, of each three 
+drachms, Liquoris, an ounce, Raisons of the Sun three 
+ounces, Annisseeds, sweet Fennel seeds of each six drachms, 
+Cinnamon, Cloves, Nutmegs, of each two drachms, Cardamoms, 
+Cubebs, of each one drachm, Let the things be cut 
+that are to be cut, and the things bruised that are to be bruised, 
+all of them infused in 20. pints of Spanish wines, for the space 
+of 24. hours, and then distilled in an Alembick according to 
+art, and <replaced orig="sweetned">sweetened</replaced> with Sugar. 
+ 
+[^p.81^] 
+A. This water is excellent good for cold stomachs, & (taken 
+with discretion) helps digestion in such in whom it is weak, 
+it kills worms in the belly, <replaced orig="easeth">eases</replaced> pains in the teeth, and given 
+in convenient mixtures, is profitable in <replaced orig="feavers">fevers</replaced>. 
+ 
+[}Angelica Water the greater Composition.}] 
+ 
+Take of [/21./] Angelica two pounds, Annis-seed half a pound, Coriander & <replaced orig="Carawaies">Caraways</replaced> of each four ounces, Zedoary bruised, three 
+ounces, infuse them 24. hours in six <replaced orig="congies">congees</replaced> of small wines, then 
+draw out the spirit, and sweeten it with sugar. 
+ 
+A. It comforts the heart, <replaced orig="cherisheth">cherishes</replaced> the vital spirits, <replaced orig="resisteth">resists</replaced> 
+[/22./] 
+the Pestilence and Infection. 
+ 
+[}Langius his Bezoar Water.}] 
+ 
+Take of [/23./] Chelondine w=th= the roots, three handfuls and 
+an half, Rue a handful, Scordium two handfuls, Dittany 
+of Creet, Carduus Benedictus of each one handful and an half, 
+Zedoary and Angelica roots of each three drachms, Citron 
+and <replaced orig="Lemmon">Lemon</replaced> <replaced orig="pils">pills</replaced> of each two drachms and an half, Clove-gilliflowers, 
+Roses of each two drachms, Cinnamon, Cloves, 
+of each five drachms and an half, Venice treacle three ounces, 
+Mithridate an ounce and an half, <replaced orig="Camphire">Camphor</replaced> two scruples, 
+Troches of Vipers, Mace of each a drachm and an half, Wood 
+of Aloes two scruples, Yellow sanders a drachm and an half, 
+Conserves of Clove-gilliflowers two ounces, Carduus seeds 
+an ounce, <replaced orig="Pouder">Powder</replaced> of Electuary [/24./] Liberantis five scruples, Filings 
+of Unicorns-horn, or Harts horn a drachm and an half: 
+Let these Ingredients (being cut and bruised) be infused for 
+three <replaced orig="daies">days</replaced> in the spirit of Wine and Malaga Wine, of each 
+three pound, then <replaced orig="stil'd">styled</replaced> in a Glasse-Stil in [/25./] Balneo Mariæ according 
+to art. 
+ 
+After it is half stilled, that which remains in the <replaced orig="Stil">Still</replaced> may 
+be strained through a <replaced orig="linnen">linen</replaced> <replaced orig="cloath">cloth</replaced>, and by evaporation reduced 
+to the <replaced orig="thicknesse">thickness</replaced> of Honey, and called by the name of 
+Bezoartick Extraction. 
+ 
+After the same <replaced orig="maner">manner</replaced> may Extractions be made of almost 
+all Compound Waters. 
+ 
+[^p.82^] 
+A. Extracts have the same <replaced orig="vertues">virtues</replaced> with the waters they are 
+made from, only the different form is to please the quaint 
+pallates of such whose fancy <replaced orig="loaths">loathes</replaced> any one particular 
+form. 
+ 
+A. This Bezoar water <replaced orig="strengtheneth">strengthens</replaced> the heart, Arteries and 
+spirit vital. It <replaced orig="provoketh">provokes</replaced> sweat, and is <replaced orig="exceding">exceeding</replaced> good in 
+pestilential <replaced orig="feavers">fevers</replaced>, in health it withstands <replaced orig="melancholly">melancholy</replaced> and 
+consumptions, and makes a merry <replaced orig="blith">blithe</replaced> cheerful creature. 
+ 
+[}Mathiolus, his Bezoar Water.}] 
+ 
+Take of Mathiolus his great Antidote, syrup of Citron 
+pills, of each one pound, spirit of wine distilled five times over, 
+five pound, put all these in a <replaced orig="glasse">glass</replaced> that is much to big to 
+hold them, stop it close that the spirit fly not out, then shake 
+it together, that the Electuary may be well mingled with the 
+spirit, so let it stand a month, shaking it together twice a week 
+(for the Electuary will settle to the bottom) The month being 
+ended, <replaced orig="powr">power</replaced> off the <replaced orig="cleer">clear</replaced> water into another <replaced orig="glasse">glass</replaced> to be 
+kept for your use, stopping it very close with wax and parchment 
+else the strength will easily fly away in vapours. 
+ 
+A. Mathiolus is very large in commendation of this water, 
+for (quoth he) four drachms (that is half an ounce) of this 
+water being taken, either by it self or in the like quantity of 
+good wine, or any other cordial water, so absolutely & speedily 
+<replaced orig="cureth">cures</replaced> the bitings of any venemos beasts whatsoever that 
+although the danger of death be such that the patient hath 
+lost his speech, sight, & almost al the rest of his <replaced orig="sences">senses</replaced>, yet <replaced orig="wil">will</replaced> 
+he be roused up like a man out of his sleep, to the wonderful 
+admiration of the beholders, which he <replaced orig="saith">says</replaced> he hath proved 
+a [/26./] thousand times. It draws away <replaced orig="poyson">poison</replaced> from the heart, 
+and cures such as have drunk <replaced orig="poyson">poison</replaced>, it calls <replaced orig="poyson">poison</replaced> out of 
+the stomach by vomit, and helps such as have the pestilence. 
+ 
+A. For my own particular part, thus much I can testify by 
+experience in the commendations of it I have known it given 
+in acute, in peracute <replaced orig="feavers">fevers</replaced> with gallant <replaced orig="successe">success</replaced> as also in 
+consumptions, yea, in Hecticks, and in Gallens supposed 
+[^p.83^] 
+[/27./] incurable Marasmos, neither hath it missed the desired effects, 
+and therefore out of question it <replaced orig="strengtheneth">strengthens</replaced> the heart 
+exceedingly, and the spirit vital. 
+ 
+And then your own genius will tell you, this is fittest for 
+cold complexions, cold diseases, and such diseases as the 
+heart is most afflicted in. 
+ 
+[}Capon Water.}] 
+ 
+Take a Capon, (the bowels and fat being taken away) cut 
+him in bits, and <replaced orig="boyl">boil</replaced> him sufficiently in a [/28./] sufficient quantity 
+of water, according to art. 
+ 
+Take of this broth being strained, two pound and a half, 
+<replaced orig="Borrage">Borage</replaced>, and <replaced orig="Buglosse">Bugloss</replaced> water, white Wine, of each one pound 
+and an half, Flowers of Roses, Violets, <replaced orig="Borrage">Borage</replaced>, and <replaced orig="Buglosse">Bugloss</replaced> 
+of each two drachms, Crumbs of new bread, half a 
+pound, bruised Cinnamon an ounce, distill it in <replaced orig="Glasse">Glass</replaced> Still 
+according to art. 
+ 
+A. Divers <replaced orig="Physitians">Physicians</replaced> have written several recepts of this water, 
+as Gesner, <replaced orig="Andr">Andre</replaced>. e Lacuna, Med. Florent. and Coloniens. But 
+the truth is this recept (although our Physicians conceal it) 
+was borrowed from the Augustan <replaced orig="Physitians">Physicians</replaced>, and only because 
+they thought (as I suppose) a Capon must not be eaten 
+without bread, they added the bread to it, the rest is verbatim 
+from the Augustan <replaced orig="Physitians">Physicians</replaced>. 
+ 
+A. The Simples are most of them <replaced orig="apropriated">appropriated</replaced> to the heart, 
+and in truth the Composition greatly <replaced orig="nourisheth">nourishes</replaced> and <replaced orig="strengtheneth">strengthens</replaced> 
+such as are in consumptions, and <replaced orig="restoreth">restores</replaced> strength 
+lost, either by <replaced orig="feavers">fevers</replaced> or other <replaced orig="sicknesse">sickness</replaced>, It is a <replaced orig="soveraign">sovereign</replaced> remedy 
+for <replaced orig="Hectick">Hectic</replaced> <replaced orig="feavers">fevers</replaced>, and marasmos which is nothing else 
+but a consumption coming from them, let such as are subject 
+to these diseases hold it for a Jewel. 
+ 
+[}Cinnamon Water.}] 
+ 
+Take of bruised Cinnamon a pound and an half, Spanish 
+wine 12. pints: Infuse the Cinnamon in the wine 24. hours, 
+then <replaced orig="distil">distill</replaced> them in an Alimbick; draw out three pints of 
+[^p.84^] 
+strong waters, (and small as much as you think sufficient) 
+sweeten it with sugar sufficiently, and so keep it for your use. 
+ 
+A. The <replaced orig="vertues">virtues</replaced> are the same that Cinnamon it self hath, to 
+which I refer you. 
+ 
+[}Mathiolus his Cinnamon Water.}] 
+ 
+Take of bruised Cinnamon a pound, put it into a Glasse-Still, 
+<replaced orig="powring">pouring</replaced> upon it four pints of Rosewater, a pint and 
+an half of Spanish wine, stop the Still body close, and place it 
+in a warm bath 24. hours, then put on the Still-head, lute it 
+<replaced orig="wel">well</replaced> and <replaced orig="distil">distill</replaced> it according to art. 
+ 
+A. Mathiolus appoints Wine of Creet 4. pints, and that is 
+al the alteratton. 
+ 
+A. The Authors own Judgment is, That it strengthens the 
+brain, heart, liver, stomach, <replaced orig="lunges">lungs</replaced> spleen and nerves, quickens 
+the sight, <replaced orig="resisteth">resists</replaced> poison, <replaced orig="helpeth">helps</replaced> bitings by <replaced orig="venemous">venomous</replaced> 
+beasts, <replaced orig="causeth">causes</replaced> a sweet breath, <replaced orig="bringeth">brings</replaced> down the terms in women, 
+and hath <replaced orig="vertue">virtue</replaced>, attenuating, opening, digesting and 
+strengthening. 
+ 
+A. The truth is, I <replaced orig="beleeve">believe</replaced> it prevails in cold diseases, being 
+orderly regulated in quantity, according to the nature of the 
+disease, the age and strength of the patient, and the season of 
+the year. 
+ 
+[}Cinnamon Water made by Infusion.}] 
+ 
+Take of Cinnamon bruised, four ounces, Spirit of Wine, 
+two pints, infuse them together 4. <replaced orig="daies">days</replaced>, in a large <replaced orig="glasse">glass</replaced> close 
+stopped with cork and a bladder, shaking the <replaced orig="glasse">glass</replaced> twice 
+a day. 
+ 
+Dissolve half a pound of white sugar Candy, in a quart of 
+Rose-water, then mix both these liquors together, then put 
+into them four grains of musk, and half a scruple of Ambergreese 
+tied up in a fine rag and hung to the top of the <replaced orig="glasse">glass</replaced>. 
+ 
+A. In my opinion this latter water is more prevalent for 
+heart-qualms, and faintings than Mathiolus his. 
+ 
+[^p.85^] 
+[}Aqua Ceolestis. Mathiolus.}] 
+ 
+Take of Cinnamon an ounce, Ginger half an ounce, white 
+red and yellow Sanders, of each six drachms, Cloves, Gallanga, 
+Nutmegs, of each two drachms and an half; Mace, 
+Cubebs of each one drachm, both sorts of Cardamoms, Nigella 
+seeds of each three drachms, Zedoary half an ounce, 
+seeds of Annis, Sweet-Fennel, Wild-Parsneps, <replaced orig="Bazil">Basil</replaced>, 
+of each a drachm and an half, Roots of Angelica, Avens, 
+Calamus Aromaticus, Liquoris, Valerian the <replaced orig="lesse">less</replaced>, the leaves 
+of <replaced orig="Glary">Glory</replaced>, Time, Calaminth, Peny-royal, Mints, Mother of 
+Time, Marjoram, of each two drachms; the flowers of Red-Roses, 
+Sage, Rosemary, Betony, Stœchas, Bugloss, <replaced orig="Borrage">Borage</replaced>, 
+of each one drachm and an half; Citron <replaced orig="pils">pills</replaced>, three drachms: 
+Let the things be bruised that are to be bruised and infused 
+15. <replaced orig="daies">days</replaced> in 12 pints of the best spirit of wine, in a <replaced orig="glasse">glass</replaced> body 
+<replaced orig="wel">well</replaced> stopped, and then let it be distilled in Balneo Mariæ according 
+to art. Adding to the distilled water, Pouders of Diambra, 
+Diamoscu dulce, Armaticum Rosatum, Diamargariton 
+frigidum, Diarhodon Abbatis, <replaced orig="pouder">powder</replaced> of Electuary de <replaced orig="gemmis">gems</replaced>, 
+of each three drachms; yellow Sanders bruised two drachms, 
+Musk, Ambergreese, of each a scruple tied up in a fine <replaced orig="ragg">rag</replaced>, 
+<replaced orig="cleer">clear</replaced> <replaced orig="Julip">Julep</replaced> of Roses a pound; shake them <replaced orig="wel">well</replaced> together, stopping 
+the <replaced orig="glasse">glass</replaced> close with wax and parchment till it grow 
+<replaced orig="cleer">clear</replaced> to be kept for your use. 
+ 
+A. It <replaced orig="comforteth">comforts</replaced> and <replaced orig="cherisheth">cherishes</replaced> the heart, <replaced orig="reviveth">revives</replaced> drooping 
+spirits, <replaced orig="prevaileth">prevails</replaced> against the plague and al malignant 
+<replaced orig="Feavers">Fevers</replaced>, <replaced orig="preserveth">preserves</replaced> the <replaced orig="sences">senses</replaced>, and <replaced orig="restoreth">restores</replaced> such as are in 
+Consumptions. 
+ 
+A. Only take this Caution, both concerning this and al other 
+strong waters; They are not safely given by themselves in 
+<replaced orig="Feavers">Fevers</replaced>, (because by their hot <replaced orig="quallity">quality</replaced> they inflame the blood 
+and ad fuel to the fire) but mixed with other convenient cordials, 
+and consideration had to the strength, <replaced orig="complection">complexion</replaced>, 
+habit, age, and sex of the patient, for my own part, I aim sincerely 
+at the <replaced orig="publick">public</replaced> good in writing of this, and therefore 
+as I would not have <replaced orig="Physitians">Physicians</replaced> domineer; so I would not 
+have fools turn <replaced orig="Physitians">Physicians</replaced>. 
+ 
+[^p.86^] 
+[}A Cordial Water.}] 
+ 
+Take of Angelica leaves half a pound, Carduus leaves six 
+ounces, Bawm, and Sage, of each four ounces, Angelica 
+seeds six ounces, sweet fennel seeds nine ounces, let the herbs 
+(being dry) and the seeds be bruised <replaced orig="grosly">grossly</replaced>, to which add, the 
+pouders of Aromaticum Rosatum, and Diamoscu Dulce, of each 
+an ounce and an half, Infuse these two <replaced orig="daies">days</replaced> in 32. pints of 
+Spanish wine, then distill them according to art, draw out 
+ten pints of strong spirit, which sweeten (after two <replaced orig="daies">days</replaced> standing) 
+with a pound and an half of Sugar, dissolved in [/29./] 
+Rosewater over the fire. 
+ 
+Of the smaller spirit you may draw out six pints or 
+more if you please for the [/30./] mixtures of other Cordials. 
+ 
+A. The chief end of composing this medicine was to strengthen 
+the heart, and resist infection, and therefore is very 
+<replaced orig="wholsom">wholesome</replaced> in <replaced orig="pestilentiall">pestilential</replaced> times, and for such as walk in 
+stinking aires. 
+ 
+[}Aqua Cordialis frigida Saxoniæ.}] 
+ 
+Take of the juice of <replaced orig="Borrage">Borage</replaced>, <replaced orig="Buglosse">Bugloss</replaced>, Bawm, Bistort, 
+Vervain, [/31./] Sharp-pointed Dock, Sorrel, Goats-Rue, Mirrhis, 
+or sweet Chervil, Blew-bottle great and <replaced orig="smal">small</replaced>, or the double 
+quantity of the small, Roses, Marigolds, <replaced orig="Lemmons">Lemons</replaced>, Citrons, 
+of each six ounces, juice of Burnet and Cinkfoyl, of each 
+three ounces, white wine Vinegar a pint, Purslain-seeds, 
+Water-lillie Flowers, of each two ounces, Earth of Lemnos, 
+Silecia, and Samos, of each an ounce and an half, <replaced orig="Pouder">Powder</replaced> 
+called Diatrion Santalon, six drachms, Pearl prepared with 
+juice of Citrons, three drachms, Infuse al the Pouders, Flowers, 
+and Seeds, (the Earths and Pearls excepted) in the <replaced orig="juyces">juices</replaced>, 
+and Vinegar, for three <replaced orig="daies">days</replaced>, then distill it in water in 
+a glasse-Still, and add to the distilled water, the Earths and 
+Pearls in fine <replaced orig="pouder">powder</replaced>, shake it together, and let it stand till it 
+be <replaced orig="cleer">clear</replaced>, and keep it for your use. 
+ 
+[^p.87^] 
+A. It mightily cools the blood, and therefore profitable 
+in <replaced orig="feavers">fevers</replaced>, and all diseases proceeding of heat of blood, it 
+provokes sleep. 
+ 
+[}Langius his Ant-Epileptical Water.}] 
+ 
+Take of the Flowers of [/32./] Line tree, three handfuls, <replaced orig="Lillies">Lilies</replaced> 
+of the <replaced orig="vally">valley</replaced> five handfuls, peony seeds half an ounce, infuse 
+them eight <replaced orig="daies">days</replaced>, in five pints of the best White-wine, then distill 
+them in Balneo Mariæ, with a gentle fire, Afterward 
+ 
+Take of the flowers of Rosemary, half a handful, of the 
+flowers of Lavender a handful, Rue a handful, Betony half a 
+handful, Stœchas of Arabia one pugil, Peony roots two 
+drachms and an half, Dictamny two drachms, <replaced orig="Squils">Squills</replaced> prepared 
+one drachm and an half, Pellitory of Spain half a drachm, 
+<replaced orig="Misletoe">Mistletoe</replaced> of the Oak two drachms, Castorium one drachm, 
+Cubebs, Cardamoms of each one scruple, Mace half a dram, 
+Cloves two scruples, Nutmegs one scruple, let al these being 
+bruised, be infused in the water aforesaid, (and shaken <replaced orig="wel">well</replaced> together) 
+for six <replaced orig="daies">days</replaced>, then distilled again in Balneo Mariæ, 
+and the water kept in a <replaced orig="glasse">glass</replaced> stopped. 
+ 
+You may with one and the same <replaced orig="labor">labour</replaced> prepare and extract 
+which <replaced orig="wil">will</replaced> be very efficacious. 
+ 
+A. If the authority of Erastus, or daily experience will 
+serve the turn, then was this reciept chiefly compiled against 
+the convulsion fits, but the derivation of the word 
+notes it to be prevalent against the falling <replaced orig="sicknesse">sickness</replaced> also, for 
+[^GREEK OMITTED^] in Greek signifies the Falling <replaced orig="sicknesse">sickness</replaced>, and indeed 
+Erastus & experience pleads for this also: It is true the 
+compostition of Erastus differs from this, and so doth another 
+recited by Johannes Langius, but it seems our <replaced orig="Physitians">Physicians</replaced>, for 
+some reasons best known to themselves, esteemed this the 
+best. 
+ 
+A. Well then, having now learned the <replaced orig="vertues">virtues</replaced> of the water, 
+a word or two of the use will not be <replaced orig="amisse">amiss</replaced>. Erastus 
+was of opinion that both these diseases were caused by the 
+Moon (and so am I of that opinion also, for I know some at 
+this time that are constantly troubled with the Falling-sicknesse, 
+[^p.88^] 
+only at the new and full Moons, I could give reasons 
+for this judgment of Erastus, but I am unwilling to be tedious.) 
+Then <replaced orig="saith">says</replaced> he, if the disease come daily, let a spoonful to 
+it be taken morning and evening, if weekly, then let it be 
+taken only at the new and full Moon, and at her quartiles to 
+the Sun, if it begin to wear away, then only twice a month, 
+viz. at the new and full Moon <replaced orig="wil">will</replaced> suffie. It profits also in 
+time of the fit, by rubbing their temples, nostrils, and jaws 
+with it. 
+ 
+[}Aqua Hysterica.}] 
+ 
+Take of the <replaced orig="Juyce">Juice</replaced> of Briony roots four pints, the <replaced orig="juyce">juice</replaced> of 
+Rue and Mugwort, of each a quart, dried Savin leaves three 
+handfuls, Featherfew, [/33./] Nep, Penyroyal, of each two 
+handfuls, Basil, Dictamny of Creet, of each a handful and an 
+half, fresh [/34./] Orange pills four ounces, <replaced orig="Mirrh">Myrrh</replaced> two ounces, 
+Castorium one ounce, Canary Wine twelve pints, Infuse the 
+simples in the Wine four <replaced orig="daies">days</replaced>, then distill them in a bath, 
+and keep the distilled water for your use, When it is half stilled 
+you may prepare and Extraction of the residue, for the 
+same use the water is. 
+ 
+A. It wonderfully <replaced orig="prevaileth">prevails</replaced> against the fits of the mother 
+and such like diseases incident to women, and is a most excellent 
+remedy to bring away dead children and the after 
+birth, a spoonful or two of it, being given: and therefore 
+let Midwives make much of it. 
+ 
+[}Imperial Water.}] 
+ 
+Take of Citron pills dried, Orange pills, Nutmegs, Cloves 
+Cinnamon, of each two ounces; Cyperus, Orris Florentine, 
+Calamus Aromaticus of each an ounce, Zedoary, Galanga, 
+Ginger, of each one ounce, Tops of Rosemary, Lavender, of 
+each two handfuls, The leaves of Bay, Marjoram, <replaced orig="Hysop">Hyssop</replaced>, 
+Bawm, Mints, Sage, Time, of each one handful, fresh Roses 
+White, and Damask, of each half a handful. Rosewater four 
+pints, of the best white Wine eight pints, The things to be 
+bruised, being bruised, let them be infused twenty four hours 
+[^p.89^] 
+in a <replaced orig="glasse">glass</replaced> Still over hot [/35./] ashes, and then distilled according 
+to art. 
+ 
+A. You must distill it in a bath and not in sand, It 
+seems the <replaced orig="Colledge">College</replaced> were but mean practicioners in <replaced orig="Alchymy">Alchemy</replaced>, 
+but in this and many other recepts, trusted to that monster 
+called Trædition, therefore take this for a general <replaced orig="Aphorisme">Aphorism</replaced>, 
+All <replaced orig="grosse">gross</replaced> bodies, stilled in sand will stink egregiously. 
+ 
+A. It comforts and strengthens the heart against faintings 
+and swoonings, and it is held to be a preservative against 
+consumptions and apoplexies. 
+ 
+[}Bawm Water: The greater Composition}] 
+ 
+Take of Bawm a pound, Time, Penyroyal, of each three 
+drachms, Cinnamon, two drachms, Cardamoms the <replaced orig="lesse">less</replaced> 
+one drachm: [/36./] Grains of <replaced orig="Paradice">Paradise</replaced>, half an ounce: Sweet 
+Fennel seeds an ounce, Nutmegs, Ginger, of each a drachm, 
+Galanga, six drachms, Calamus Aromaticus, Cyprus, of 
+each a drachm and an half, Dictamni, half a drachm, let all 
+of them be bruised and infused in eight pints of Spanish Wine 
+and six pints of strong Ale, for 24. hours together, and then 
+distilled by an Alembick, draw out of the stronger water three 
+pints. 
+ 
+A. The Simples seem chiefly <replaced orig="apropriated">appropriated</replaced> to the stomach, 
+and <replaced orig="therfore">therefore</replaced> must needs strengthens cold & weak stomachs, & 
+help digestion, besides Authors say, It <replaced orig="restoreth">restores</replaced> memory lost, 
+quickens all the <replaced orig="sences">senses</replaced>, keeps away gray hairs and <replaced orig="baldnesse">baldness</replaced>, 
+<replaced orig="strengtheneth">strengthens</replaced> the brain, makes the heart cheerful, and helps 
+the lisping of the tongue, <replaced orig="easeth">eases</replaced> the pains of the teeth, and 
+<replaced orig="causeth">causes</replaced> sweet breath. 
+ 
+[}Aqua Mariæ.}] 
+ 
+Take of Sugar Candy a pound, Canary Wine six ounces, 
+Rose Water four ounces, <replaced orig="boyl">boil</replaced> them to a <replaced orig="Syrupe">Syrup</replaced>, to which ad 
+Aqua Coelestis two pound, Amber-greece, and Musk, of each 
+eighteen grains, Saffron fifteen grains, Yellow Sanders two 
+drachms, make of them a <replaced orig="cleer">clear</replaced> water.[/37./] 
+ 
+[^p.90^] 
+A. It is of more <replaced orig="vertue">virtue</replaced> than Aqua Coelestis to resist <replaced orig="feavers">fevers</replaced>, 
+to strengthen the heart, to <replaced orig="releeve">relieve</replaced> Languishing nature. 
+ 
+[}Aqua Mirabilis.}] 
+ 
+Take of Cloves, Galanga, Cubebs, Mace, Cardamoms, 
+Nutmegs, Ginger, of each one drachm, <replaced orig="juyce">juice</replaced> of Chelondine, 
+half a pound, Aqua-vitæ, a [/38./] pound, White Wine three pints 
+(or three pound which you please) Infuse them twenty four 
+hours, and then draw a quart of water from them, by an Alembick. 
+ 
+A. The Simples also of this regard the <replaced orig="stomack">stomach</replaced>, and therefore 
+the water heats cold stomachs, besides Authors say it <replaced orig="preserveth">preserves</replaced> 
+from Apoplexies, and <replaced orig="restoreth">restores</replaced> speech lost. 
+ 
+[}Rosa-Solis.}] 
+ 
+Take of Nutmegs, Annis seeds, Coriander seeds, of each 
+an ounce, Galanga, Ginger, Cloves, of each half an ounce, 
+Red-rose leaves a handful, Ros-solis six handfuls, Liquoris 
+two ounces, Cardamoms, Zedoary, Grains of <replaced orig="Paradice">Paradise</replaced>, 
+Calamus Aromaticus, of each a drachm, Yellow Sanders 
+two drachms, Red Sanders, Cinnamon, of each an ounce 
+and an half, Of the best Aqua-vitæ, twelve pints, make an 
+infusion of them for eight <replaced orig="daies">days</replaced>, then strain it and ad to the 
+liquor, a pound and an half of Sugar. 
+ 
+A. The Basis of this medicine, seems to be the herb Ros-solis, 
+which is of a drying and binding quality and <replaced orig="apropriated">appropriated</replaced> 
+to the <replaced orig="lungues">lungs</replaced>, and therefore must needs be available for 
+Phtisicks, or consumptions of the <replaced orig="lungues">lungs</replaced>, and because this 
+herb provokes lust exceedingly, I suppose therefore the rose 
+leaves were added, which according to [/39./] Authors resist lust. 
+ 
+[}Dr. Stephens Water.}] 
+ 
+Take of Cinnamon, Ginger, Galanga, Cloves, Nutmegs, 
+Grains of <replaced orig="Paradice">Paradise</replaced>, seeds of Annis, Fennel, Caraway, of each 
+one drachm, Herbs of Time, Mother of Time, Mints, Sage, 
+[^p.91^] 
+Pennyroyal, Pellitory of the wall, Rosemary, Flowers of 
+Red roses, Chamomel, Origanum, Lavender, of each one 
+handful, infuse them twelve hours in twelve pints of Gascoign 
+Wine, then with an Alembick, draw three pints of 
+strong water from it. 
+ 
+A. Authors hold it profitable for women in labour, that 
+it provokes the terms, and brings away the afterbirth. 
+ 
+[}Aqua Protheriacalis.}] 
+ 
+Take of the leaves of Scordium, Scabious, Carduus Benedictus, 
+Goats Rue, of each two handfuls, Citron pills, and 
+<replaced orig="Orrenge">Orange</replaced> pills dried, of each two ounces, the seeds of Citrons, 
+Carduus, [/40./] Hartwort, [/41./] Treacle Mustard, of each one ounce, 
+The Flowers of Marigolds and Rosemary, of each a handful, 
+Let the things to be cut, be cut, the things to be <replaced orig="brused">bruised</replaced> be 
+<replaced orig="grosly">grossly</replaced> bruised, and infused in four pints of White Wine, and 
+a quart of Carduus Water, and (being put into a convenient 
+<replaced orig="glasse">glass</replaced>) digested either by the heat of the sun or of the fire 
+certain <replaced orig="daies">days</replaced>, often shaking it, Then distilled in Balneo Mariæ, 
+reserve the two first pints by it self, & the remainder by it self, 
+at last with every pound mix an ounce of Julapium Alexandrinum 
+and a <replaced orig="spoonfull">spoonful</replaced> of Cinnamon Water. 
+ 
+It is not hid from our eyes that there are very many Simples in the 
+[/42./] 
+Composition of Treacle, the <replaced orig="vertues">virtues</replaced> of which cannot be exactly drawn 
+out by distillation in Balneo Mariæ, and therefore we of purpose subscribed 
+this, that the rational <replaced orig="Physitian">Physician</replaced> may at the time of giving it, 
+appoint Treacle, or Diascordium, or any convenient syrup: notwithstanding 
+lest we should seem different from all, we have added on recept 
+of Treacle water by distillation. 
+ 
+A. Aqua Protheriacalis, signifies a Water for Treacle, so then 
+if you put Diascordium to it, it is a water for Diascordium, 
+well then, we will take it for a general water for all <replaced orig="Physick">Physic</replaced>. 
+ 
+[}Aqua Theriacalis: by infusion.}] 
+ 
+Take of the best distilled Wine, Wine of Creet, sharp <replaced orig="Vineger">Vinegar</replaced> 
+(in which half an ounce of Rue seeds have been <replaced orig="boyled">boiled</replaced>) 
+[^p.92^] 
+of each two pound, Venis Treacle, and Methridate, of each 
+half a pound, mix them all together and warm them a little 
+either in the Sun or in a bath, and keep the tincture for your 
+use. 
+ 
+[}Aqua Theriacalis: distilled.}] 
+ 
+Take of the juice of green Walnuts four pound, the <replaced orig="juyce">juice</replaced> 
+of green Rue three pound, <replaced orig="Juyces">Juices</replaced> of Carduus Benedictus, 
+Marigolds, Bawm, of each two pound, The roots of Patasites 
+or Butter burs fresh and green, a pound and an half, the 
+Roots of Burs one pound, Roots of Angelica and Master-wort 
+green, of each six ounces, Scordium four handfuls, old 
+Venis Treacle and Methridate, of each eight ounces, Canary 
+Wine twelve pints, white Wine <replaced orig="Vineger">Vinegar</replaced> six pints, <replaced orig="Juyce">Juice</replaced> of 
+<replaced orig="Lemmons">Lemons</replaced> a quart, Digest them for two <replaced orig="daies">days</replaced> in horse dung, 
+or else in a bath, let the vessel be well stopped, then distill it 
+in sand, and in the distillation you may make an Extract called 
+Extractum theriacale. 
+ 
+A. That this latter water far exceeds the former, in <replaced orig="vertues">virtues</replaced> 
+every way, I think no man that is well in his wits will deny, 
+therefore I quote only the <replaced orig="vertues">virtues</replaced> of this, if any will use the 
+former, I will not burden their conscience. 
+ 
+A. This water is exceeding good in all <replaced orig="Feavers">Fevers</replaced>, especially 
+pestilential, it <replaced orig="expelleth">expels</replaced> <replaced orig="venemous">venomous</replaced> <replaced orig="humors">humours</replaced> by sweat, it 
+<replaced orig="strengtheneth">strengthens</replaced> the heart and vitals, it is an admirable counterpoyson, 
+special good for such as have the Plague, or are 
+<replaced orig="poysoned">poisoned</replaced>, or bitten by <replaced orig="venemous">venomous</replaced> beasts, and <replaced orig="expelleth">expels</replaced> virulent 
+<replaced orig="humors">humours</replaced> from such as have the French Pocks, If you desire 
+to know more <replaced orig="vertues">virtues</replaced> of it, see the <replaced orig="vertues">virtues</replaced> of Venis Treacle. 
+ 
+[}Ordinary Aqua vitæ.}] 
+ 
+Distill Ale and lees of Wine in an Alembick (whose worm 
+runs through cold water) into small Wine, in ten <replaced orig="Congies">Congees</replaced> of 
+which infuse a pound of bruised Annis seeds, for twenty four 
+hours then still it again into strong water. 
+ 
+[^p.93^] 
+[}Aqua vitæ compound.}] 
+ 
+Is made of small Wines, in six <replaced orig="congies">congees</replaced> of which, infuse 
+Annis seeds half a pound, seeds of Fennel, and Caraway, of 
+each two ounces, Cloves, Cinnamon, and Ginger, of each 
+one ounce, and then draw the strong spirit from it. 
+ 
+A. This is excellent good in my opinion for such as are 
+troubled with wind. 
+ 
+[}Spirit of Castorium.}] 
+ 
+Take of Castorium four ounces, Lavender flowers, one 
+ounce, the Tops of Sage and Rosemary, of each half an 
+ounce, Cinnamon six drachms, Mace, and Cloves, of each 
+two drachms, Spirit of Wine rectified six pints: Digest all 
+these in a <replaced orig="glasse">glass</replaced> being filled only to the third part, stopped 
+close with cork and bladder, in warm ashes, or sand, then <replaced orig="stil">still</replaced> 
+it in a <replaced orig="glasse">glass</replaced> Alembick in Balneo Mariæ well luted, and let it 
+be kept close stopped. 
+ 
+A. It <replaced orig="resisteth">resists</replaced> <replaced orig="poyson">poison</replaced> and helps such as are bitten by <replaced orig="venemous">venomous</replaced> 
+beasts, it <replaced orig="causeth">causes</replaced> speedy delivery to women in travail, 
+and <replaced orig="casteth">casts</replaced> out the after-birth, it provokes the terms in women, 
+and <replaced orig="helpeth">helps</replaced> the fits of the mother, it helps lethargies, 
+convulsions, and in some cases is profitable for mad people, 
+but in all, let it be mixed with convenient medicine for the 
+purposes. 
+ 
+[}Vsquebach.}] 
+ 
+Take of strong Aqua vitæ 24. pints, in which, for four 
+<replaced orig="daies">days</replaced> infuse a pound of Liquoris, Raisons of the Sun half a 
+pound, Cloves half an ounce, Mace, Ginger, of each two 
+drachms, strain it and keep it for your use. 
+ 
+A. It strengthens the stomach, and helps indigestion coming 
+of <replaced orig="flegm">phlegm</replaced> and cold. 
+ 
+[^p.94^] 
+[}Fallopius his Allum-Water.}] 
+ 
+Take of Plantane and Red-rosewater, of each a pound, viz. 
+a pint, Roch <replaced orig="Allum">Alum</replaced>, Quick silver, and Sublimatum, of each 
+two drachms, grind the <replaced orig="Allum">Alum</replaced> and the Sublimate very fine, 
+then let them <replaced orig="boyl">boil</replaced> altogether in a [/43./] <replaced orig="glasse">glass</replaced> with a narrow 
+mouth till half be consumed, then let it stand five <replaced orig="daies">days</replaced> that 
+the Sublimate, and the <replaced orig="drosse">dross</replaced> of the <replaced orig="Allum">Alum</replaced> may sink to the 
+bottom, then pour off the <replaced orig="cleer">clear</replaced> water and keep it for your 
+use. 
+ 
+A. Fallopius invented this for an unction for the French-pocks, 
+but in my opinion it is but a childish recept, for the 
+Quick-silver, will most assuredly fly out in <replaced orig="boyling">boiling</replaced>. 
+ 

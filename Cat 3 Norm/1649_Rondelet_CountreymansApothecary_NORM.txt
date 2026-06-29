@@ -1,0 +1,786 @@
+﻿[^Rondelet, Guillaume: Countrey-man's apothecary^] 
+ 
+[}THE 
+Countrey-man's 
+APOTHECARY. 
+OR, 
+A Rule by which <replaced orig="Countrey-men">Countrymen</replaced> 
+may safely <replaced orig="walke">walk</replaced> in taking 
+<replaced orig="PHYSICKE">PHYSIC</replaced>. 
+Not <replaced orig="unusefull">unuseful</replaced> for Cities. 
+ 
+A TREATISE, 
+<replaced orig="Shewing">Showing</replaced> what <replaced orig="Herbe">Herb</replaced>, Plant, 
+Root, Seed, or <replaced orig="Minerall">Mineral</replaced>, may 
+be used in <replaced orig="Physick">Physic</replaced> in the room 
+of that which is wanting. 
+ 
+Published for the good of the 
+<replaced orig="KINGDOME">KINGDOM</replaced>. 
+ 
+LONDON, 
+Printed for Th. Andrews, in Smithfield, <replaced orig="neer">near</replaced> 
+St Bartholomews gate. 1649.}] 
+ 
+[^A preface to the reader omitted.^] 
+[^Extract 1, pp. 1-22^] 
+ 
+[^p.1^] 
+[}[^GREEK OMITTED^]. 
+OR, 
+A Treatise of Succedanea's, 
+One Ingredient used for another in 
+the <replaced orig="administring">administering</replaced> of <replaced orig="Physick">Physic</replaced>. 
+ 
+The learned <replaced orig="worke">work</replaced> of William Rondeletius 
+sometimes Regius Professor 
+Monspeliensis. 
+ 
+Translated into English for <replaced orig="publique">public</replaced> good.}] 
+ 
+AFter I had a long time considered and 
+enquired concerning those Ingredients 
+which <replaced orig="Physitians">Physicians</replaced> use in <replaced orig="administring">administering</replaced> 
+<replaced orig="Physick">Physic</replaced>, instead of such as are prescribed, 
+but are not to be got (commonly termed Succedanea;) 
+at length I lighted upon the Treatise of 
+that most learned man, and famous Practitioner 
+William Rondeletius concerning the same; which I 
+thought fit to publish in English, for the <replaced orig="generall">general</replaced> 
+good of my native <replaced orig="Countrey">Country</replaced>, as a Piece very profitable 
+and <replaced orig="usefull">useful</replaced>; and have for the easier finding 
+them out digested the Simples into an <replaced orig="Alphabeticall">Alphabetical</replaced> 
+order, that so the benefit may be the greater. 
+ 
+Physicians are often forced to use one Simple in 
+the place of another; for every <replaced orig="soile">soil</replaced> doth not 
+bring forth all Simples, nor can they everywhere 
+meet with most proper Ingredients. In the <replaced orig="Countrey">Country</replaced> 
+[^p.2^] 
+they are forced to use such Simples as are at 
+hand; and in <replaced orig="asmuch">as much</replaced> as upon sudden occations proper 
+Ingredients are not at hand, but the present 
+must be used, therefore they must necessarily make 
+choice of such Simples as may with most safety be 
+<replaced orig="administred">administered</replaced> instead of those which are most proper, 
+but cannot at present be had; as we read Galen 
+did, and that with good <replaced orig="successe">success</replaced>, in the like case; 
+For wanting Euphorbium to draw forth stings out of 
+the flesh, he did instead thereof take from the Hives 
+Propolis, that which Bees make at the mouth of 
+their Hives to keep out the cold. 
+ 
+These Succedanea are now more necessary then 
+ever they were; both because at this day we want 
+many of those simples which ancient Physicians did 
+prescribe, and made use of, being they were supplied 
+with a <replaced orig="plentifull">plentiful</replaced> and fertile increase thereof 
+in their own <replaced orig="Countreys">Countries</replaced>, Eastern and <replaced orig="Forraigne">Foreign</replaced>; 
+and also for that counterfeit, and (by the crafty invention 
+of Jews and Merchants) adulterate Medicines 
+are transported, which if we reject, we must 
+of necessity substitute others in the place thereof; 
+besides many ancient simple Medicaments, formerly 
+well known, and very common, are at this day 
+exolete, and grown out of knowledge. Very many 
+<replaced orig="usefull">useful</replaced> compositions were devised and found out 
+by the Arabians, and most <replaced orig="soveraigne">sovereign</replaced> remedies of 
+great use among them, the Simples whereof (by 
+reason of the barbarousnesse of their terms) are 
+altogether unknown unto us. For we are ignorant 
+what they mean by those uncouth strange names, 
+or else want the Simples themselves. 
+ 
+But in the choice and use of these Succedanea, 
+that most pernicious <replaced orig="custome">custom</replaced> among <replaced orig="Physitians">Physicians</replaced> is 
+deservedly to be rejected, which hath now for 
+many <replaced orig="yeeres">years</replaced> been much in use, though to the great 
+prejudice and wrong of Patients; in which, in 
+[^p.3^] 
+compounding Medicines, they confusedly mingle 
+all such Drugs which are commended or prescribed 
+<replaced orig="usefull">useful</replaced> in such a disease to be applied to the 
+part affected, or but <replaced orig="soveraine">sovereign</replaced> for some <replaced orig="symptome">symptom</replaced>; 
+so that having made use of all of the same quality, 
+they have not left unprescribed one <replaced orig="Herbe">Herb</replaced> or Drug 
+which may be used instead of another; whereas, if 
+they would content themselves with one, two or 
+three Herbs, the Apothecary would never be destitute 
+of Succedanea; But because quantity will be 
+necessary, for one <replaced orig="handfull">handful</replaced> <replaced orig="adde">add</replaced> two; for two, 
+three or <replaced orig="foure">four</replaced>, & c. Hence will ensue a double benefit; 
+first, the more certain working of the <replaced orig="Physicke">Physic</replaced>, 
+and a more <replaced orig="easie">easy</replaced> and speedy preparing thereof; 
+and secondly, the greatest grace of his Art, the 
+<replaced orig="Physitian">Physician</replaced> will <replaced orig="appeare">appear</replaced> to abound with variety of 
+Drugs and Succedanea, when in his Recipies he can 
+double, vary, and change his Drugs, and to understand 
+more then the ordinarysort of Mountebanks 
+and Empericks. As for example, if in his decoction 
+he hath prescribed <replaced orig="Borrage">Borage</replaced>, but in defect thereof 
+substitutes wild <replaced orig="Buglosse">Bugloss</replaced> or contra; again if garden 
+Endive be wanting, to prescribe the Juice or Syrope 
+thereof; if Succory be not to be had, to prescribe 
+Lyons tongue or Broad-leafe, for ground 
+Pine, Germander, or contrary; but what shall the 
+Apothecary doe, if he prescribe all Drugs in one 
+and the same Recipe? certainly it will prove no other 
+then that <replaced orig="Poeticall">Poetical</replaced> Chaos, a rude and indigested 
+lump. 
+ 
+Let them consider and continually call to mind 
+that of Villanovanus; it is deceit, <replaced orig="cousenage">cousinage</replaced> to 
+use compounds where simples may be easily had. 
+ 
+Let them leave off that bad <replaced orig="custome">custom</replaced>, and <replaced orig="avoyd">avoid</replaced> 
+it as a dangerous <replaced orig="rocke">rock</replaced>; let them likewise beware 
+of naughty, covetous, dishonest, unlearned, and 
+<replaced orig="unskilfull">unskilful</replaced> Apothecaries, who greedy of wealth and 
+[^p.4^] 
+profit, commend an <replaced orig="hodge-podge">hodgepodge</replaced> of even <replaced orig="halfe">half</replaced> 
+rotten and <replaced orig="putrified">putrefied</replaced> Drugs. Some do this that they 
+may boast their store, or else out of ignorance or 
+pride; and if any learned <replaced orig="Physitians">Physicians</replaced> do it, it is that 
+they may not seem to be <replaced orig="lesse">less</replaced> experienced in the 
+knowledge of Drugs, then in the <replaced orig="vertue">virtue</replaced> and use 
+thereof. 
+ 
+Lastly, since there are some <replaced orig="wholsome">wholesome</replaced> and fit 
+compositions, by experience and reason received 
+and approved, invented by ancient <replaced orig="Physitians">Physicians</replaced>, we 
+ought to search out, approve, and provide some 
+Succedanea, that so <replaced orig="soveraigne">sovereign</replaced> and excellent medicines 
+may be prepared, which in that respect are 
+no <replaced orig="waies">ways</replaced> to be refused and rejected, because with 
+such good <replaced orig="successe">success</replaced> some Succedanea, not <replaced orig="inferiour">inferior</replaced> 
+to the simples prescribed, may with <replaced orig="equall">equal</replaced> benefit 
+accomplish and effect all the promises of genuine 
+or <replaced orig="naturall">natural</replaced> <replaced orig="Physicke">Physic</replaced>. 
+ 
+Let your Succedanea be as <replaced orig="neere">near</replaced> as may be, of 
+the same genus and species, nature and kind. 
+ 
+[^Beginning of a list figure.^] 
+<replaced orig="Herbe">Herb</replaced> For <replaced orig="Herbe">Herb</replaced> 
+Root [^For^] Root 
+Flower [^For^] Flower 
+Seed [^For^] Seed 
+Juice [^For^] Juice 
+<replaced orig="Gumme">Gum</replaced> [^For^] <replaced orig="Gumme">Gum</replaced> 
+<replaced orig="Rozen">Rosin</replaced> [^For^] <replaced orig="Rozen">Rosin</replaced> 
+Mussilage [^For^] Mussillage 
+<replaced orig="Metall">Metal</replaced> [^For^] <replaced orig="Metall">Metal</replaced> 
+Stone [^For^] Stone 
+Earth [^For^] Earth 
+Pitch [^For^] Pitch 
+Grease [^For^] Grease 
+Marrow [^For^] Marrow 
+Bird [^For^] Bird 
+Serpent [^For^] Serpent 
+One part of a living creature [^For^] Another. 
+[^End of a list figure.^] 
+ 
+[^p.5^] 
+[}Composition for Composition:}] 
+ 
+[^Beginning of a list figure.^] 
+Powder For Powder 
+Trochus [^For^] Trochus 
+Opiate [^For^] Opiate 
+Electuary [^For^] Electuary 
+Pills [^For^] Pills 
+Lohoch [^For^] Lohoch 
+Confection [^For^] Confection 
+Conserve [^For^] Conserve 
+<replaced orig="Plaister">Plaster</replaced> [^For^] <replaced orig="Plaister">Plaster</replaced> 
+<replaced orig="Oyle">Oil</replaced> [^For^] <replaced orig="Oyle">Oil</replaced>, simple or compound. 
+<replaced orig="Oyntment">Ointment</replaced> [^For^] <replaced orig="Oyntment">Ointment</replaced> 
+Salve [^For^] Salve. 
+[^End of a list figure.^] 
+ 
+[}The <replaced orig="universall">universal</replaced> or common <replaced orig="Theoreme">Theorem</replaced> or speculation.}] 
+ 
+[^Beginning of a flowchart figure.^] 
+The Drugs that 
+are to be used 
+one instead of 
+another, whether 
+in inward 
+or outward causes 
+	must agree in 
+	<replaced orig="vertues">virtues</replaced> & operations 
+	both 
+		secret 
+		and 
+		manifest, 
+	and in consistence, 
+	and be alike 
+	in 
+		taste 
+		smell 
+		age 
+		time and place 
+		of growth, 
+		nature, and 
+		temperament 
+		of quality. 
+[^End of a flowchart figure.^] 
+ 
+Some Drugs may by change be used in outward 
+remedies which are not to be used in inward applyings, 
+as the Juice of Carline Thistle may be used 
+for the Juice of <replaced orig="Lettice">Lattice</replaced> outwardly, but must not be 
+taken for it inwardly, because it is <replaced orig="poyson">poison</replaced>. 
+ 
+Sometime not the whole simple, but some parts 
+must be substituted, or used instead of another as 
+[^p.6^] 
+in a Muccago Mussilage of the seed of the <replaced orig="Herbe">Herb</replaced> 
+Fleabane for a Muccago Mussilage of the seed of 
+Quinces: all the seed of the Herb is not to be 
+used, because the inward part thereof differs in 
+temperament from a Mussilage, and is thought to be 
+<replaced orig="venemous">venomous</replaced>; nor may the Quince Apple be used for 
+the seed of the Quince, because they differ in operation 
+and consistence. 
+ 
+Some recipeis or prescriptions in some remedies 
+may be used instead of one another, as a conserve 
+for the <replaced orig="syrrop">syrup</replaced> of the same simple whether of fruit, 
+flower or root: as the conserve of <replaced orig="Maidenhaire">Maidenhair</replaced> may 
+be used for the <replaced orig="syrrop">syrup</replaced> of the same in <replaced orig="opiates-">opiates</replaced> 
+but in the prescribing of the <replaced orig="syrrop">syrup</replaced> it cannot be 
+so, because the <replaced orig="forme">form</replaced> or rule of the <replaced orig="Physick">Physic</replaced> will 
+not permit it: For liquid druggs must be used instead 
+of liquid, therefore if the <replaced orig="syrrop">syrup</replaced> be prescribed 
+and not at hand, the <replaced orig="destillation">distillation</replaced> or decoction 
+of the Herb is to be used instead thereof. 
+ 
+In some Candids or preserves, we may use the 
+<replaced orig="syrrop">syrup</replaced> of the conserve, because they are conserved 
+in the <replaced orig="syrrop">syrup</replaced>, as the <replaced orig="syrrop">syrup</replaced> of the conserve of Lemons, 
+for the <replaced orig="syrrop">syrup</replaced> of Lemon pill; the <replaced orig="syrrop">syrup</replaced> of 
+the Conserve of the <replaced orig="roote">root</replaced> of <replaced orig="Buglosse">Bugloss</replaced>, for the <replaced orig="syrrop">syrup</replaced> 
+of <replaced orig="Buglosse">Bugloss</replaced>. 
+ 
+<replaced orig="Emplaisters">Plasters</replaced> and <replaced orig="oyntments">ointments</replaced> may be mutually 
+used one for another; in case the part affected may 
+be found to admit thereof: as the <replaced orig="plaister">plaster</replaced> of filii 
+Zacharie, for the resumptive <replaced orig="oyntment">ointment</replaced>, and 
+contra: but in the <replaced orig="paines">pains</replaced> of the breast or <replaced orig="stomack">stomach</replaced> 
+<replaced orig="unlesse">unless</replaced> the <replaced orig="stifnesse">stiffness</replaced> thereof be dissolved, or otherwise 
+mollified, it is not to be used, because <replaced orig="plaisters">plasters</replaced> 
+when they are laid on, hinder the ribs from dilating, 
+enlarging themselves, and the <replaced orig="freenesse">freeness</replaced> of 
+breathing. A <replaced orig="plaister">plaster</replaced> of Cerusse or white lead, 
+for unguentum album, <replaced orig="unlesse">unless</replaced> the inflammation doe 
+forbid it, which will not admit of neither hard nor 
+<replaced orig="stiffe">stiff</replaced> remedies. 
+ 
+[^p.7^] 
+[}Divers other medicines may be used instead one of t=he= 
+other; provided that their <replaced orig="vertue">virtue</replaced> and operation b=e= 
+the same.}] 
+ 
+PIlls may be used instead of confections, and 
+contra. as <replaced orig="Hiera">Here</replaced> simply or aloes for the <replaced orig="pils">pills</replaced> 
+made of it, and the <replaced orig="Herbe">Herb</replaced> Benedicta or holywort, 
+and contra. for Pills to purge <replaced orig="Phlegme">Phlegm</replaced>, electuary 
+diacarthame purgative with Lemon: for Pills to 
+purge choler or melancholy, electuary of the 
+juice of Roses and contra; so that the quantity of 
+every one be observed. The doses of the <replaced orig="Hiera">Here</replaced> 
+and such like Electuaries are to be augmented by 
+reason of the quantity of honey, which doth allay 
+the strength of the <replaced orig="Physick">Physic</replaced>. 
+ 
+A <replaced orig="Syrrop">Syrup</replaced>, for Eclegma or a lohoch, if it be taken 
+by dissolving in the mouth: as the <replaced orig="syrrop">syrup</replaced> of <replaced orig="Jujuba">Jujube</replaced> 
+for Lohoch sound and approved, the <replaced orig="syrrop">syrup</replaced> of 
+Poppeyes for Diacodion. 
+ 
+A powder for a Trochiscus and contra. as the 
+species of Diarrhodon for the Trochus of Diarrhodon, 
+a Trochus of Squills, for a Lohoch of the same, 
+the quantity being either augmented or diminished 
+according to the nature and quality of the disease 
+and the scope of <replaced orig="Physick">Physic</replaced> 
+ 
+In simples sometimes the parts are not strictly 
+observed, as <replaced orig="Turbith">Turbid</replaced> the root for <replaced orig="Agarick">Agaric</replaced> in a Trochus, 
+and contra. Thus a simple may be put for a 
+composition or contra. as Colocynthis wild gourds, 
+or Colloquintida in a <replaced orig="lesse">less</replaced> quantity, for <replaced orig="Agarick">Agaric</replaced>; 
+and a double or treble dose of wild Saffron for <replaced orig="Agarick">Agaric</replaced>, 
+and contra. And yet a simple Medicine 
+for this use to be put in the place of another is 
+hard to be found, which can truly, everyway 
+and in every part agree as Avicennas testifies, because 
+two simple medicines in case of want of others 
+of like <replaced orig="vertue">virtue</replaced> and efficacy can scarce safely 
+[^p.8^] 
+be <replaced orig="applyed">applied</replaced> instead thereof. Which since it proves 
+so difficult, he did apply sometime two, sometime 
+three of <replaced orig="equall">equal</replaced> weight and measure, sometime in 
+a doubled and trebled medicine, the <replaced orig="fift">fifth</replaced> or eight 
+part of another Medicine being added; because 
+(<replaced orig="saith">says</replaced> he) there are very few medicaments which 
+are wholely like others in temperament and operation, 
+or the same in consistence in grossenesse or 
+<replaced orig="thinnesse">thinness</replaced> of the parts, and in other the hidden 
+properties. 
+ 
+[^Beginning of a flowchart figure.^] 
+The use of 
+druggs or medicaments 
+in 
+compositions 
+is various and 
+changeable in 
+respect, either 
+	Of 
+		The heat 
+		the <replaced orig="coldnesse">coldness</replaced> 
+		the 
+		<replaced orig="moistnesse">moistness</replaced> 
+		the <replaced orig="drinesse">dryness</replaced>. 
+			In the beginning 
+			of the first, 
+			or in the middle 
+			and first degree, 
+			and so of 
+			the rest. 
+	Or 
+		Of the parts the 
+		<replaced orig="clamminesse">clamminess</replaced>, the 
+		taste, the smell, 
+		the colour. 
+			the grossenesse. 
+			or the <replaced orig="thinnesse">thinness</replaced>. 
+[^End of a flowchart figure.^] 
+ 
+And therefore that which is like another in 
+temperament, <replaced orig="ofttimes">oftentimes</replaced> differs from it in the 
+grossenesse or <replaced orig="thinnesse">thinness</replaced> of the parts, or some other 
+faculty and quality; as some <replaced orig="thinke">think</replaced> they may use 
+Galanga or sweet cane for Folesfoot, or wild Spikenard, 
+& yet they do not agree in every operation; 
+for galanga can <replaced orig="onely">only</replaced> provoke urine, and bring 
+<replaced orig="downe">down</replaced> <replaced orig="womens">women's</replaced> courses, and therefore to be supplied 
+for Spikenard in prescriptions to provoke 
+them: it hath no <replaced orig="vertue">virtue</replaced> to cause <replaced orig="vomitting">vomiting</replaced> as 
+Spikenard hath. In like manner the Hyacinth 
+may be used instead of Anchusa or <replaced orig="Buglosse">Bugloss</replaced> Orchanet: 
+but if there be need of Anchusa for the Colour, 
+as in <replaced orig="oyntments">ointments</replaced>, the Hyacinth is not proper: 
+but instead thereof, dyers lacca or Red gum; <replaced orig="Brasile">Brazil</replaced>, 
+[^p.9^] 
+red Santalum, Painters Lacca or red gum, 
+or scarlet Dye. Assa dulcis or that sweet <replaced orig="gumme">gum</replaced> 
+is not to be used for Assa fœtida because of the 
+smell, as Avicennas did in the <replaced orig="griefe">grief</replaced> of the <replaced orig="wombe">womb</replaced>, 
+so by a sweet smell to have <replaced orig="forst">forced</replaced> it upward, 
+but it <replaced orig="drawes">draws</replaced> towards sweet, flies from stinking 
+<replaced orig="sents">scents</replaced> or smells. 
+ 
+Some druggs are used for taste; which yet are 
+not convenient in every particular, as Honey, and 
+Manna may be used for Sugar in some sorts of remedies 
+as in laxative medicines, but in no wise in 
+binding <replaced orig="receits">receipts</replaced>; for Manna is more loosening 
+then either Sugar or Honey. Muccus a Mussilage, 
+is <replaced orig="usefull">useful</replaced> in a bloody Flux, and is used for a Lenior. 
+Fenegreek, which makes a Mussilage 
+but hot, and therefore not to be used in spitting 
+of blood, as in <replaced orig="externall">external</replaced> remedies, as in the inflammation 
+of the upper skin of the eyes, in which 
+the white of an <replaced orig="egge">egg</replaced> is preferred in the beginning 
+and increase of the <replaced orig="griefe">grief</replaced>, but in the stay and 
+declining thereof a Mussilage fenegreeke is commended. 
+ 
+Those druggs which may be made use of instead 
+of others, are not yet to be added in every sort of 
+remedies; as <replaced orig="Myrrhe">Myrrh</replaced> may be used for Bdellium 
+in Pills and <replaced orig="oyntments">ointments</replaced>, but in Pills made of Bdellium 
+it must in no <replaced orig="wayes">ways</replaced> be added, for <replaced orig="Myrrhe">Myrrh</replaced> 
+<replaced orig="causeth">causes</replaced> a greater Flux of blood and of the Hemerods, 
+as also of <replaced orig="womens">women's</replaced> courses. Therefore in 
+those druggs that are substituted this rule is to be 
+observed, that the supposititious <replaced orig="drugg">drug</replaced>, that is used 
+in the Room of the adulterate genuine <replaced orig="drugg">drug</replaced>, can 
+effect the same which the genuine should, whether 
+it be to <replaced orig="heate">heat</replaced>, to <replaced orig="coole">cool</replaced>, to make moist, to dry, to 
+bind, to loose, or to concoct. For <replaced orig="Wormewood">Wormwood</replaced> 
+(simply taken) Sea <replaced orig="Wormewood">Wormwood</replaced>, or Southernewood 
+may be used; for Sea <replaced orig="Wormewood">Wormwood</replaced>, or 
+[^p.10^] 
+<replaced orig="Wormewood">Wormwood</replaced> of Mount Taurus, Roman may be 
+used; For Roman, the Wormwood which <replaced orig="growes">grows</replaced> 
+in the place where thou <replaced orig="dwellest">dwell</replaced>. 
+ 
+This may be done in the <replaced orig="choise">choice</replaced> of all Herbs, 
+they may be of any <replaced orig="Countrey">Country</replaced>, yet let your <replaced orig="choise">choice</replaced> 
+be of such an one as is an Herb of the <replaced orig="neerest">nearest</replaced> bordering 
+Country, or at least of the same temperature, 
+of which sort is Craux vulgarly Gallo a Province 
+of Creet, where <replaced orig="growes">grows</replaced> the best and greatest 
+store of our narrow <replaced orig="leafe">leaf</replaced> Thyme and Epithymon 
+or that which <replaced orig="growes">grows</replaced> oft upon it. In the second 
+place Herbs of moist <replaced orig="Countreys">Countries</replaced>, if it be a 
+<replaced orig="scortching">scorching</replaced> Summer, may be used for Herbs of an 
+hot <replaced orig="Countrey">Country</replaced>, which Galen <replaced orig="informes">informs</replaced> us he did in 
+preparing a <replaced orig="Theriace">Theriac</replaced> or remedy against <replaced orig="Poyson">Poison</replaced>, 
+using the rocke-parsley of another <replaced orig="Countrey">Country</replaced> for 
+Macedonian rock parsley; and yet the temperature 
+of the Country ought to be observed, for the 
+<replaced orig="Countrey">Country</replaced> doth very much <replaced orig="adde">add</replaced> to, or diminish 
+from the <replaced orig="vertue">virtue</replaced> and <replaced orig="goodnesse">goodness</replaced> of the medicament; 
+for the Sclavonian Flower deluce we may use the 
+Venetian, and for the African the Florentine. 
+ 
+[}I come now to set <replaced orig="downe">down</replaced> the Succedanea, and first 
+of <replaced orig="Rootes">Roots</replaced>.}] 
+ 
+FOr Acorum or Galanga, take Calamus aticus 
+or sweet cane in the shops. 
+ 
+For the same, in medicines to provoke and 
+bring <replaced orig="downe">down</replaced> urine and <replaced orig="womens">women's</replaced> courses, take the 
+<replaced orig="Rootes">Roots</replaced> of Asarum folesfoot, or wild Spiknard. 
+ 
+[^Beginning of a list in three columns.^] 
+For Althæa 
+[^A column change.^] 
+Garden 
+or 
+wild 
+[^A column change.^] 
+Take the Roots of <replaced orig="Mallowes">Mallows</replaced>. 
+[^End of a list in three columns.^] 
+[^Beginning of a list in two columns.^] 
+For <replaced orig="Apium">Opium</replaced> or 
+Parsley. 
+[^A column change.^] 
+Rock or 
+Macedonian. 
+[^End of a list in two columns.^] 
+ 
+For Aristolochy or long Birthwort; take the 
+round; and contrary, and any one sort for all. 
+ 
+For Asarus, Folesfoot or wild Spicknard, when 
+[^p.11^] 
+prescribed in a Purge or Vomit, take Hellebore, 
+the seed of Genista <replaced orig="Broome">Broom</replaced>, and Raphanus 
+or <replaced orig="Raddish">Reddish</replaced> seed. 
+ 
+[^Beginning of a list figure.^] 
+For Asparagus, Garden Sporrage: take Corruda or wild Sporrage, but in a <replaced orig="lesse">less</replaced> quantity, because it is sharper and stronger. 
+[^For^] Calamus odoratus, sweet <replaced orig="Gumme">Gum</replaced> of Libanus: take Scheenantbum, sweet Rush, Camels <replaced orig="haire">hair</replaced>, Acorus, or sweet Flags; if for <replaced orig="smel">smell</replaced>, yel. Sanders. 
+[^For^] The <replaced orig="rinde">rind</replaced> of the root of the Caper tree: take the <replaced orig="rinde">rind</replaced> of the root of Tamarisk, Wallwort or <replaced orig="Dwarfe">Dwarf</replaced> Elderne, <replaced orig="Laurell">Laurel</replaced>, Poplar and Elder trees. 
+[^For^] <replaced orig="Costum">Costume</replaced>, the root of an Indian <replaced orig="herbe">herb</replaced>: take bastard <replaced orig="Pelitory">Pellitory</replaced>. 
+[^For^] Galanga, the <replaced orig="herbe">herb</replaced> Galingall: take round Cyperus, a kind of Rush: and c_[^ORIG. BLANK^]ntra. 
+[^For^] Gentian or Felwort: take <replaced orig="halfe">half</replaced> the quantity of Asarus Folesfoot, and the root of Caper tree. 
+[^For^] Lapathum <replaced orig="Sorrell">Sorrel</replaced> or kind of Dock: take the root of Oxalis or <replaced orig="sowre">sour</replaced> dock. 
+[^For^] Nardus, Spicknard: take any sort of it. 
+[^For^] Rhabarbarum, <replaced orig="Rubarbe">Rhubarb</replaced> for purging: take juice of Roses. 
+[^Beginning of list in two columns.^] 
+[^For^] Rha Barbary <replaced orig="Rubarbe">Rhubarb</replaced> 
+[^A column change.^] 
+Rubarbe to bind: take the root of Water dock; the greater Galingall if there be need of heat, and of <replaced orig="Bistorta">Bistort</replaced> the <replaced orig="herbe">herb</replaced> if there be want of cooling. 
+[^End of list in two columns.^] 
+[^For^] Rha ponticum: take the root of great <replaced orig="Centory">Centaury</replaced>: a pill of <replaced orig="Rubarbe">Rhubarb</replaced> first. 
+[^For^] Pontick <replaced orig="Rubarbe">Rhubarb</replaced> infused and strained: and <replaced orig="rosted">roasted</replaced> <replaced orig="Rubarbe">Rhubarb</replaced> is approved by many for empyreuma or a collection of corrupt matter in a <replaced orig="mans">man's</replaced> body. 
+[^For^] Ruscum, Butchers <replaced orig="broome">broom</replaced>: take the root 
+[^p.12^] 
+[^For^] Secacul, Sampire: take the root of a Sea-parsnip, Pastinaca. 
+[^For^] Serpentaria Dragon, take Sarus Dracunculus, Dragonwort. 
+[^Beginning of a flowchart figure.^] 
+[^For^] <replaced orig="Turbith">Turbid</replaced>, a root to purge <replaced orig="phlegme">phlegm</replaced> take the root of 
+	Thapsia, 
+	<replaced orig="Turbith">Turbid</replaced> Mesuæ, 
+	<replaced orig="Agarick">Agaric</replaced> made into a Trochus, and 
+	Colochynthis or <replaced orig="wilde">wild</replaced> gourd in a <replaced orig="lesse">less</replaced> quantity or dosis. 
+[^For^] Zingiber, take Ginger, 
+	<replaced orig="Costum">Costume</replaced>, 
+	Helenium, Helecompane, 
+	Pyrethrum, bastard <replaced orig="Pelitory">Pellitory</replaced>. 
+[^End of a flowchart figure.^] 
+[^For^] Zingiber, take <replaced orig="Mechin">Machine</replaced>, Woolfbane. 
+[^End of a list figure.^] 
+ 
+Let Succedanea as <replaced orig="neer">near</replaced> as can be alike in every 
+part in <replaced orig="vertue">virtue</replaced>, in kind and in sort. 
+ 
+[^Beginning of a list figure.^] 
+Abrotoni 	Southernwood, Of all the sorts of them. 
+Absinthii 	Wormwood, [^Of all the sorts of them.^] 
+<replaced orig="Aconiti">Aconite</replaced> 	Woolfebane, [^Of all the sorts of them.^] 
+Adiantbi 	Venus <replaced orig="haire">hair</replaced>, [^Of all the sorts of them.^] 
+Allii 	<replaced orig="Garlick">Garlic</replaced>, [^Of all the sorts of them.^] 
+Anagallidis 	<replaced orig="Pimpernell">Pimpernel</replaced>, [^Of all the sorts of them.^] 
+Anchusæ 	Orchanet, [^Of all the sorts of them.^] 
+Anemones 	Redweed or wild <replaced orig="Poppey">Poppy</replaced>, [^Of all the sorts of them.^] 
+Anthemidis 	<replaced orig="Camomile">Chamomile</replaced>, [^Of all the sorts of them.^] 
+Apii 	Parsley, [^Of all the sorts of them.^] 
+Aristolochiæ 	Birthwort, [^Of all the sorts of them.^] 
+Betæ 	Beete, [^Of all the sorts of them.^] 
+Bituminis 	Brimstone, [^Of all the sorts of them.^] 
+Bliti 	<replaced orig="Spinage">Spinach</replaced>, [^Of all the sorts of them.^] 
+Brassicæ 	Colewort, [^Of all the sorts of them.^] 
+Cæpæ 	<replaced orig="Onyons">Onions</replaced>, [^Of all the sorts of them.^] 
+[^p.13^] 
+Calaminthe 	Calaminth, Of all the sorts of them. 
+Cedri 	Cedar, [^Of all the sorts of them.^] 
+Chelidonii 	Celandine, [^Of all the sorts of them.^] 
+Chondrillæ 	Succory, [^Of all the sorts of them.^] 
+Conizæ 	Fleabane, [^Of all the sorts of them.^] 
+Costi 	an Indian <replaced orig="herbe">herb</replaced>. [^Of all the sorts of them.^] 
+<replaced orig="Cyclaminis">Cyclamen</replaced> 	an <replaced orig="Herbe">Herb</replaced>, [^Of all the sorts of them.^] 
+Dauci 	Carrot, [^Of all the sorts of them.^] 
+Equiseti 	the herb, <replaced orig="Horsetaile">Horsetail</replaced>. [^Of all the sorts of them.^] 
+Hederæ 	Ivy, except ground Ivy, [^Of all the sorts of them.^] 
+Heliotropii 	Turnsol, [^Of all the sorts of them.^] 
+Hieracii 	<replaced orig="Hawke">Hawk</replaced> weed, [^Of all the sorts of them.^] 
+Intybi 	an <replaced orig="Herbe">Herb</replaced>. [^Of all the sorts of them.^] 
+Juniperi 	Juniper, [^Of all the sorts of them.^] 
+Leucoii 	Gelliflower, [^Of all the sorts of them.^] 
+Lychnidis 	an <replaced orig="Herbe">Herb</replaced>, [^Of all the sorts of them.^] 
+Malvæ 	<replaced orig="Mallowes">Mallows</replaced>, [^Of all the sorts of them.^] 
+Marrubii 	Horehound, [^Of all the sorts of them.^] 
+Mercurialis 	Mercury the <replaced orig="herbe">herb</replaced>, [^Of all the sorts of them.^] 
+<replaced orig="Myrthi">Mirth</replaced> 	<replaced orig="Mirtle">Myrtle</replaced>, [^Of all the sorts of them.^] 
+Nardi 	Spiknard, [^Of all the sorts of them.^] 
+Nympheæ 	Water <replaced orig="Lilly">Lily</replaced>, [^Of all the sorts of them.^] 
+Orcheos 	Ragwort, [^Of all the sorts of them.^] 
+Origani 	Organy, [^Of all the sorts of them.^] 
+Panacis 	an <replaced orig="herbe">herb</replaced>, [^Of all the sorts of them.^] 
+Pastinacæ 	Parsnip, [^Of all the sorts of them.^] 
+Picis 	Pitch, [^Of all the sorts of them.^] 
+Piperis 	Pepper, [^Of all the sorts of them.^] 
+Plantaginis 	<replaced orig="Plantaine">Plantain</replaced>, [^Of all the sorts of them.^] 
+Polygoni 	Polygony, male and female, [^Of all the sorts of them.^] 
+Porri 	<replaced orig="Leeke">Leek</replaced>, [^Of all the sorts of them.^] 
+Ranunculi 	Frogwort, [^Of all the sorts of them.^] 
+Resinæ 	Rosin, [^Of all the sorts of them.^] 
+Rhamni 	Bramble or Christs-Thorne, [^Of all the sorts of them.^] 
+[^p.14^] 
+Rosmarini 	Rosemary, Of all the sorts of them. 
+Rubi 	Great Bramble, [^Of all the sorts of them.^] 
+Rumicis 	<replaced orig="Soure">Sour</replaced> <replaced orig="docke">dock</replaced>, [^Of all the sorts of them.^] 
+Rutæ 	Rue, [^Of all the sorts of them.^] 
+Sabinæ 	Savin, [^Of all the sorts of them.^] 
+Sefelis 	an <replaced orig="Herbe">Herb</replaced>, [^Of all the sorts of them.^] 
+Sideritidis 	Wall Sage, [^Of all the sorts of them.^] 
+Symphyti 	Wallwort, [^Of all the sorts of them.^] 
+[^Beginning of a flowchart diagram.^] 
+Tithymalorum 
+	Sea <replaced orig="Lettice">Lattice</replaced>, [^Of all the sorts of them.^] 
+	Wolfs <replaced orig="milke">milk</replaced>, [^Of all the sorts of them.^] 
+	<replaced orig="Milke">Milk</replaced> Thistle, [^Of all the sorts of them.^] 
+[^End of a flowchart diagram.^] 
+Tribuli 	Thistle, [^Of all the sorts of them.^] 
+Valerianæ 	Setwall, [^Of all the sorts of them.^] 
+Ueratri 	<replaced orig="Helebore">Hellebore</replaced>, [^Of all the sorts of them.^] 
+Verbasci 	Longwort, [^Of all the sorts of them.^] 
+Urticæ 	Nettle, [^Of all the sorts of them.^] 
+[^End of a list figure.^] 
+ 
+And lastly, all herbs of the same species or sort 
+may be used for another, <replaced orig="unlesse">unless</replaced> something discovered 
+forbid, as in Perwinkle or which Dioscor. 
+writes that one sort gripes or frets, another loosens 
+the belly, another gathers and removes <replaced orig="choller">choler</replaced> 
+& <replaced orig="phlegme">phlegm</replaced>, but the chief sort <replaced orig="staies">stays</replaced> <replaced orig="womens">women's</replaced> courses, 
+and the Dysentery or bloody-flux. So the <replaced orig="wilde">wild</replaced> 
+Cucumber and Garden melons, and Colocynthis 
+differ in their operation; but this is wont to be 
+found in very few <replaced orig="herbes">herbs</replaced>. 
+ 
+Also heed is to be taken to the parts; for some 
+differ in their qualities, as the root Medium decocted 
+<replaced orig="stayes">stays</replaced> <replaced orig="womens">women's</replaced> courses, being taken for certain 
+<replaced orig="daies">days</replaced>: but the seed thereof taken in Wine brings 
+them down. The seed of Juniper may be taken inward, 
+but the shavings are discovered to be deadly 
+to kill. The Juice of the herb Coriander is thought 
+to be <replaced orig="mortall">mortal</replaced>, and yet the seed <replaced orig="medicinall">medicinal</replaced>. Therefore 
+it is better for <replaced orig="Physitians">Physicians</replaced> to use universals at 
+no time, but rather particulars; for, for the most 
+[^p.15^] 
+part there is the greatest difference betwixt those 
+which would be thought the <replaced orig="neerest">nearest</replaced>. 
+ 
+[^Beginning of a list figure.^] 
+Therefore for Adianth Venus <replaced orig="haire">hair</replaced>, Take Salvian, Politriton Maiden <replaced orig="haire">hair</replaced>, or Black Venus <replaced orig="haire">hair</replaced>. 
+[^Therefore for^] Leaves of Alsine, Chickweed, [^Take^] The leaves of Helxine Pellitory of the wall and contr. 
+[^Therefore for^] Amylon the <replaced orig="floure">flower</replaced> of Wheat, [^Take^] The flour of Siligo, or <replaced orig="Rie">Rye</replaced>, dry. 
+[^Therefore for^] <replaced orig="Apium">Opium</replaced> mon. Mountaine Parsley. [^Take^] Garden Parsley dry and in a greater dose. 
+[^Therefore for^] Beta al. white Beet [^Take^] Black Beet. 
+[^Therefore for^] Betony, [^Take^] Verveine. 
+[^Therefore for^] Herbs Bubonium Inguinaria or Star-wort, [^Take^] The <replaced orig="Herbe">Herb</replaced> Antirrhinon, and contra. 
+[^Therefore for^] <replaced orig="Buglosse">Bugloss</replaced> or broad-leafed Burrage, [^Take^] Narrow-leafed <replaced orig="Buglosse">Bugloss</replaced>. 
+[^Therefore for^] Cæpe <replaced orig="Onyon">Onion</replaced>, [^Take^] Portulacam <replaced orig="Purslaine">Purslane</replaced>. 
+[^Therefore for^] The <replaced orig="Herbe">Herb</replaced> Chamælea, [^Take^] The <replaced orig="herbe">herb</replaced> Thymelæa, Chamæpytis, Ground pine or <replaced orig="Laurell">Laurel</replaced> 
+[^Therefore for^] Chamæpyti or Ground Pine, [^Take^] Chamædrys, Germander, or the leaves of Eupatoria, Agrimony. 
+[^Therefore for^] Cichoria syl. Woodsuccory, [^Take^] Lyons tooth. 
+[^Therefore for^] Coniza Fleabane, the first sort, [^Take^] The second. 
+[^Therefore for^] The second, [^Take^] The third dry, & in a greater quantity. 
+[^p.16^] 
+For The leaves of Coriander. Take The leaves of Garden Petroseline outwardly <replaced orig="onely">only</replaced>. 
+[^For^] Dauci the leaves of Carrot, [^Take^] The leaves of either wild or garden Parsnip 
+[^For^] The first sort of Dittany [^Take^] The second, third, and so of the rest. 
+[^For^] The <replaced orig="herbe">herb</replaced> Dorieneon, [^Take^] Mandrake and contra. 
+[^For^] <replaced orig="Filix">Felix</replaced> femi. feminine <replaced orig="Fearne">Fern</replaced>, [^Take^] Masculine. 
+[^For^] Fumetory, [^Take^] Seenie. 
+[^For^] Halyca Barley [^Take^] An whole Ptisan of Avena <replaced orig="Oates">Oats</replaced>. 
+[^For^] The leaves of Hyppolapathon, Patience: Monks <replaced orig="Rubarb">Rhubarb</replaced>, [^Take^] The leaves of Lapathon a kind of dock. 
+[^For^] Hyppomarathon wild <replaced orig="Fennell">Fennel</replaced>, [^Take^] Coariander or Petroseline. 
+[^For^] Leaves of Hypecoi Rue, [^Take^] The leaves of <replaced orig="Poppey">Poppy</replaced>. 
+[^For^] Hypericon St. Iohns wort, Androsemon Tusane, [^Take^] The <replaced orig="herbe">herb</replaced> Ascyron or Schœnanthon. Camels <replaced orig="Haire">Hair</replaced>. 
+[^For^] <replaced orig="Hysope">Hyssop</replaced>, [^Take^] Organie or sweet Marjorum. 
+[^For^] Indian Malabathron, the <replaced orig="leafe">leaf</replaced>, [^Take^] The leaves of Citron, Lemon tree, <replaced orig="Cinamon">Cinnamon</replaced> tree, or common Mala bathron. 
+[^For^] The leaves of Labrusca or wild vine [^Take^] The leaves of garden Vine, <replaced orig="lesse">less</replaced> <replaced orig="prun'd">pruned</replaced>. 
+[^For^] <replaced orig="Lettice">Lattice</replaced> [^Take^] Garden Endive, & cont. 
+[^For^] Lathris Spurge, the leaves, [^Take^] The leaves of Tithymaris or Sea <replaced orig="Lettice">Lattice</replaced>. 
+[^For^] <replaced orig="Laurell">Laurel</replaced> leaves, [^Take^] Lemon leaves. 
+[^For^] The <replaced orig="herbe">herb</replaced> LepiSterile Libanotis. [^Take^] The <replaced orig="herbe">herb</replaced> Drabe Iberis or wild cresses or water cresses. Take The leaves of <replaced orig="crowne">crown</replaced> <replaced orig="Frankinsence">Frankincense</replaced>. 
+[^p.17^] 
+For <replaced orig="Mallowes">Mallows</replaced> Arbores. Take Althæa or <replaced orig="Mallowes">Mallows</replaced> of another kind. 
+[^For^] Wood <replaced orig="Mallowes">Mallows</replaced>. [^Take^] Garden <replaced orig="Mallowes">Mallows</replaced>. 
+[^For^] Melissa Mint. [^Take^] Marrubium Horehound and contra. or the Rine of the Lemon Tree. 
+[^For^] Mentha Mint. [^Take^] Balsamita Coarstmary. 
+[^For^] The Leaves of Myrthon Mockchervill. [^Take^] The Leaves of wood-Peare-Sumach, <replaced orig="Mastick">Mastic</replaced> Wild Olive, Service or Quince Trees. 
+[^For^] The leaves of the same. [^Take^] The berries of it and <replaced orig="greene">green</replaced> unripe <replaced orig="wallnuts">walnuts</replaced>. 
+[^For^] The white <replaced orig="Myrth">Mirth</replaced>. [^Take^] The black & contra. 
+[^For^] Nardum <replaced orig="Monta">Monte</replaced>. <replaced orig="Mountaine">Mountain</replaced> Spikenard. [^Take^] Italic, or French Spikenard. 
+[^For^] The Nymphæa Alba, white water <replaced orig="Lilly">Lily</replaced>. [^Take^] The yellow and contra. 
+[^For^] The leaves of the wild Olive. [^Take^] The leaves of the Olive Tree. 
+[^For^] The leaves of the Olive or <replaced orig="Mastick">Mastic</replaced>. [^Take^] The leaves of the Walnut, <replaced orig="Cypresse">Cypress</replaced> tree Pine or wild Pine. 
+[^For^] Oxyacantha vera, right white thorn. [^Take^] Pyrastrum the <replaced orig="wilde">wild</replaced> <replaced orig="Peare">Pear</replaced> tree. 
+[^For^] The leaves of white Poppy. [^Take^] The leaves of nightshade, black Poppy, & of white Henbane. 
+[^For^] The leaves of Peplus round headed spurge [^Take^] The leaves of Sea <replaced orig="Lettice">Lattice</replaced>, or spurge. 
+[^p.18^] 
+For The leaves of Philyrea mock Privet. Take Olive Tree Leaves and contra. 
+[^For^] Harts Tongue Phyllitis. [^Take^] Smooth spleenewort, Miltwaste or Ceterach and contra. 
+[^For^] The leaves of the Pitch Tree. [^Take^] The Leaves of the Pine Tree 
+[^For^] The leaves of Pithyusa Pine spurge. [^Take^] The Leaves of Tithymali Spurge or Milkwort. 
+[^For^] Polygonum the leaves of Masculst <replaced orig="not-grasse">knot-grass</replaced>. [^Take^] The Leaves of the Feminine of the same. 
+[^For^] <replaced orig="Pulegion">Pulegium</replaced> regal <replaced orig="Peny">Penny</replaced> <replaced orig="royall">royal</replaced>. [^Take^] French or Harts <replaced orig="Peny">Penny</replaced> <replaced orig="royall">royal</replaced>. 
+[^For^] Portulaca <replaced orig="Purslaine">Purslane</replaced>. [^Take^] <replaced orig="Vmbelicum">Umbelicum</replaced> Vexeris Kidneywort, Wall <replaced orig="Peniwort">Pennywort</replaced>. 
+[^For^] Ruta sylv. wild Rue. [^Take^] Dried Garden Rue in a greater quantity and contra. 
+[^For^] The leaves of Savin. [^Take^] The leaves of <replaced orig="Cypres">Cypress</replaced> juniper and Cassia. 
+[^For^] The leaves Sambuci Elder. [^Take^] The leaves of Ebuli, and contra. 
+[^For^] The leaves of female Sanguinalis Bloodwort. [^Take^] The leaves of Masculine, and contra. 
+[^For^] The greater sempervivum Howslick. [^Take^] The <replaced orig="smale">small</replaced> Kidneywort, or small <replaced orig="Penywort">Pennywort</replaced>. 
+[^For^] Scride Endive. [^Take^] Chondrillam <replaced orig="Gumme">Gum</replaced> Succory. 
+[^For^] The leaves of Seris Endive. [^Take^] The leaves of <replaced orig="Lettice">Lattice</replaced>. 
+[^For^] Smyrnium Lovage [^Take^] Parsley or rock <replaced orig="Parsly">Parsley</replaced>. 
+[^p.19^] 
+For Garden nightshade. Take Halicacabum, Winter cherries. 
+[^For^] Soncho common Sowthistle. [^Take^] Prickly Sowthistle. 
+[^For^] The leaves of the service Tree. [^Take^] The leaves of the medlar Tree and contra. 
+[^For^] Indian spicknard. [^Take^] Syriack or Valerian. 
+[^For^] Italian spikenard. [^Take^] The Garden sort of it. 
+[^For^] Stæbe Diosc Thorny burnet. [^Take^] Knapweed Scabeous, Shepeards purse, <replaced orig="dasies">daisies</replaced> all sorts and Cudwort. 
+[^For^] The leaves of <replaced orig="Rocke">Rock</replaced> Wallwort or Comfrey. [^Take^] The leaves of another sort or <replaced orig="selfe">self</replaced> <replaced orig="heale">heal</replaced>. 
+[^For^] Orpine Telephum. [^Take^] <replaced orig="Purslaine">Purslane</replaced>. 
+[^For^] The leaves of Terebinthi the Turpine Tree [^Take^] The leaves of the <replaced orig="Mastick">Mastic</replaced> Tree. 
+[^For^] The sorts of Thlaspi Treacle Mustard. [^Take^] Nasturtia Cresses. 
+[^For^] Thymbra Savory. [^Take^] Time & mother Time. 
+[^For^] <replaced orig="Tyme">Time</replaced> [^Take^] Savory, Organy. 
+[^For^] The leaves of one sort of Spurg, or Milkwort. [^Take^] The leaves of another sort in purging. 
+[^For^] <replaced orig="Goates">Goats</replaced> Marjorum. [^Take^] Organy and Contra. 
+[^For^] Land caltrops, in cooling receipts. [^Take^] Water caltrops, not in moistning medicines. 
+[^For^] The leaves of one sort Verbasci of Mullein. [^Take^] The leaves of another sort. 
+[^For^] White Briony. [^Take^] Black and contra 
+[^For^] The leaves and seeds Diticis of the Chast-tree. [^Take^] The leaves and seed of Rue. 
+[^End of a list figure.^] 
+ 
+[^p.20^] 
+[}Succedanea of Seeds.}] 
+ 
+ 
+[^Beginning of a list figure.^] 
+For The seed of Asarabacca. Take The seed of Furse or Thorne <replaced orig="broome">broom</replaced>. 
+[^For^] The Seed of Bastard Saffron. [^Take^] Nettle Seed or <replaced orig="Agarick">Agaric</replaced> not made into a Trochus. 
+[^For^] Mandrakes seed. [^Take^] Hemlock seed. 
+[^For^] The seeds of the <replaced orig="Myrthi">Mirth</replaced> Myrtle. [^Take^] Of the Barbery Tree and contra. 
+[^For^] Turnop seed. [^Take^] Rape seed. 
+[^End of a list figure.^] 
+ 
+[}Succedanea of Juices.}] 
+ 
+[^Beginning of a list figure.^] 
+For For Juice of Wormwood. Take Of Southernewood <replaced orig="wel">well</replaced> prepared, or of the <replaced orig="centory">centaury</replaced>, or of either sort of Cosemary, or <replaced orig="Maudline">Maudlin</replaced>. or 
+[^For^] The Juice of <replaced orig="Wormewood">Wormwood</replaced>. [^Take^] The juice of Pontick, or Roman wormwood in outward remedies: Levant Wormwood if <replaced orig="washt">washed</replaced>, may gently be given inwardly. 
+[^For^] The Juice of Acacia binding beanetree. [^Take^] Of the Black Thorne, Slowbush, or selfeheale. 
+[^For^] <replaced orig="Fountaine">Fountain</replaced> water. [^Take^] River water. 
+[^For^] The juice of the Pomecitron. [^Take^] Of Lemon. 
+[^For^] Of Sowbread. [^Take^] Of Flower deluce. 
+[^For^] The Juice of Licoris. [^Take^] Of the same decocted and infused; or of Raisons of the <replaced orig="Sunne">Sun</replaced>, or Cute. 
+[^For^] The juice of Boxthorne. [^Take^] Of Felwort in ulcers. 
+[^For^] The Juice of the same. [^Take^] The Lees of <replaced orig="Oyle">Oil</replaced>. 
+[^p.21^] 
+For Grape Varjuice. Take Of <replaced orig="Sumack">Sumac</replaced> and cont. 
+[^For^] Opium the juice of the heads of Poppies. [^Take^] Meconium or the juice of the Leaves, or the Juice of wild or garden <replaced orig="Lettice">Lattice</replaced> in a greater quantity. 
+[^For^] Opobalsamum, the juice of the <replaced orig="Balsame">Balsam</replaced> tree. [^Take^] Stacte or the juice of Storax not adulterated, or of Myrrh. 
+[^End of a list figure.^] 
+In infusion for digestion, take the <replaced orig="Oyle">Oil</replaced> of 
+Italian Spike or Spiknard. 
+[^Beginning of a list in three columns.^] 
+For The juice of 
+Spurge Olive. 
+[^A column change.^] 
+Take 
+[^A column change.^] 
+Of <replaced orig="Dwarfe">Dwarf</replaced> Bay. 
+[^End of a list in three columns.^] 
+ 
+[}Succedanea of Liquors and <replaced orig="Gummes">Gums</replaced>.}] 
+ 
+[^Beginning of a list figure.^] 
+For Turpentine of the <replaced orig="Firr">Fur</replaced> tree. Take Of the Pine. 
+[^For^] Aspalth the dry pitch of India, [^Take^] The <replaced orig="Oyle">Oil</replaced> of Peter and contra. 
+[^For^] Cedar Rosin, [^Take^] The <replaced orig="oyle">oil</replaced> of the <replaced orig="bowes">bows</replaced> of Juniper, or the <replaced orig="gumme">gum</replaced> of Juniper. 
+[^For^] <replaced orig="Cypresse">Cypress</replaced> Rosin, [^Take^] Larch tree Rosin. 
+[^For^] Gum Lake, [^Take^] Myrrh. 
+[^For^] Manna of the Frankincense tree, [^Take^] The <replaced orig="barke">bark</replaced> to which some of the Frankincense <replaced orig="sticketh">sticks</replaced>. 
+[^For^] <replaced orig="Mastick">Mastic</replaced>, [^Take^] <replaced orig="Turpintine">Turpentine</replaced> of Fir tree <replaced orig="hardned">hardened</replaced> or <replaced orig="dryed">dried</replaced>. 
+[^For^] <replaced orig="Mumme">Mum</replaced>, [^Take^] Pisaphaltum or Bituminous, hard Pitch. 
+[^For^] Myrrh, [^Take^] Bdellium of the juice of Alisanders and Parsley. 
+[^For^] For the <replaced orig="Gumme">Gum</replaced> of the Olive tree, [^Take^] Of <replaced orig="gumme">gum</replaced> Elemni. 
+[^For^] Opobalsanum, the juice of the <replaced orig="Balsame">Balsam</replaced> tree, [^Take^] Stacte or liquid <replaced orig="Balme">Balm</replaced> prepared by nature or art. The liquor of the Turpine tree. 
+[^End of a list figure.^] 
+ 
+[^p.22^] 
+Not the juice of Carpalus; not <replaced orig="Oyle">Oil</replaced> of <replaced orig="Lawrell">Laurel</replaced>, not 
+the liquor of <replaced orig="Myrthi">Mirth</replaced> nor the seed of Setwall, 
+as some have prescribed. 
+ 
+[^Beginning of a list figure.^] 
+For Carpobalsamum, the berries or fruit of the <replaced orig="Balsame">Balsam</replaced> tree. Take The seed of the <replaced orig="Mastick">Mastic</replaced> tree or Turpine tree, of which there are divers sorts. Cubebs in a smaller dose or two parts of the seed of the turpine tree and of Cubebs. 
+[^For^] Opopanax the Gum of Frankincense. [^Take^] The Gum of Amomum, or Galbanum, or Bdelliu~ in outward remedies. 
+[^For^] Stone pitch, [^Take^] Pine Rosin <replaced orig="boyld">boiled</replaced>. 
+[^For^] Soft pitch, [^Take^] Stone pitch dissolved in <replaced orig="oyle">oil</replaced>, or <replaced orig="softned">softened</replaced> in <replaced orig="Oyle">Oil</replaced> Juniper. 
+[^For^] Pissaphaltum, Bituminous pitch, [^Take^] Pitch and Brimstone. 
+[^For^] Storax, [^Take^] Benjamin. 
+[^For^] Turpentine, [^Take^] <replaced orig="Mastick">Mastic</replaced>. 
+[^For^] Xylobalsamum, the wood of the <replaced orig="Balsame">Balsam</replaced> tree. [^Take^] Shoots or sprouts of the <replaced orig="Mastick">Mastic</replaced> tree. 
+[^End of a list figure.^] 
+[}Succedanea of Minerals.}] 
+ 
+For Antimony take burnt Lead & contra, or burnt 
+<replaced orig="Tinne">Tin</replaced>. For Cadmia ore of <replaced orig="Brasse">Brass</replaced>, take the stone out 
+of which it is extracted. For the Flower of <replaced orig="Brasse">Brass</replaced>, 
+take the green rust. For white Lead, take burnt 
+Lead, or Lead ore For Lead, take <replaced orig="Tinne">Tin</replaced>. For the 
+<replaced orig="soile">soil</replaced> or ore of <replaced orig="Brasse">Brass</replaced> or Pompholix, take Spodium 
+the soot of the trying of <replaced orig="Brasse">Brass</replaced>. For <replaced orig="Sandarack">Sandarac</replaced>, red 
+<replaced orig="Arsenick">Arsenic</replaced>, take <replaced orig="Arsenick">Arsenic</replaced> Orpine. For Spodium the 
+soot of the trying of <replaced orig="Brasse">Brass</replaced>, take Antispodium. Ashes 
+made of the Myrtle, <replaced orig="Mastick">Mastic</replaced>, and <replaced orig="Oyle">Oil</replaced> of the <replaced orig="wilde">wild</replaced> 
+Olive, Quince trees and Harts <replaced orig="horne">horn</replaced>. 
+ 
+[}The end.}] 
+ 
